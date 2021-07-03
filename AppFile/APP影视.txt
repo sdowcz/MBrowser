@@ -61,7 +61,7 @@
 "title":"稻草人视频",
 "url":"http://www.zhaikanys.xyz/api.php/iptv/vod/",
 "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/稻草人视频.png"
-}
+},
 ]
 },
 {
@@ -136,7 +136,7 @@
 "title":"追剧达人",
 "url":"http://vipmv.tv/api.php/app/",
 "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/追剧达人.png"
-}
+},
 ]
 },
 {
@@ -321,7 +321,7 @@
 "title":"追影兔",
 "url":"http://longw.xyz:91/api.php/v1.vod",
 "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/追影兔.png"
-}
+},
 ]
 },
 {
@@ -346,7 +346,7 @@
 "title":"南府追剧",
 "url":"http://app.xkvideo.design/api.php/v1.vod",
 "img""https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/南府追剧.png"
-}
+},
 ]
 }
 ]
