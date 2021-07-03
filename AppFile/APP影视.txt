@@ -185,7 +185,7 @@
 {
 "title":"大熊追剧",
 "url":"http://www.dxzj88.com/mogai_api.php/v1.vod",
-"img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/大熊.png"
+"img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/大熊追剧.png"
 },
 {
 "title":"飞捷影视",
@@ -218,9 +218,9 @@
 "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/蓝鲸视界.png"
 },
 {
-"title":"麻瓜影视",
+"title":"麻瓜视频",
 "url":"http://myapp.maguays.cc/mogai_api.php/v1.vod",
-"img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/麻瓜影视.png"
+"img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/麻瓜视频.png"
 },
 {
 "title":"喵乐影视",
@@ -333,9 +333,9 @@
 "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/555电影.png"
 },
 {
-"title":"影视工厂(毒舌)",
+"title":"影视工场(毒舌)",
 "url":"https://www.ik4.cc/api.php/app/",
-"img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/影视工厂.png"
+"img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/影视工场.png"
 },
 {
 "title":"粉粉影视(白菜)",
