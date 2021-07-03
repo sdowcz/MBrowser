@@ -1,0 +1,34 @@
+var loadurl=getVar("上级");
+var u=getVar("url");
+if(loadurl.indexOf("api.php/app")!=-1||loadurl.indexOf("api.php/v1.vod")!=-1){
+    if(u.indexOf(".m3u8")!=-1||u.indexOf(".mp4")!=-1){
+        if(u.indexOf(".mp4")!=-1){
+            var uu=u.split("wd=")[1];
+            JSON.stringify({url:uu});
+        }else{
+            JSON.stringify({url:u});
+        }
+    }else if(u.indexOf("bilibili")!=-1){
+        "web=https://jx.qianhaijishi.net/?url="+u;
+    }else if(u.indexOf("8090g.cn/jiexi")!=-1||u.indexOf("yingshi.waruanzy.com/jie")!=-1||u.indexOf("jx.vd5.cc")!=-1||u.indexOf("huya")!=-1||u.indexOf("http://api.xkvideo.design/m3u8.php?url=")!=-1||u.indexOf("http://www.pangujiexi.com/jiexi/?url=")!=-1||u.indexOf("http://51wujin.net/?url=")!=-1||u.indexOf("http://vip123kan.vip:520/m3u8.php?url=")!=-1||u.indexOf("http://api.cxitco.cn/danmu/?url=")!=-1||u.indexOf("http://jx.shouyihuo.top/?url=")!=-1||u.indexOf("http://jx.quanmingjiexi.com/?url=")!=-1||u.indexOf("http://longw.xyz:91/player/jiexi.php?url=")!=-1||u.indexOf("http://vip.fj6080.xyz/player/?url=")!=-1||u.indexOf("http://vip.parwix.com:4433/player/?url=")!=-1||u.indexOf("http://jx3.qwys8.tv/?url=")!=-1||u.indexOf("http://vip.iqiyi.io/?url=")!=-1||u.indexOf("http://svip.4kyima.com:7777/api/?type=app&key=")!=-1||u.indexOf("http://jsap.attakids.com/?url=")!=-1||u.indexOf("http://qimihe.com/?url=")!=-1||u.indexOf("http://lvdoutv.cn/player/jiexi.php?url=")!=-1||u.indexOf("http://789pan.gaotian.love/danmu/?url=")!=-1){
+        "web="+u;
+    }else if(u.indexOf("mufeng.wkfile.com/appjson/appjson.php")!=-1||u.indexOf("vip.spacewall.net.cn/api")!=-1||u.indexOf("dtjug.cn/api")!=-1||u.indexOf("http://jx789.huimaojia.com:9999/")!=-1||u.indexOf("hd8.pw/?url=")!=-1||u.indexOf("http://jx.ccabc.cc/app/?url=")!=-1){
+        var uu=u.split("url=")[1];
+        var uuu="http://vip.vip123kan.vip:520/?url="+uu;
+        var resp=getHttp(JSON.stringify({url:uuu}));
+        var uuuu=JSON.parse(resp).url;
+        JSON.stringify({url:uuuu});
+    }else if(u.indexOf("url=renrenmi-")!=-1){
+        JSON.stringify({url:u+"&_type=.m3u8"})
+    }else{
+        var resp=getHttp(JSON.stringify({url:u}));
+        var uu=JSON.parse(resp).url;
+        JSON.stringify({url:uu});
+    }
+}else{
+    if(u.indexOf(".m3u8")!=-1||u.indexOf(".mp4")!=-1){
+        JSON.stringify({url:u});
+    }else{
+        "web="+u;
+    }
+}
