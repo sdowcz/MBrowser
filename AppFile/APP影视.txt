@@ -3,6 +3,11 @@
 "title":"TV影视",
 "list":[
 {
+"title":"橙子影视",
+"url":"http://tv.aitesucai.xyz/api.php/lh/vod/",
+"img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/橙子影视.png"
+},
+{
 "title":"大师兄影视",
 "url":"http://tv.zz.ci/api.php/iptv/vod/",
 "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/大师兄影视.png"
@@ -43,6 +48,11 @@
 "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/云播影视.png"
 },
 {
+"title":"云海影视",
+"url":"http://happiness.xfykl.club/api.php/lh/vod/",
+"img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/云海影视.png"
+},
+{
 "title":"西门影视",
 "url":"https://ximenys.com/api.php/lh/vod/",
 "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/西门影视.png"
@@ -50,11 +60,6 @@
 {
 "title":"柚子TV",
 "url":"http://tvht.lanrentk.cc/api.php/iptv/vod/",
-"img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/柚子TV.png"
-},
-{
-"title":"柚子TV2",
-"url":"http://tv.aitesucai.xyz/api.php/lh/vod/",
 "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/柚子TV.png"
 },
 {
