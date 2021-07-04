@@ -168,6 +168,11 @@
 "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/VIP影视.png"
 },
 {
+"title":"VIP影院",
+"url":"http://v3.21dvd.com/api.php/v1.vod",
+"img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/VIP影院.png"
+},
+{
 "title":"爱影视",
 "url":"https://www.hzlff.cn/api.php/v1.vod",
 "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/爱影视.png"
