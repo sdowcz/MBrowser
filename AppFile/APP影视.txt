@@ -8,6 +8,11 @@
 "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/橙子影视.png"
 },
 {
+"title":"稻草人视频",
+"url":"http://www.zhaikanys.xyz/api.php/iptv/vod/",
+"img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/稻草人视频.png"
+},
+{
 "title":"大师兄影视",
 "url":"http://tv.zz.ci/api.php/iptv/vod/",
 "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/大师兄影视.png"
@@ -61,11 +66,6 @@
 "title":"柚子TV",
 "url":"http://tvht.lanrentk.cc/api.php/iptv/vod/",
 "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/柚子TV.png"
-},
-{
-"title":"稻草人视频",
-"url":"http://www.zhaikanys.xyz/api.php/iptv/vod/",
-"img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/稻草人视频.png"
 }
 ]
 },
