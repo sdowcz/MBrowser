@@ -14,7 +14,7 @@ if(loadurl.indexOf("api.php/app")!=-1||loadurl.indexOf("api.php/v1.vod")!=-1){
         "web="+u;
     }else if(u.indexOf("mufeng.wkfile.com/appjson/appjson.php")!=-1||u.indexOf("vip.spacewall.net.cn/api")!=-1||u.indexOf("dtjug.cn/api")!=-1||u.indexOf("jx789.huimaojia.com:9999")!=-1||u.indexOf("hd8.pw/?url=")!=-1||u.indexOf("jx.ccabc.cc/app")!=-1||u.indexOf("vip.9080ysw.com:433/jiexi/jx.php")!=-1||u.indexOf("jx.hmgdxf.com/zajson")!=-1||u.indexOf("www.m3u8.tv.cache.janan.net:4433/mgtv1206")!=-1||u.indexOf("json.m3u8.tv:7788/json.php")!=-1){
         var uu=u.split("url=")[1];
-        var uuu="http://vip.vip123kan.vip:520/?url="+uu;
+        var uuu="http://jhsj.manduhu.com/?url="+uu;
         var resp=getHttp(JSON.stringify({url:uuu}));
         var uuuu=JSON.parse(resp).url;
         JSON.stringify({url:uuuu});
