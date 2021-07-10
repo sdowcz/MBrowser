@@ -133,11 +133,6 @@
 "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/琳琅影视.png"
 },
 {
-"title":"氢视频",
-"url":"http://hmgdxf.com/api.php/app/",
-"img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/氢视频.png"
-},
-{
 "title":"柚子影视",
 "url":"https://www.10dy.net/api.php/app/",
 "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/柚子影视.png"
