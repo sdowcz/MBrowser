@@ -23,11 +23,6 @@
 "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/黑龙影视.png"
 },
 {
-"title":"火鸟影视",
-"url":"http://www.changjinhai.work/api.php/iptv/vod/",
-"img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/火鸟影视.png"
-},
-{
 "title":"聚多影视",
 "url":"http://jdys.chxjon.cn/api.php/iptv/vod/",
 "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/聚多影视.png"
@@ -61,11 +56,6 @@
 "title":"云海影视",
 "url":"http://happiness.xfykl.club/api.php/lh/vod/",
 "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/云海影视.png"
-},
-{
-"title":"西门影视",
-"url":"https://ximenys.com/api.php/lh/vod/",
-"img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/西门影视.png"
 },
 {
 "title":"柚子TV",
@@ -131,11 +121,6 @@
 "title":"琳琅影视",
 "url":"https://www.u23c.com/api.php/app/",
 "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/琳琅影视.png"
-},
-{
-"title":"柚子影视",
-"url":"https://www.10dy.net/api.php/app/",
-"img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/柚子影视.png"
 },
 {
 "title":"追剧达人",
