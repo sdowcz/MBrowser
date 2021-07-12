@@ -198,6 +198,11 @@
 "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/大熊追剧.png"
 },
 {
+"title":"段友影视",
+"url":"http://jimmyzhao.top/api.php/v1.vod",
+"img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/段友影视.png"
+},
+{
 "title":"飞捷影视",
 "url":"http://www.fj6080.com/api.php/v1.vod",
 "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/飞捷影视.png"
