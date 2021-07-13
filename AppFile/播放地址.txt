@@ -32,7 +32,7 @@ if(loadurl.indexOf("api.php/app")!=-1||loadurl.indexOf("api.php/v1.vod")!=-1){
         if(u.indexOf("mgtv")!=-1){
             JSON.stringify({url:u+"&_type=.mp4"})
         }else{
-        JSON.stringify({url:u+"&_type=.m3u8"})
+            JSON.stringify({url:u+"&_type=.m3u8"})
         }
     }else{
         "web="+u;
