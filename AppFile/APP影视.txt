@@ -84,7 +84,7 @@
 },
 {
 "title":"畅视影视",
-"url":"https://www.bofangya.com/api.php/app/",
+"url":"http://app.reboju.net/api.php/app/",
 "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/畅视影视.png"
 },
 {
