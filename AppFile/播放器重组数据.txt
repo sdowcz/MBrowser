@@ -39,13 +39,15 @@ if(上级地址.indexOf("api.php/app")!=-1){
             if(接口.indexOf("vip.parwix.com")!=-1){
                 接口="http://42.51.48.17/?url=";
             }else{
-                接口；
+                接口;
+            }
         }else if(e2Rex(CODE,".json(player_info).json(parse)").indexOf("=")!=-1){
             var 接口="http:"+e2Rex(CODE,".json(player_info).json(parse)").match(/\/\/[^,]*=/)[0].replace("..",".");
             if(接口.indexOf("vip.parwix.com")!=-1){
                 接口="http://42.51.48.17/?url=";
             }else{
-                接口；
+                接口;
+            }
         }else{
             var 接口="";
         }
