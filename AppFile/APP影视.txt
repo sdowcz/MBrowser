@@ -28,6 +28,11 @@
 "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/黑龙影视.png"
 },
 {
+"title":"核桃影视",
+"url":"http://tv.hetaoys.vip/api.php/iptv/vod/",
+"img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/核桃影视.png"
+},
+{
 "title":"聚多影视",
 "url":"http://jdys.chxjon.cn/api.php/iptv/vod/",
 "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/聚多影视.png"
