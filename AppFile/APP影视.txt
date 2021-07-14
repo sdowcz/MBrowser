@@ -208,6 +208,11 @@
 "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/好看剧.png"
 },
 {
+"title":"核桃影视",
+"url":"http://app.hetaoys.vip/api.php/v1.vod",
+"img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/核桃影视.png"
+},
+{
 "title":"快播吧",
 "url":"http://www.hd8.pw/api.php/v1.vod",
 "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/快播吧.png"
@@ -276,6 +281,11 @@
 "title":"淘剧社",
 "url":"http://app.shuhai99.com/api.php/v1.vod",
 "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/淘剧社.png"
+},
+{
+"title":"团夕影视",
+"url":"http://119.29.121.48/api.php/v1.vod",
+"img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/团夕影视.png"
 },
 {
 "title":"吾爱影视",
