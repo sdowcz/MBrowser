@@ -1,4 +1,4 @@
 {
 "version":"20210716",
-"url":"http://db.293ys.top:81/api.php/iptv/vod/"
+"qmCode":"http://db.293ys.top:81/api.php/iptv/vod/"
 }
