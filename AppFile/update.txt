@@ -1,4 +1,4 @@
-<NewVersion>20210716</NewVersion>
+<检测>20210716</检测>
 <ul class="当前">
     <li>
         <a>搜罗影视APP，看剧不求人</a>
