@@ -1,11 +1,11 @@
 <NewVersion>20210716</NewVersion>
-<ul class="tips">
+<ul class="当前">
     <li>
         <a>搜罗影视APP，看剧不求人</a>
         <p>期待下一次更新</p>
     </li>
 </ul>
-<ul class="New">
+<ul class="新版">
     <li>
         <a>有新版本，请点击更新</a>
         <p>mapi:qm/轻站《APP影视》，复制到M浏览器使用
