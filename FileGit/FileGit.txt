@@ -6,7 +6,7 @@
         "title":"InMemory",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/云播影视.png",
         "info":"http://saohuotv.com"
-            "list":[
+        "list":[
             {
             "name":"极品影视",
             "url":"https://www.jpysvip.net",
@@ -19,7 +19,7 @@
             "img":"https://egwang186.coding.net/p/egwang186/d/iptv/git/raw/master/js2.0/saohuotv.png",
             "murl":"http://saohuotv.com"
             }
-            ]
+        ]
         }
     ],
     {
@@ -29,7 +29,7 @@
         "title":"InMemory",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/云播影视.png",
         "info":"http://saohuotv.com"
-            "list":[
+        "list":[
             {
             "name":"极品影视",
             "url":"https://www.jpysvip.net",
@@ -42,7 +42,9 @@
             "img":"https://egwang186.coding.net/p/egwang186/d/iptv/git/raw/master/js2.0/saohuotv.png",
             "murl":"http://saohuotv.com"
             }
-            ]
+        ]
         }
-    ]}
+    ]
+}
+}]
 }
