@@ -38,13 +38,11 @@
         },
         {
             "title":"脚本",
-            "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/update.png",
-            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/update.txt",
             "typelist":[
                 {
                     "title":"影视",
-                    "img":"http",
-                    "url":"http",
+                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/update.png",
+                    "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/update.txt",
                     "list":[
                         {
                             "name":"小白工具箱",
