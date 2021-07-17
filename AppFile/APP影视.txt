@@ -1,4 +1,4 @@
-{"update":[{"title":"有新版本，请点击下方按钮更新","new":"20210717","data":[{"list":[{"title":"进入更新","url":"q:update","murl":"q:update","img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/update.png"}]}]}],"data":[
+{"update":[{"title":"有新版本，请点击下方按钮更新","new":"20210717","list":[{"title":"进入更新","url":"q:update","murl":"q:update","img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/update.png"}]}],"data":[
 {
 "title":"TV影视",
 "list":[
