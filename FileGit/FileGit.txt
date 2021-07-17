@@ -9,7 +9,7 @@
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/update.png",
                     "list":[
                         {
-                            "name":"APP影视",,
+                            "name":"APP影视",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/update.txt",
                             "murl":"mapi:qm/"
                         },
