@@ -15,7 +15,7 @@
                         },
                         {
                             "name":"APP影视",
-                            "url":"http"
+                            "url":"mapi:qm/"
                         }
                     ]
                 },
@@ -26,11 +26,11 @@
                     "list":[
                         {
                             "name":"APP影视",
-                            "url":"http"
+                            "url":"mapi:qm/"
                         },
                         {
                             "name":"龙猫追剧",
-                            "url":"http"
+                            "url":"mapi:qm/"
                         }
                     ]
                 }
@@ -49,7 +49,7 @@
                             "url":"http"
                         },
                         {
-                            "name":"一个影视",
+                            "name":"觅影",
                             "url":"http"
                         }
                     ]
