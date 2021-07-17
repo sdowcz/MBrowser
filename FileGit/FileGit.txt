@@ -10,7 +10,7 @@
                     "list":[
                         {
                             "name":"APP影视",,
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/update.txt"
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/update.txt",
                             "murl":"mapi:qm/"
                         },
                         {
