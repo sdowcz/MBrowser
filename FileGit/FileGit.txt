@@ -1,44 +1,49 @@
 {"data":[
     {
     "title":"轻站",
-    "qm":[{
-            "author":"InMemory",
-            "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/云播影视.png",
+    "alllist":[
+        {
+        "title":"InMemory",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/云播影视.png",
+        "info":"http://saohuotv.com"
             "list":[
-                {
-                "title":"555电影",
-                "url":"http://www.o8tv.com/api.php/app/",
-                "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/update.txt",
-                "murl":"mapi:qm/"
-                },
-                {
-                "title":"913E影视",
-                "url":"https://www.913e.com/api.php/app/",
-                "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/update.txt",
-                "murl":"mapi:qm/"
-                }
+            {
+            "name":"极品影视",
+            "url":"https://www.jpysvip.net",
+            "img":"https://egwang186.coding.net/p/egwang186/d/iptv/git/raw/master/js2.0/jpyslogo.png",
+            "murl":"http://saohuotv.com"
+            },
+            {
+            "name":"骚火电影",
+            "url":"http://saohuotv.com",
+            "img":"https://egwang186.coding.net/p/egwang186/d/iptv/git/raw/master/js2.0/saohuotv.png",
+            "murl":"http://saohuotv.com"
+            }
             ]
-    ]}
+        }
+    ]
     },
     {
-    "title":"脚本",
-    "script":[{
-            "author":"InMemory",
-            "intro":"20210717",
+    "title":"轻站",
+    "alllist":[
+        {
+        "title":"InMemory",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/云播影视.png",
+        "info":"http://saohuotv.com"
             "list":[
-                {
-                "title":"555电影",
-                "url":"http://www.o8tv.com/api.php/app/",
-                "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/update.txt",
-                "murl":"mapi:qm/"
-                },
-                {
-                "title":"913E影视",
-                "url":"https://www.913e.com/api.php/app/",
-                "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/update.txt",
-                "murl":"mapi:qm/"
-                }
+            {
+            "name":"极品影视",
+            "url":"https://www.jpysvip.net",
+            "img":"https://egwang186.coding.net/p/egwang186/d/iptv/git/raw/master/js2.0/jpyslogo.png",
+            "murl":"http://saohuotv.com"
+            },
+            {
+            "name":"骚火电影",
+            "url":"http://saohuotv.com",
+            "img":"https://egwang186.coding.net/p/egwang186/d/iptv/git/raw/master/js2.0/saohuotv.png",
+            "murl":"http://saohuotv.com"
+            }
             ]
-    }]
-    }
-}
+        }
+    ]
+]}
