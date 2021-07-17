@@ -7,14 +7,14 @@
                 {
                     "title":"InMemory",
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/update.png",
-                    "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/update.txt",
                     "list":[
                         {
-                            "name":"APP影视",
-                            "url":"mapi:qm/"
+                            "name":"APP影视",,
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/update.txt"
+                            "murl":"mapi:qm/"
                         },
                         {
-                            "name":"APP影视",
+                            "name":"龙猫追剧",
                             "url":"mapi:qm/"
                         }
                     ]
@@ -22,7 +22,6 @@
                 {
                     "title":"木白",
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/update.png",
-                    "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/update.txt",
                     "list":[
                         {
                             "name":"APP影视",
@@ -42,7 +41,6 @@
                 {
                     "title":"影视",
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/update.png",
-                    "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/update.txt",
                     "list":[
                         {
                             "name":"小白工具箱",
@@ -57,7 +55,6 @@
                 {
                     "title":"工具",
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/update.png",
-                    "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/update.txt",
                     "list":[
                         {
                             "name":"夜间模式",
