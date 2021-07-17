@@ -5,26 +5,37 @@
 {
 "title":"InMemory",
 "url":"http://fx.movie06.com/api.php/app/",
-"img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/555电影.png",
-"murl":"q:AppContent"
+"img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/555电影.png"
+    "list":[
+    {
+    "title":"APP影视",
+    "url":"http://db.293ys.top:81/api.php/iptv/vod/",
+    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/293影院.png",
+    "murl":"q:AppContent"
+    },
+    {
+    "title":"橙子影视",
+    "url":"http://tv.aitesucai.xyz/api.php/lh/vod/",
+    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/橙子影视.png",
+    "murl":"q:AppContent"
+    }
+    ]
+    }
 },
 {
 "title":"影视工场(毒舌)",
 "url":"https://www.ik4.cc/api.php/app/",
-"img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/影视工场.png",
-"murl":"q:AppContent"
+"img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/影视工场.png"
 },
 {
 "title":"脚本",
 "url":"http://huluxiaindex.huimaojia.com:30130/mogai_api.php/v1.vod",
-"img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/粉粉影视.png",
-"murl":"q:AppContent"
+"img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/粉粉影视.png"
 },
 {
 "title":"南府追剧",
 "url":"http://app.xkvideo.design/api.php/v1.vod",
-"img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/南府追剧.png",
-"murl":"q:AppContent"
+"img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/南府追剧.png"
 }
 ]
 }
