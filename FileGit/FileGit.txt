@@ -7,6 +7,7 @@
                 {
                     "title":"InMemory",
                     "img":"http",
+                    "url":"http",
                     "list":[
                         {
                             "name":"APP影视",
@@ -21,6 +22,7 @@
                 {
                     "title":"木白",
                     "img":"http",
+                    "url":"http",
                     "list":[
                         {
                             "name":"APP影视",
@@ -37,6 +39,7 @@
         {
             "title":"脚本",
             "img":"http",
+            "url":"http",
             "typelist":[
                 {
                     "title":"影视",
@@ -54,6 +57,7 @@
                 {
                     "title":"工具",
                     "img":"http",
+                    "url":"http",
                     "list":[
                         {
                             "name":"夜间模式",
