@@ -1,4 +1,4 @@
-{"update":[{"version":"20210717","url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/update.txt"}],"data":[
+{"update":[{"version":"20210717","updateUrl":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/update.txt"}],"data":[
 {
 "title":"TV影视",
 "list":[
