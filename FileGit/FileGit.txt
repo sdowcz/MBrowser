@@ -6,7 +6,7 @@
 "title":"InMemory",
 "url":"http://fx.movie06.com/api.php/app/",
 "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/555电影.png"
-    "list":[
+"list":[
     {
     "title":"APP影视",
     "url":"http://db.293ys.top:81/api.php/iptv/vod/",
@@ -21,6 +21,7 @@
     }
     ]
     }
+]
 }
 ]
 }
