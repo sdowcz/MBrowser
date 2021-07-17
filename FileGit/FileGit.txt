@@ -15,7 +15,8 @@
                         },
                         {
                             "name":"龙猫追剧",
-                            "url":"mapi:qm/"
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/update.txt",
+                            "murl":"mapi:qm/"
                         }
                     ]
                 },
@@ -25,11 +26,13 @@
                     "list":[
                         {
                             "name":"APP影视",
-                            "url":"mapi:qm/"
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/update.txt",
+                            "murl":"mapi:qm/"
                         },
                         {
                             "name":"龙猫追剧",
-                            "url":"mapi:qm/"
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/update.txt",
+                            "murl":"mapi:qm/"
                         }
                     ]
                 }
