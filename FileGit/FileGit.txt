@@ -20,7 +20,6 @@
             "murl":"http://saohuotv.com"
             }
         ]
-        }
     ],
     {
     "title":"轻站",
@@ -42,9 +41,9 @@
             "img":"https://egwang186.coding.net/p/egwang186/d/iptv/git/raw/master/js2.0/saohuotv.png",
             "murl":"http://saohuotv.com"
             }
-        ]
+            ]
         }
     ]
-}
-}]
+    }
+]
 }
