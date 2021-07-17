@@ -3,19 +3,19 @@
     "title":"轻站",
     "qm":[{
             "author":"InMemory",
-            "intro":"20210717",
+            "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/云播影视.png",
             "list":[
                 {
                 "title":"555电影",
                 "url":"http://www.o8tv.com/api.php/app/",
                 "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/update.txt",
-                "murl":"q:AppContent"
+                "murl":"mapi:qm/"
                 },
                 {
                 "title":"913E影视",
                 "url":"https://www.913e.com/api.php/app/",
                 "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/update.txt",
-                "murl":"q:AppContent"
+                "murl":"mapi:qm/"
                 }
             ]
     }]
@@ -30,13 +30,13 @@
                 "title":"555电影",
                 "url":"http://www.o8tv.com/api.php/app/",
                 "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/update.txt",
-                "murl":"q:AppContent"
+                "murl":"mapi:qm/"
                 },
                 {
                 "title":"913E影视",
                 "url":"https://www.913e.com/api.php/app/",
                 "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/update.txt",
-                "murl":"q:AppContent"
+                "murl":"mapi:qm/"
                 }
             ]
     }]
