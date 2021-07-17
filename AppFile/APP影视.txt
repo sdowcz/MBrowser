@@ -1,4 +1,4 @@
-{"update":[{"title":"20210717","list":[{"title":"293影院","url":"m:update","img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/update.png"}]}],"data":[
+{"update":[{"title":"更新地址","list":[{"title":"20210717","url":"m:update","img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/293影院.png"}]}],"data":[
 {
 "title":"TV影视",
 "list":[
