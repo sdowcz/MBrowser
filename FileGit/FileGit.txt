@@ -43,6 +43,8 @@
             "typelist":[
                 {
                     "title":"影视",
+                    "img":"http",
+                    "url":"http",
                     "list":[
                         {
                             "name":"小白工具箱",
