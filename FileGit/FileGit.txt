@@ -6,12 +6,12 @@
             "typelist":[
                 {
                     "title":"InMemory",
-                    "img":"http",
-                    "url":"http",
+                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/update.png",
+                    "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/update.txt",
                     "list":[
                         {
                             "name":"APP影视",
-                            "url":"http"
+                            "url":"mapi:qm/"
                         },
                         {
                             "name":"APP影视",
@@ -21,8 +21,8 @@
                 },
                 {
                     "title":"木白",
-                    "img":"http",
-                    "url":"http",
+                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/update.png",
+                    "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/update.txt",
                     "list":[
                         {
                             "name":"APP影视",
@@ -38,8 +38,8 @@
         },
         {
             "title":"脚本",
-            "img":"http",
-            "url":"http",
+            "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/update.png",
+            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/update.txt",
             "typelist":[
                 {
                     "title":"影视",
@@ -58,8 +58,8 @@
                 },
                 {
                     "title":"工具",
-                    "img":"http",
-                    "url":"http",
+                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/update.png",
+                    "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/update.txt",
                     "list":[
                         {
                             "name":"夜间模式",
