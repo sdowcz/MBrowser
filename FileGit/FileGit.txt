@@ -34,8 +34,20 @@
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/update.txt"
                         },
                         {
+                            "name":"街机",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/InMemory/街机.txt"
+                        },
+                        {
+                            "name":"冬瓜影视",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/InMemory/冬瓜影视.txt"
+                        },
+                        {
                             "name":"龙猫追剧",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/update.txt"
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/InMemory/龙猫追剧.txt"
+                        },
+                        {
+                            "name":"清风DJ",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/InMemory/清风DJ.txt"
                         }
                     ]
                 },
