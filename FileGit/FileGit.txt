@@ -17,11 +17,11 @@
                     "list":[
                         {
                             "name":"一个影视",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/tree/master/FileGit/qmFile/广大侠/一个影视.txt"
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/广大侠/一个影视.txt"
                         },
                         {
                             "name":"资源采集",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/tree/master/FileGit/qmFile/广大侠/资源采集.txt"
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/广大侠/资源采集.txt"
                         }
                     ]
                 },
@@ -35,19 +35,19 @@
                         },
                         {
                             "name":"街机",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/tree/master/FileGit/qmFile/InMemory/街机.txt"
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/InMemory/街机.txt"
                         },
                         {
                             "name":"冬瓜影视",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/tree/master/FileGit/qmFile/InMemory/冬瓜影视.txt"
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/InMemory/冬瓜影视.txt"
                         },
                         {
                             "name":"龙猫追剧",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/tree/master/FileGit/qmFile/InMemory/龙猫追剧.txt"
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/InMemory/龙猫追剧.txt"
                         },
                         {
                             "name":"清风DJ",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/tree/master/FileGit/qmFile/InMemory/清风DJ.txt"
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/InMemory/清风DJ.txt"
                         }
                     ]
                 },
@@ -57,7 +57,7 @@
                     "list":[
                         {
                             "name":"追剧助手",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/tree/master/FileGit/qmFile/木白先生/追剧助手.txt",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/木白先生/追剧助手.txt",
                             "murl":"mapi:qm/"
                         }
                     ]
@@ -68,7 +68,7 @@
                     "list":[
                         {
                             "name":"蓝资小站",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/tree/master/FileGit/qmFile/蓝二/蓝资小站.txt",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/蓝二/蓝资小站.txt",
                             "murl":"mapi:qm/"
                         }
                     ]
