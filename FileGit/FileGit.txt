@@ -68,12 +68,7 @@
                     "list":[
                         {
                             "name":"蓝资小站",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/update.txt",
-                            "murl":"mapi:qm/"
-                        },
-                        {
-                            "name":"龙猫追剧",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/update.txt",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/蓝二/蓝资小站.txt",
                             "murl":"mapi:qm/"
                         }
                     ]
