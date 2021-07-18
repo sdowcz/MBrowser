@@ -1,4 +1,6 @@
 {
+    "QQurl":"mqqwpa://im/chat?chat_type=wpa&uin=272775028",
+    "QQtitle":"反馈/提交",
     "time":"20181020",
     "data":[
         {
@@ -6,8 +8,22 @@
             "murl":"mapi:qm/",
             "typelist":[
                 {
+                    "title":"广大侠",
+                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/广大侠.png",
+                    "list":[
+                        {
+                            "name":"一个影视",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/update.txt"
+                        },
+                        {
+                            "name":"资源采集",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/update.txt"
+                        }
+                    ]
+                },
+                {
                     "title":"InMemory",
-                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/update.png",
+                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/InMemory.png",
                     "list":[
                         {
                             "name":"APP影视",
@@ -20,8 +36,8 @@
                     ]
                 },
                 {
-                    "title":"木白",
-                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/update.png",
+                    "title":"木白先生",
+                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/木白先生.png",
                     "list":[
                         {
                             "name":"APP影视",
@@ -32,6 +48,42 @@
                             "name":"龙猫追剧",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/update.txt",
                             "murl":"mapi:qm/"
+                        }
+                    ]
+                },
+                {
+                    "title":"蓝二",
+                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/蓝二.png",
+                    "list":[
+                        {
+                            "name":"APP影视",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/update.txt",
+                            "murl":"mapi:qm/"
+                        },
+                        {
+                            "name":"龙猫追剧",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/update.txt",
+                            "murl":"mapi:qm/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title":"快搜",
+            "murl":"mapi:so/",
+            "typelist":[
+                {
+                    "title":"广大侠",
+                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/广大侠.png",
+                    "list":[
+                        {
+                            "name":"一个影视",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/update.txt"
+                        },
+                        {
+                            "name":"资源采集",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/update.txt"
                         }
                     ]
                 }
@@ -66,6 +118,46 @@
                         {
                             "name":"源码助手",
                             "url":"http"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title":"卡片,暂无快捷导入方式，留空",
+            "murl":"mapi:so/",
+            "typelist":[
+                {
+                    "title":"广大侠",
+                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/广大侠.png",
+                    "list":[
+                        {
+                            "name":"一个影视",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/update.txt"
+                        },
+                        {
+                            "name":"资源采集",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/update.txt"
+                        }
+                    ]
+                }
+            ]
+        }
+        {
+            "title":"广告拦截规则",
+            "murl":"mapi:ad/",
+            "typelist":[
+                {
+                    "title":"广大侠",
+                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/广大侠.png",
+                    "list":[
+                        {
+                            "name":"一个影视",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/update.txt"
+                        },
+                        {
+                            "name":"资源采集",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/update.txt"
                         }
                     ]
                 }
