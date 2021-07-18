@@ -26,6 +26,18 @@
                         {
                             "name":"资源采集",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/广大侠/资源采集.txt"
+                        },
+                        {
+                            "name":"网络直播",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/广大侠/网络直播.txt"
+                        },
+                        {
+                            "name":"360影视",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/广大侠/360影视.txt"
+                        },
+                        {
+                            "name":"咪咕音乐",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/广大侠/咪咕音乐.txt"
                         }
                     ]
                 },
