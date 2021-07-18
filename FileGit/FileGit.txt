@@ -89,13 +89,11 @@
                     "list":[
                         {
                             "name":"追剧助手",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/木白先生/追剧助手.txt",
-                            "murl":"mapi:qm/"
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/木白先生/追剧助手.txt"
                         },
                         {
                             "name":"淘好看影视",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/木白先生/淘好看影视.txt",
-                            "murl":"mapi:qm/"
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/木白先生/淘好看影视.txt"
                         }
                     ]
                 },
@@ -105,8 +103,43 @@
                     "list":[
                         {
                             "name":"蓝资小站",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/蓝二/蓝资小站.txt",
-                            "murl":"mapi:qm/"
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/蓝二/蓝资小站.txt"
+                        },
+                        {
+                            "name":"4K鸭奈飞",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/蓝二/4K鸭奈飞.txt"
+                        },
+                        {
+                            "name":"3G壁纸",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/蓝二/3G壁纸.txt"
+                        },
+                        {
+                            "name":"233动漫网",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/蓝二/233动漫网.txt"
+                        },
+                        {
+                            "name":"360手机助手",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/蓝二/360手机助手.txt"
+                        },
+                        {
+                            "name":"百度手机助手",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/蓝二/百度手机助手.txt"
+                        },
+                        {
+                            "name":"应用宝",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/蓝二/应用宝.txt"
+                        },
+                        {
+                            "name":"爱奇艺",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/蓝二/爱奇艺.txt"
+                        },
+                        {
+                            "name":"无双电影",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/蓝二/无双电影.txt"
+                        },
+                        {
+                            "name":"思古影视",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/蓝二/思古影视.txt"
                         }
                     ]
                 },
