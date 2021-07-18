@@ -80,20 +80,16 @@
             ]
         },
         {
-            "title":"快搜",
+            "title":"聚合搜索",
             "murl":"mapi:so/",
             "typelist":[
                 {
-                    "title":"广大侠",
+                    "title":"影视",
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/广大侠.png",
                     "list":[
                         {
-                            "name":"一个影视",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/update.txt"
-                        },
-                        {
-                            "name":"资源采集",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/update.txt"
+                            "name":"影视聚搜 2.X版",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/soFile/影视/影视聚搜 2.X版.txt"
                         }
                     ]
                 }
@@ -105,49 +101,11 @@
             "typelist":[
                 {
                     "title":"影视",
-                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/update.png",
+                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/80K影视.png",
                     "list":[
                         {
                             "name":"懒人工具箱",
                             "url":"https://greasyfork.org/scripts/370634-%E6%87%92%E4%BA%BA%E4%B8%93%E7%94%A8-%E5%85%A8%E7%BD%91vip%E8%A7%86%E9%A2%91%E5%85%8D%E8%B4%B9%E7%A0%B4%E8%A7%A3%E5%8E%BB%E5%B9%BF%E5%91%8A-%E5%85%A8%E7%BD%91%E9%9F%B3%E4%B9%90%E7%9B%B4%E6%8E%A5%E4%B8%8B%E8%BD%BD-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E7%9B%B4%E6%8E%A5%E4%B8%8B%E8%BD%BD%E7%AD%89%E5%A4%9A%E5%90%88%E4%B8%80%E7%89%88-%E9%95%BF%E6%9C%9F%E6%9B%B4%E6%96%B0-%E6%94%BE%E5%BF%83%E4%BD%BF%E7%94%A8/code/%E6%87%92%E4%BA%BA%E4%B8%93%E7%94%A8%EF%BC%8C%E5%85%A8%E7%BD%91VIP%E8%A7%86%E9%A2%91%E5%85%8D%E8%B4%B9%E7%A0%B4%E8%A7%A3%E5%8E%BB%E5%B9%BF%E5%91%8A%E3%80%81%E5%85%A8%E7%BD%91%E9%9F%B3%E4%B9%90%E7%9B%B4%E6%8E%A5%E4%B8%8B%E8%BD%BD%E3%80%81%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E7%9B%B4%E6%8E%A5%E4%B8%8B%E8%BD%BD%E7%AD%89%E5%A4%9A%E5%90%88%E4%B8%80%E7%89%88%E3%80%82%E9%95%BF%E6%9C%9F%E6%9B%B4%E6%96%B0%EF%BC%8C%E6%94%BE%E5%BF%83%E4%BD%BF%E7%94%A8%E3%80%82.user.js"
-                        },
-                        {
-                            "name":"觅影",
-                            "url":"http"
-                        }
-                    ]
-                },
-                {
-                    "title":"工具",
-                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/update.png",
-                    "list":[
-                        {
-                            "name":"夜间模式",
-                            "url":"http"
-                        },
-                        {
-                            "name":"源码助手",
-                            "url":"http"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "title":"卡片",
-            "murl":"mapi:so/",
-            "typelist":[
-                {
-                    "title":"广大侠",
-                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/广大侠.png",
-                    "list":[
-                        {
-                            "name":"一个影视",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/update.txt"
-                        },
-                        {
-                            "name":"资源采集",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/update.txt"
                         }
                     ]
                 }
@@ -158,16 +116,27 @@
             "murl":"mapi:ad/",
             "typelist":[
                 {
-                    "title":"广大侠",
-                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/广大侠.png",
+                    "title":"影视解析",
+                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/HG影视.png",
                     "list":[
                         {
-                            "name":"一个影视",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/update.txt"
-                        },
+                            "name":"ad3",
+                            "url":"https://cdn.jsdelivr.net/gh/o0HalfLife0o/list/ad3.txt"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title":"卡片(暂无一键导入方法)",
+            "murl":"mapi:/",
+            "typelist":[
+                {
+                    "title":"暂无",
+                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/HG影视.png",
+                    "list":[
                         {
-                            "name":"资源采集",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/update.txt"
+
                         }
                     ]
                 }
