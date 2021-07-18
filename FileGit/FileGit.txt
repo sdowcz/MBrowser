@@ -80,6 +80,16 @@
                             "murl":"mapi:qm/"
                         }
                     ]
+                },
+                {
+                    "title":"Killer",
+                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/Killer.png",
+                    "list":[
+                        {
+                            "name":"全球直播V4",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/Killer/全球直播V4.txt"
+                        }
+                    ]
                 }
             ]
         },
