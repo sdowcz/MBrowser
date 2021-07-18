@@ -42,6 +42,10 @@
                         {
                             "name":"腾讯视频",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/广大侠/腾讯视频.txt"
+                        },
+                        {
+                            "name":"知乎",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/广大侠/知乎.txt"
                         }
                     ]
                 },
