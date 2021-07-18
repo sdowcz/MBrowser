@@ -35,7 +35,7 @@
                     "list":[
                         {
                             "name":"m仓库",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/update.txt"
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/InMemory/m仓库.txt"
                         },
                         {
                             "name":"APP影视",
