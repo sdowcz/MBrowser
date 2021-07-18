@@ -249,7 +249,7 @@
                     ]
                 },{
                     "title":"工具",
-                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/so工具.png",
+                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/so工具.jpg",
                     "list":[
                         {
                             "name":"网盘搜索 2.X版",
