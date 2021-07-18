@@ -174,7 +174,7 @@
             "murl":"mapi:js/",
             "typelist":[
                 {
-                    "title":"影视",
+                    "title":"影视解析",
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/80K影视.png",
                     "list":[
                         {
