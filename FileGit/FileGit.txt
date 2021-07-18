@@ -108,6 +108,26 @@
                         {
                             "name":"55影视",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/Killer/55影视.txt"
+                        },
+                        {
+                            "name":"喵乐影视",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/Killer/喵乐影视.txt"
+                        },
+                        {
+                            "name":"妖妖影院",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/Killer/妖妖影院.txt"
+                        },
+                        {
+                            "name":"麻花影视",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/Killer/麻花影视.txt"
+                        },
+                        {
+                            "name":"美剧爱",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/Killer/美剧爱.txt"
+                        },
+                        {
+                            "name":"聚合影视",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/Killer/聚合影视.txt"
                         }
                     ]
                 }
