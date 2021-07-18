@@ -190,8 +190,8 @@
             "murl":"mapi:ad/",
             "typelist":[
                 {
-                    "title":"影视解析",
-                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/HG影视.png",
+                    "title":"广告拦截",
+                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/xx.png",
                     "list":[
                         {
                             "name":"ad3",
