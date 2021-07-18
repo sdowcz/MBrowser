@@ -34,6 +34,10 @@
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/InMemory.jpg",
                     "list":[
                         {
+                            "name":"m仓库",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/update.txt"
+                        },
+                        {
                             "name":"APP影视",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/update.txt"
                         },
