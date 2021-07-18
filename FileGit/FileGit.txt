@@ -38,6 +38,10 @@
                         {
                             "name":"咪咕音乐",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/广大侠/咪咕音乐.txt"
+                        },
+                        {
+                            "name":"腾讯视频",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/广大侠/腾讯视频.txt"
                         }
                     ]
                 },
