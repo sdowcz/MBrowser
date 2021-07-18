@@ -6,17 +6,16 @@
             "typelist":[
                 {
                     "title":"InMemory",
+                    "murl":"mapi:qm/"
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/update.png",
                     "list":[
                         {
                             "name":"APP影视",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/update.txt",
-                            "murl":"mapi:qm/"
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/update.txt"
                         },
                         {
                             "name":"龙猫追剧",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/update.txt",
-                            "murl":"mapi:qm/"
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/update.txt"
                         }
                     ]
                 },
