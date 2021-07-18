@@ -86,8 +86,12 @@
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/Killer.png",
                     "list":[
                         {
-                            "name":"全球直播V4",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/Killer/全球直播V4.txt"
+                            "name":"全球直播",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/Killer/全球直播.txt"
+                        },
+                        {
+                            "name":"爱广场舞",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/Killer/爱广场舞.txt"
                         }
                     ]
                 }
