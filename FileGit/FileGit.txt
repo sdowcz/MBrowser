@@ -89,7 +89,7 @@
             "typelist":[
                 {
                     "title":"影视",
-                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/广大侠.png",
+                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/VIP影视.png",
                     "list":[
                         {
                             "name":"影视聚搜 2.X版",
@@ -137,7 +137,7 @@
             "typelist":[
                 {
                     "title":"暂无",
-                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/HG影视.png",
+                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/xx.png",
                     "list":[
                         {
 
