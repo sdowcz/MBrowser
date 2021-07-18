@@ -92,6 +92,10 @@
                         {
                             "name":"爱广场舞",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/Killer/爱广场舞.txt"
+                        },
+                        {
+                            "name":"E站",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/Killer/E站.txt"
                         }
                     ]
                 }
