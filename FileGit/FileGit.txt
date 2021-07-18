@@ -96,6 +96,18 @@
                         {
                             "name":"E站",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/Killer/E站.txt"
+                        },
+                        {
+                            "name":"墨鱼影视",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/Killer/墨鱼影视.txt"
+                        },
+                        {
+                            "name":"久播",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/Killer/久播.txt"
+                        },
+                        {
+                            "name":"55影视",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/Killer/55影视.txt"
                         }
                     ]
                 }
