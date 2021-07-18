@@ -299,7 +299,7 @@
             "typelist":[
                 {
                     "title":"广告拦截",
-                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/xx.png",
+                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/ad.png",
                     "list":[
                         {
                             "name":"ad3",
@@ -316,7 +316,7 @@
             "typelist":[
                 {
                     "title":"暂无",
-                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/xx.png",
+                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/卡片.png",
                     "list":[
                         {
 
