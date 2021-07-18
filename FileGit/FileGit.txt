@@ -2,7 +2,7 @@
     "time":"20181020",
     "chat":[
         {
-            "QQurl":"mqqwpa://imat?chat_type=wpa&uin=272775028",
+            "QQurl":"mqqwpa://im/chat?chat_type=wpa&uin=272775028",
             "QQtitle":"反馈/提交"
         }
     ],
