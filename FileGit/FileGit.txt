@@ -6,7 +6,7 @@
             "typelist":[
                 {
                     "title":"InMemory",
-                    "murl":"mapi:qm/"
+                    "murl":"mapi:qm/",
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/update.png",
                     "list":[
                         {
