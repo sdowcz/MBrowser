@@ -46,6 +46,10 @@
                         {
                             "name":"知乎",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/广大侠/知乎.txt"
+                        },
+                        {
+                            "name":"茶杯狐",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/广大侠/茶杯狐.txt"
                         }
                     ]
                 },
@@ -86,6 +90,11 @@
                         {
                             "name":"追剧助手",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/木白先生/追剧助手.txt",
+                            "murl":"mapi:qm/"
+                        },
+                        {
+                            "name":"淘好看影视",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/木白先生/淘好看影视.txt",
                             "murl":"mapi:qm/"
                         }
                     ]
@@ -166,6 +175,19 @@
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/soFile/影视/影视聚搜 2.X版.txt"
                         }
                     ]
+                },{
+                    "title":"工具",
+                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/so工具.png",
+                    "list":[
+                        {
+                            "name":"网盘搜索 2.X版",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/soFile/影视/网盘搜索 2.X版.txt"
+                        },
+                        {
+                            "name":"软件搜索 2.X版",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/soFile/影视/软件搜索 2.X版.txt"
+                        }
+                    ]
                 }
             ]
         },
@@ -180,6 +202,16 @@
                         {
                             "name":"懒人工具箱",
                             "url":"https://greasyfork.org/scripts/370634-%E6%87%92%E4%BA%BA%E4%B8%93%E7%94%A8-%E5%85%A8%E7%BD%91vip%E8%A7%86%E9%A2%91%E5%85%8D%E8%B4%B9%E7%A0%B4%E8%A7%A3%E5%8E%BB%E5%B9%BF%E5%91%8A-%E5%85%A8%E7%BD%91%E9%9F%B3%E4%B9%90%E7%9B%B4%E6%8E%A5%E4%B8%8B%E8%BD%BD-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E7%9B%B4%E6%8E%A5%E4%B8%8B%E8%BD%BD%E7%AD%89%E5%A4%9A%E5%90%88%E4%B8%80%E7%89%88-%E9%95%BF%E6%9C%9F%E6%9B%B4%E6%96%B0-%E6%94%BE%E5%BF%83%E4%BD%BF%E7%94%A8/code/%E6%87%92%E4%BA%BA%E4%B8%93%E7%94%A8%EF%BC%8C%E5%85%A8%E7%BD%91VIP%E8%A7%86%E9%A2%91%E5%85%8D%E8%B4%B9%E7%A0%B4%E8%A7%A3%E5%8E%BB%E5%B9%BF%E5%91%8A%E3%80%81%E5%85%A8%E7%BD%91%E9%9F%B3%E4%B9%90%E7%9B%B4%E6%8E%A5%E4%B8%8B%E8%BD%BD%E3%80%81%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E7%9B%B4%E6%8E%A5%E4%B8%8B%E8%BD%BD%E7%AD%89%E5%A4%9A%E5%90%88%E4%B8%80%E7%89%88%E3%80%82%E9%95%BF%E6%9C%9F%E6%9B%B4%E6%96%B0%EF%BC%8C%E6%94%BE%E5%BF%83%E4%BD%BF%E7%94%A8%E3%80%82.user.js"
+                        }
+                    ]
+                },
+                {
+                    "title":"工具",
+                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/xx.png",
+                    "list":[
+                        {
+                            "name":"豆瓣资源下载大师",
+                            "url":"https://greasyfork.org/scripts/329484-%E8%B1%86%E7%93%A3%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E5%A4%A7%E5%B8%88-1%E7%A7%92%E6%90%9E%E5%AE%9A%E8%B1%86%E7%93%A3%E7%94%B5%E5%BD%B1-%E9%9F%B3%E4%B9%90-%E5%9B%BE%E4%B9%A6%E4%B8%8B%E8%BD%BD/code/%E8%B1%86%E7%93%A3%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E5%A4%A7%E5%B8%88%EF%BC%9A1%E7%A7%92%E6%90%9E%E5%AE%9A%E8%B1%86%E7%93%A3%E7%94%B5%E5%BD%B1%7C%E9%9F%B3%E4%B9%90%7C%E5%9B%BE%E4%B9%A6%E4%B8%8B%E8%BD%BD.user.js"
                         }
                     ]
                 }
