@@ -3,10 +3,10 @@
     "data":[
         {
             "title":"轻站",
+            "murl":"mapi:qm/",
             "typelist":[
                 {
                     "title":"InMemory",
-                    "murl":"mapi:qm/",
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/update.png",
                     "list":[
                         {
