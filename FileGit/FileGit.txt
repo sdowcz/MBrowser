@@ -649,7 +649,7 @@
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/favicon.ico",
                     "list":[
                         {
-                            "name":"前往官网,长按浏览框打开",
+                            "name":"长按这里选择浏览框打开，进入官网",
                             "url":"http://via-app.cn/#/tabBar/home",
                             "updatetime":"更新时间：2021/07/18"
                         }
@@ -658,7 +658,7 @@
             ]
         },
         {
-            "title":"广告拦截规则(自带的ad3，导入过多浏览器易卡顿))",
+            "title":"广告拦截规则(自带有ad3，导入过多浏览器易卡顿))",
             "murl":"mapi:ad/",
             "typelist":[
                 {
