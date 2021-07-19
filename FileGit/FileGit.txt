@@ -573,7 +573,7 @@
             ]
         },
         {
-            "title":"聚合搜索",
+            "title":"聚合搜索引擎",
             "murl":"mapi:so/",
             "typelist":[
                 {
@@ -605,7 +605,7 @@
             ]
         },
         {
-            "title":"脚本",
+            "title":"JS脚本",
             "murl":"mapi:js/",
             "typelist":[
                 {
@@ -642,7 +642,7 @@
             ]
         },
         {
-            "title":"广告拦截规则(导入有bug，等待后续软件修复)",
+            "title":"广告拦截规则(自带的ad3，不要过多导入，容易造成浏览器卡顿))",
             "murl":"mapi:ad/",
             "typelist":[
                 {
@@ -652,6 +652,46 @@
                         {
                             "name":"ad3",
                             "url":"https://cdn.jsdelivr.net/gh/o0HalfLife0o/list/ad3.txt",
+                            "updatetime":"更新时间：2021/07/18"
+                        },
+                        {
+                            "name":"ad",
+                            "url":"https://gitee.com/halflife/list/raw/master/ad.txt",
+                            "updatetime":"更新时间：2021/07/18"
+                        },
+                        {
+                            "name":"乘风-rule",
+                            "url":"https://gitee.com/xinggsf/Adblock-Rule/raw/master/rule.txt",
+                            "updatetime":"更新时间：2021/07/18"
+                        },
+                        {
+                            "name":"乘风-mv",
+                            "url":"https://gitee.com/xinggsf/Adblock-Rule/raw/master/mv.txt",
+                            "updatetime":"更新时间：2021/07/18"
+                        },
+                        {
+                            "name":"Easylist China",
+                            "url":"https://easylist-downloads.adblockplus.org/easylistchina.txt",
+                            "updatetime":"更新时间：2021/07/18"
+                        },
+                        {
+                            "name":"EasyList Lite",
+                            "url":"https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjxlist.txt",
+                            "updatetime":"更新时间：2021/07/18"
+                        },
+                        {
+                            "name":"CJX's Annoyance List",
+                            "url":"https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt",
+                            "updatetime":"更新时间：2021/07/18"
+                        },
+                        {
+                            "name":"adgk",
+                            "url":"https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt",
+                            "updatetime":"更新时间：2021/07/18"
+                        },
+                        {
+                            "name":"ChinaListV2.0",
+                            "url":"https://www.oduang.com/ChinaList2.0.txt",
                             "updatetime":"更新时间：2021/07/18"
                         }
                     ]
