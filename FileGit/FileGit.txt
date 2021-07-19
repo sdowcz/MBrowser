@@ -110,6 +110,11 @@
                             "name":"清风DJ",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/InMemory/清风DJ.txt",
                             "updatetime":"更新时间：2021/07/18"
+                        },
+                        {
+                            "name":"九桃小说(富文本)",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/InMemory/九桃小说.txt",
+                            "updatetime":"更新时间：2021/07/18"
                         }
                     ]
                 },
