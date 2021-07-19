@@ -645,7 +645,7 @@
                     "list":[
                         {
                             "name":"前往官网",
-                            "url":"http://via-app.cn/#/tabBar/home",
+                            "url":"q:#浏览框/http://via-app.cn/#/tabBar/home",
                             "updatetime":"更新时间：2021/07/18"
                         }
                     ]
