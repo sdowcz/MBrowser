@@ -387,6 +387,27 @@
                             "updatetime":"更新时间：2021/07/18"
                         }
                     ]
+                },
+                {
+                    "title":"青城山白公子",
+                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/青城山白公子.png",
+                    "list":[
+                        {
+                            "name":"星漫画",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/青城山白公子/星漫画.txt",
+                            "updatetime":"更新时间：2021/07/18"
+                        },
+                        {
+                            "name":"⭐️漫画",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/青城山白公子/⭐️漫画.mqz",
+                            "updatetime":"更新时间：2021/07/18"
+                        },
+                        {
+                            "name":"轻豆瓣v12修复",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/青城山白公子/轻豆瓣v12修复.mqz",
+                            "updatetime":"更新时间：2021/07/18"
+                        }
+                    ]
                 }
             ]
         },
