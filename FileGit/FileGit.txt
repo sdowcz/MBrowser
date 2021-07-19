@@ -59,6 +59,21 @@
                             "name":"茶杯狐",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/广大侠/茶杯狐.txt",
                             "updatetime":"更新时间：2021/07/18"
+                        },
+                        {
+                            "name":"虎牙直播",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/广大侠/虎牙直播.txt",
+                            "updatetime":"更新时间：2021/07/18"
+                        },
+                        {
+                            "name":"网易云音乐",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/广大侠/网易云音乐.txt",
+                            "updatetime":"更新时间：2021/07/18"
+                        },
+                        {
+                            "name":"QQ音乐",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/广大侠/QQ音乐.txt",
+                            "updatetime":"更新时间：2021/07/18"
                         }
                     ]
                 },
@@ -166,6 +181,47 @@
                         {
                             "name":"思古影视",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/蓝二/思古影视.txt",
+                            "updatetime":"更新时间：2021/07/18"
+                        }
+                    ]
+                },
+                {
+                    "title":"fahy",
+                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/fahy.png",
+                    "list":[
+                        {
+                            "name":"捏它追剧",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/fahy/捏它追剧.txt",
+                            "updatetime":"更新时间：2021/07/18"
+                        },
+                        {
+                            "name":"4K极客影视",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/fahy/4K极客影视.txt",
+                            "updatetime":"更新时间：2021/07/18"
+                        },
+                        {
+                            "name":"1231D电影",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/fahy/1231D电影.txt",
+                            "updatetime":"更新时间：2021/07/18"
+                        },
+                        {
+                            "name":"白熊影视",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/fahy/白熊影视.txt",
+                            "updatetime":"更新时间：2021/07/18"
+                        },
+                        {
+                            "name":"飞急速",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/fahy/飞急速.txt",
+                            "updatetime":"更新时间：2021/07/18"
+                        },
+                        {
+                            "name":"010动漫之家",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/fahy/010动漫之家.txt",
+                            "updatetime":"更新时间：2021/07/18"
+                        },
+                        {
+                            "name":"奇优影视",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/fahy/奇优影视.txt",
                             "updatetime":"更新时间：2021/07/18"
                         }
                     ]
@@ -393,18 +449,123 @@
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/青城山白公子.png",
                     "list":[
                         {
-                            "name":"星漫画",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/青城山白公子/星漫画.txt",
-                            "updatetime":"更新时间：2021/07/18"
-                        },
-                        {
                             "name":"⭐️漫画",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/青城山白公子/⭐️漫画.mqz",
                             "updatetime":"更新时间：2021/07/18"
                         },
                         {
-                            "name":"轻豆瓣v12修复",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/青城山白公子/轻豆瓣v12修复.mqz",
+                            "name":"轻豆瓣",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/青城山白公子/轻豆瓣.mqz",
+                            "updatetime":"更新时间：2021/07/18"
+                        }
+                    ]
+                },
+                {
+                    "title":"luchao900",
+                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/luchao900.png",
+                    "list":[
+                        {
+                            "name":"bilibili",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/luchao900/bilibili.txt",
+                            "updatetime":"更新时间：2021/07/18"
+                        },
+                        {
+                            "name":"超星阅读",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/luchao900/超星阅读.txt",
+                            "updatetime":"更新时间：2021/07/18"
+                        },
+                        {
+                            "name":"骚火影视",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/luchao900/骚火影视.txt",
+                            "updatetime":"更新时间：2021/07/18"
+                        }
+                    ]
+                },
+                {
+                    "title":"asdf1319964f",
+                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/asdf1319964f.png",
+                    "list":[
+                        {
+                            "name":"Asmrv",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/asdf1319964f/Asmrv.txt",
+                            "updatetime":"更新时间：2021/07/18"
+                        },
+                        {
+                            "name":"笔趣阁漫画",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/asdf1319964f/笔趣阁漫画.txt",
+                            "updatetime":"更新时间：2021/07/18"
+                        },
+                        {
+                            "name":"97电影网",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/asdf1319964f/97电影网.txt",
+                            "updatetime":"更新时间：2021/07/18"
+                        }
+                    ]
+                },
+                {
+                    "title":"wumingtai",
+                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/wumingtai.png",
+                    "list":[
+                        {
+                            "name":"MyIPTV",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/wumingtai/MyIPTV.txt",
+                            "updatetime":"更新时间：2021/07/18"
+                        },{
+                            "name":"MyIPTV(2)",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/wumingtai/MyIPTV(2).txt",
+                            "updatetime":"更新时间：2021/07/18"
+                        }
+                    ]
+                },
+                {
+                    "title":"龙火",
+                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/龙火.png",
+                    "list":[
+                        {
+                            "name":"大师兄影视",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/龙火/大师兄影视.txt",
+                            "updatetime":"更新时间：2021/07/18"
+                        },
+                        {
+                            "name":"酷客影视",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/龙火/酷客影视.txt",
+                            "updatetime":"更新时间：2021/07/18"
+                        },
+                        {
+                            "name":"动漫岛",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/龙火/动漫岛.txt",
+                            "updatetime":"更新时间：2021/07/18"
+                        },
+                        {
+                            "name":"肥牛看",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/龙火/肥牛看.txt",
+                            "updatetime":"更新时间：2021/07/18"
+                        },
+                        {
+                            "name":"奇热影视",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/龙火/奇热影视.txt",
+                            "updatetime":"更新时间：2021/07/18"
+                        }
+                    ]
+                },
+                {
+                    "title":"认真の雪",
+                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/认真の雪.jpg",
+                    "list":[
+                        {
+                            "name":"影视工场",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/认真の雪/影视工场.txt",
+                            "updatetime":"更新时间：2021/07/18"
+                        }
+                    ]
+                },
+                {
+                    "title":"dsp",
+                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/dsp.png",
+                    "list":[
+                        {
+                            "name":"知心影视",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/dsp/知心影视.txt",
                             "updatetime":"更新时间：2021/07/18"
                         }
                     ]
