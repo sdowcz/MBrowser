@@ -83,7 +83,7 @@
                         {
                             "name":"APP影视",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/update.txt",
-                            "updatetime":"版本：20210417&emsp;更新时间：2021/07/18"
+                            "updatetime":"版本：20210717&emsp;更新时间：2021/07/18"
                         },
                         {
                             "name":"街机",
