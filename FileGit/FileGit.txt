@@ -348,6 +348,16 @@
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/lgh00.png",
                     "list":[
                         {
+                            "name":"快科技",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/lgh00/快科技.txt",
+                            "updatetime":"更新时间：2021/07/20"
+                        },
+                        {
+                            "name":"幻陌博客",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/lgh00/幻陌博客.txt",
+                            "updatetime":"更新时间：2021/07/20"
+                        },
+                        {
                             "name":"聚合直播",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/lgh00/聚合直播.txt",
                             "updatetime":"更新时间：2021/07/18"
