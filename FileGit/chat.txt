@@ -1,0 +1,9 @@
+{
+"time":"20210719",
+    "chat":[
+        {
+            "QQurl":"mqqwpa://im/chat?chat_type=wpa&uin=272775028",
+            "QQtitle":"反馈/提交"
+        }
+    ]
+}
