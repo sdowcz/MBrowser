@@ -611,7 +611,8 @@
                             "updatetime":"更新时间：2021/07/18"
                         }
                     ]
-                },{
+                },
+                {
                     "title":"工具",
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/so工具.png",
                     "list":[
@@ -669,7 +670,7 @@
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/favicon.ico",
                     "list":[
                         {
-                            "name":"长按这里选择浏览框打开，进入官网",
+                            "name":"点击安装进入VIA插件官网",
                             "url":"http://via-app.cn/#/tabBar/home",
                             "updatetime":"更新时间：2021/07/18"
                         }
