@@ -587,7 +587,7 @@
                 },
                 {
                     "title":"13082555673",
-                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/13082555673.jpg",
+                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/13082555673.png",
                     "list":[
                         {
                             "name":"小熊影视",
