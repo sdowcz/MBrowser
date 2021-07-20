@@ -586,12 +586,12 @@
                         {
                             "name":"小熊影视",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/13082555673/小熊影视.txt",
-                            "updatetime":"版本：0&emsp;更新时间：2021/07/18"
+                            "updatetime":"版本：0&emsp;更新时间：2021/07/20"
                         },
                         {
                             "name":"迪卡电影网",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/13082555673/迪卡电影网.txt",
-                            "updatetime":"版本：0&emsp;更新时间：2021/07/18"
+                            "updatetime":"版本：0&emsp;更新时间：2021/07/20"
                         }
                     ]
                 }
