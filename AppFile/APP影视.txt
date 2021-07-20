@@ -78,6 +78,12 @@
                     "murl":"q:AppContent"
                 },
                 {
+                    "title":"我的视频",
+                    "url":"http://www.wsba.com.cn/api.php/lh/vod/",
+                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/我的视频.png",
+                    "murl":"q:AppContent"
+                },
+                {
                     "title":"云播影视",
                     "url":"http://yunbo.bxin.tv/api.php/iptv/vod/",
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/云播影视.png",
