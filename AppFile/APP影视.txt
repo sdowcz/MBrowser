@@ -382,6 +382,12 @@
                     "murl":"q:AppContent"
                 },
                 {
+                    "title":"小城影视",
+                    "url":"http://www.269w.com/mapi.php/v1.vod",
+                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/小城影视.png",
+                    "murl":"q:AppContent"
+                },
+                {
                     "title":"星空影视",
                     "url":"http://xiongkongwx.cn/api.php/v1.vod",
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/星空影视.png",
