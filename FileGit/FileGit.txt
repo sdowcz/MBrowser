@@ -134,8 +134,8 @@
                     "list":[
                         {
                             "name":"蓝资小站",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/蓝二/蓝资小站.txt",
-                            "updatetime":"版本：720&emsp;更新时间：2021/07/20"
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/蓝二/蓝资小站.mqz",
+                            "updatetime":"版本：20210722&emsp;更新时间：2021/07/22"
                         },
                         {
                             "name":"4K鸭奈飞",
