@@ -328,7 +328,7 @@
                         {
                             "name":"COCO漫画",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/唐牛才是食神/COCO漫画.txt",
-                            "updatetime":"版本：20210720&emsp;更新时间：2021/07/20"
+                            "updatetime":"版本：20210721&emsp;更新时间：2021/07/21"
                         },
                         {
                             "name":"独漫画系列",
