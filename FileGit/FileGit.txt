@@ -495,14 +495,24 @@
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/asdf1319964f.png",
                     "list":[
                         {
+                            "name":"陈家影视",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/asdf1319964f/陈家影视.mqz",
+                            "updatetime":"版本：20210721&emsp;更新时间：2021/07/21"
+                        },
+                        {
+                            "name":"耐看影视",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/asdf1319964f/耐看影视.mqz",
+                            "updatetime":"版本：20210721&emsp;更新时间：2021/07/21"
+                        },
+                        {
                             "name":"蜗牛影视",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/asdf1319964f/蜗牛影视.mqz",
-                            "updatetime":"版本：0&emsp;更新时间：2021/07/21"
+                            "updatetime":"版本：20210721&emsp;更新时间：2021/07/21"
                         },
                         {
                             "name":"顶空影视",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/asdf1319964f/顶空影视.mqz",
-                            "updatetime":"版本：0&emsp;更新时间：2021/07/21"
+                            "updatetime":"版本：20210721&emsp;更新时间：2021/07/21"
                         },
                         {
                             "name":"Asmrv",
