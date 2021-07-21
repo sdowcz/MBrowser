@@ -587,6 +587,11 @@
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/认真の雪.jpg",
                     "list":[
                         {
+                            "name":"极品影视网",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/认真の雪/极品影视网.txt",
+                            "updatetime":"版本：20210519&emsp;更新时间：2021/07/18"
+                        },
+                        {
                             "name":"影视工场",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/认真の雪/影视工场.txt",
                             "updatetime":"版本：2&emsp;更新时间：2021/07/18"
