@@ -338,7 +338,8 @@
                     "url":"https://tv.13nm.com/api.php/v1.vod",
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/柠檬影视.png",
                     "murl":"q:AppContent"
-                },{
+                },
+                {
                     "title":"片多儿",
                     "url":"http://meinaikang.com/api.php/v1.vod",
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/片多儿.png",
@@ -348,12 +349,6 @@
                     "title":"青蛙影视",
                     "url":"http://qwys8.tv/api.php/v1.vod",
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/青蛙影视.png",
-                    "murl":"q:AppContent"
-                },
-                {
-                    "title":"思古影视",
-                    "url":"http://app.siguyy.com/mogai_api.php/v1.vod",
-                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/思古影视.png",
                     "murl":"q:AppContent"
                 },
                 {
