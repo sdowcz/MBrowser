@@ -338,6 +338,11 @@
                     "url":"https://tv.13nm.com/api.php/v1.vod",
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/柠檬影视.png",
                     "murl":"q:AppContent"
+                },{
+                    "title":"片多儿",
+                    "url":"http://meinaikang.com/api.php/v1.vod",
+                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/片多儿.png",
+                    "murl":"q:AppContent"
                 },
                 {
                     "title":"青蛙影视",
