@@ -20,8 +20,6 @@ if(loadurl.indexOf("api.php/app")!=-1||loadurl.indexOf("api.php/v1.vod")!=-1){
         JSON.stringify({url:uuuu});
     }else if(u.indexOf("&url=renrenmi-")!=-1){
         JSON.stringify({url:u+"&_type=.m3u8"});
-    }else if(u.indexOf("42.51.48.17")!=-1){
-        "web="+u;
     }else{
         var resp=getHttp(JSON.stringify({url:u}));
         var uu=JSON.parse(resp).url;
