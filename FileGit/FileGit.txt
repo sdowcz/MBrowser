@@ -2,7 +2,7 @@
     "time":"20210721",
     "data":[
         {
-            "title":"轻站",
+            "title":"轻站(本轻站及包涵的所有规则免费)",
             "murl":"mapi:qm/",
             "typelist":[
                 {
@@ -42,7 +42,7 @@
                         {
                             "name":"腾讯视频",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/广大侠/腾讯视频.txt",
-                            "updatetime":"版本：20210409&emsp;更新时间：2021/07/18"
+                            "updatetime":"版本：2021072302&emsp;更新时间：2021/07/23"
                         },
                         {
                             "name":"知乎",
@@ -229,6 +229,11 @@
                     "title":"Killer Jack",
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/Killer.png",
                     "list":[
+                        {
+                            "name":"每日热门",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/Killer Jack/每日热门.mqz",
+                            "updatetime":"版本：20210723&emsp;更新时间：2021/07/23"
+                        },
                         {
                             "name":"追剧达人",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/Killer Jack/追剧达人.mqz",
@@ -596,6 +601,11 @@
                     "title":"wokaotianshi123",
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/wokaotianshi123.png",
                     "list":[
+                        {
+                            "name":"Auete影视网",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/wokaotianshi123/Auete影视网.txt",
+                            "updatetime":"版本：20210629&emsp;更新时间：2021/07/18"
+                        },
                         {
                             "name":"极品影视网",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/wokaotianshi123/极品影视网.txt",
