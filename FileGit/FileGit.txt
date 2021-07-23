@@ -347,6 +347,16 @@
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/lgh00.png",
                     "list":[
                         {
+                            "name":"糗事百科",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/lgh00/糗事百科.mqz",
+                            "updatetime":"版本：723&emsp;更新时间：2021/07/23"
+                        },
+                        {
+                            "name":"笑话网",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/lgh00/笑话网.mqz",
+                            "updatetime":"版本：723&emsp;更新时间：2021/07/23"
+                        },
+                        {
                             "name":"快科技",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/lgh00/快科技.txt",
                             "updatetime":"版本：720&emsp;更新时间：2021/07/20"
