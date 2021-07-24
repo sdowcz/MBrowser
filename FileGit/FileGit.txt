@@ -307,47 +307,47 @@
                     "list":[
                         {
                             "name":"笔趣阁",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/唐牛才是食神/笔趣阁.txt",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/唐牛才是食神/笔趣阁.mqz",
                             "updatetime":"版本：20210704&emsp;更新时间：2021/07/18"
                         },
                         {
                             "name":"次元壁",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/唐牛才是食神/次元壁.txt",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/唐牛才是食神/次元壁.mqz",
                             "updatetime":"版本：20210716&emsp;更新时间：2021/07/18"
                         },
                         {
                             "name":"包子漫画",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/唐牛才是食神/包子漫画.txt",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/唐牛才是食神/包子漫画.mqz",
                             "updatetime":"版本：20210619&emsp;更新时间：2021/07/18"
                         },
                         {
                             "name":"忆漫",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/唐牛才是食神/忆漫.txt",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/唐牛才是食神/忆漫.mqz",
                             "updatetime":"版本：20210419&emsp;更新时间：2021/07/18"
                         },
                         {
                             "name":"古风漫画",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/唐牛才是食神/古风漫画.txt",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/唐牛才是食神/古风漫画(2.0).mqz",
                             "updatetime":"版本：20210705&emsp;更新时间：2021/07/18"
                         },
                         {
                             "name":"奇漫屋",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/唐牛才是食神/奇漫屋.txt",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/唐牛才是食神/奇漫屋.mqz",
                             "updatetime":"版本：20210208&emsp;更新时间：2021/07/18"
                         },
                         {
                             "name":"COCO漫画",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/唐牛才是食神/COCO漫画.txt",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/唐牛才是食神/COCO漫画.mqz",
                             "updatetime":"版本：20210721&emsp;更新时间：2021/07/21"
                         },
                         {
                             "name":"独漫画系列",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/唐牛才是食神/独漫画系列.txt",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/唐牛才是食神/独漫画系列.mqz",
                             "updatetime":"版本：20210505&emsp;更新时间：2021/07/18"
                         },
                         {
                             "name":"知音漫客",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/唐牛才是食神/知音漫客.txt",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/唐牛才是食神/知音漫客.mqz",
                             "updatetime":"版本：20210331&emsp;更新时间：2021/07/18"
                         }
                     ]
