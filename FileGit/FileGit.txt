@@ -603,8 +603,8 @@
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/wokaotianshi123.png",
                     "list":[
                         {
-                            "name":"Auete影视网",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/wokaotianshi123/Auete影视网.mqz",
+                            "name":"Auete影视",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/wokaotianshi123/Auete影视.mqz",
                             "updatetime":"版本：20210629&emsp;更新时间：2021/07/18"
                         },
                         {
