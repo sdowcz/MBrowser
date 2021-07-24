@@ -138,9 +138,14 @@
                             "updatetime":"版本：20210722&emsp;更新时间：2021/07/22"
                         },
                         {
+                            "name":"动漫之家",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/蓝二/动漫之家.mqz",
+                            "updatetime":"版本：0&emsp;更新时间：2021/07/24"
+                        },
+                        {
                             "name":"铃声多多",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/蓝二/铃声多多.mqz",
-                            "updatetime":"版本：0&emsp;更新时间：2021/07/18"
+                            "updatetime":"版本：0&emsp;更新时间：2021/07/23"
                         },
                         {
                             "name":"4K鸭",
@@ -305,6 +310,11 @@
                     "title":"唐牛才是食神",
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/唐牛才是食神.png",
                     "list":[
+                        {
+                            "name":"好漫6",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/唐牛才是食神/好漫6.mqz",
+                            "updatetime":"版本：20210724&emsp;更新时间：2021/07/24"
+                        },
                         {
                             "name":"笔趣阁",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/唐牛才是食神/笔趣阁.mqz",
