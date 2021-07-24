@@ -195,37 +195,37 @@
                     "list":[
                         {
                             "name":"捏它追剧",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/fahy/捏它追剧.txt",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/fahy/捏它追剧.mqz",
                             "updatetime":"版本：0&emsp;更新时间：2021/07/18"
                         },
                         {
                             "name":"4K极客影视",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/fahy/4K极客影视.txt",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/fahy/4K极客影视.mqz",
                             "updatetime":"版本：20210511&emsp;更新时间：2021/07/18"
                         },
                         {
                             "name":"1231D电影",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/fahy/1231D电影.txt",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/fahy/1231D电影.mqz",
                             "updatetime":"版本：0&emsp;更新时间：2021/07/18"
                         },
                         {
                             "name":"白熊影视",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/fahy/白熊影视.txt",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/fahy/白熊影院.mqz",
                             "updatetime":"版本：0&emsp;更新时间：2021/07/18"
                         },
                         {
                             "name":"飞急速",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/fahy/飞急速.txt",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/fahy/飞急速.mqz",
                             "updatetime":"版本：0&emsp;更新时间：2021/07/18"
                         },
                         {
                             "name":"010动漫之家",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/fahy/010动漫之家.txt",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/fahy/010动漫之家.mqz",
                             "updatetime":"版本：0&emsp;更新时间：2021/07/18"
                         },
                         {
                             "name":"奇优影视",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/fahy/奇优影视.txt",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/fahy/奇优影院.mqz",
                             "updatetime":"版本：0&emsp;更新时间：2021/07/18"
                         }
                     ]
