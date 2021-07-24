@@ -298,7 +298,7 @@
                 },
                 {
                     "title":"乐播影视",
-                    "url":"https://www.guluguluxia.cn/api.php/v1.vod",
+                    "url":"http://www.guluguluxia.cn/api.php/v1.vod",
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/乐播影视.png",
                     "murl":"q:AppContent"
                 },
