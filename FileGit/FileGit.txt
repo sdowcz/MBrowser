@@ -368,112 +368,112 @@
                         },
                         {
                             "name":"快科技",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/lgh00/快科技.txt",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/lgh00/快科技.mqz",
                             "updatetime":"版本：720&emsp;更新时间：2021/07/20"
                         },
                         {
                             "name":"幻陌博客",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/lgh00/幻陌博客.txt",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/lgh00/幻陌.mqz",
                             "updatetime":"版本：0&emsp;更新时间：2021/07/20"
                         },
                         {
                             "name":"聚合直播",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/lgh00/聚合直播.txt",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/lgh00/聚合直播.mqz",
                             "updatetime":"版本：714&emsp;更新时间：2021/07/18"
                         },
                         {
                             "name":"q2002",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/lgh00/q2002.txt",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/lgh00/q2002.mqz",
                             "updatetime":"版本：0&emsp;更新时间：2021/07/18"
                         },
                         {
                             "name":"文学吧",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/lgh00/文学吧.txt",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/lgh00/文学吧.mqz",
                             "updatetime":"版本：705&emsp;更新时间：2021/07/18"
                         },
                         {
                             "name":"期刊杂志",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/lgh00/期刊杂志.txt",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/lgh00/期刊杂志.mqz",
                             "updatetime":"版本：704&emsp;更新时间：2021/07/18"
                         },
                         {
                             "name":"下厨房",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/lgh00/下厨房.txt",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/lgh00/下厨房.mqz",
                             "updatetime":"版本：718&emsp;更新时间：2021/07/18"
                         },
                         {
-                            "name":"汤圆创作",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/lgh00/汤圆创作.txt",
+                            "name":"汤圆创作.h",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/lgh00/汤圆创作.h.mqz",
                             "updatetime":"版本：702&emsp;更新时间：2021/07/18"
                         },
                         {
-                            "name":"天气预报",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/lgh00/天气预报.txt",
+                            "name":"天气预报.h",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/lgh00/天气预报.h.mqz",
                             "updatetime":"版本：702&emsp;更新时间：2021/07/18"
                         },
                         {
                             "name":"九酷音乐",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/lgh00/九酷音乐.txt",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/lgh00/九酷音乐.mqz",
                             "updatetime":"版本：618&emsp;更新时间：2021/07/18"
                         },
                         {
                             "name":"bilibili",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/lgh00/bilibili.txt",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/lgh00/bilibili.mqz",
                             "updatetime":"版本：623&emsp;更新时间：2021/07/18"
                         },
                         {
                             "name":"零零七",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/lgh00/零零七.txt",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/lgh00/零零七.mqz",
                             "updatetime":"版本：528&emsp;更新时间：2021/07/18"
                         },
                         {
                             "name":"哔呢哔呢",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/lgh00/哔呢哔呢.txt",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/lgh00/哔呢哔呢.mqz",
                             "updatetime":"版本：528&emsp;更新时间：2021/07/18"
                         },
                         {
-                            "name":"JRS直播",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/lgh00/JRS直播.txt",
+                            "name":"jrs直播",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/lgh00/jrs直播.mqz",
                             "updatetime":"版本：611&emsp;更新时间：2021/07/18"
                         },
                         {
                             "name":"AcFun",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/lgh00/AcFun.txt",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/lgh00/AcFun.mqz",
                             "updatetime":"版本：524&emsp;更新时间：2021/07/18"
                         },
                         {
                             "name":"嘛哩嘛哩",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/lgh00/嘛哩嘛哩.txt",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/lgh00/嘛哩嘛哩.mqz",
                             "updatetime":"版本：523&emsp;更新时间：2021/07/18"
                         },
                         {
                             "name":"芒果TV",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/lgh00/芒果TV.txt",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/lgh00/芒果TV.mqz",
                             "updatetime":"版本：511&emsp;更新时间：2021/07/18"
                         },
                         {
                             "name":"爱奇艺",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/lgh00/爱奇艺.txt",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/lgh00/爱奇艺.mqz",
                             "updatetime":"版本：506&emsp;更新时间：2021/07/18"
                         },
                         {
                             "name":"七七看片",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/lgh00/七七看片.txt",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/lgh00/七七看片.mqz",
                             "updatetime":"版本：1&emsp;更新时间：2021/07/18"
                         },
                         {
                             "name":"话本小说",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/lgh00/话本小说.txt",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/lgh00/话本小说.mqz",
                             "updatetime":"版本：20210501&emsp;更新时间：2021/07/18"
                         },
                         {
                             "name":"CMS",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/lgh00/CMS.txt",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/lgh00/CMS.mqz",
                             "updatetime":"版本：20210501&emsp;更新时间：2021/07/18"
                         },
                         {
                             "name":"电影先生",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/lgh00/电影先生.txt",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/lgh00/电影先生.mqz",
                             "updatetime":"版本：20210502&emsp;更新时间：2021/07/18"
                         }
                     ]
