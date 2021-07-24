@@ -604,17 +604,17 @@
                     "list":[
                         {
                             "name":"Auete影视网",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/wokaotianshi123/Auete影视网.txt",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/wokaotianshi123/Auete影视网.mqz",
                             "updatetime":"版本：20210629&emsp;更新时间：2021/07/18"
                         },
                         {
                             "name":"极品影视网",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/wokaotianshi123/极品影视网.txt",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/wokaotianshi123/极品影视网.mqz",
                             "updatetime":"版本：20210519&emsp;更新时间：2021/07/18"
                         },
                         {
                             "name":"影视工场",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/wokaotianshi123/影视工场.txt",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/wokaotianshi123/影视工场.mqz",
                             "updatetime":"版本：2&emsp;更新时间：2021/07/18"
                         }
                     ]
