@@ -236,6 +236,11 @@
                     "url":"http://lbapp.huimaojia.com:30119/mogai_api.php/v1.vod",
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/白菜追剧.png",
                     "murl":"q:AppContent"
+                },{
+                    "title":"初心影视",
+                    "url":"https://www.18mv.club/api.php/v1.vod",
+                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/初心影视.png",
+                    "murl":"q:AppContent"
                 },
                 {
                     "title":"顶空影视",
@@ -289,6 +294,12 @@
                     "title":"酷酷影视",
                     "url":"http://www.kkk3.net/api.php/v1.vod",
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/酷酷影视.png",
+                    "murl":"q:AppContent"
+                },
+                {
+                    "title":"乐播影视",
+                    "url":"https://www.guluguluxia.cn/api.php/v1.vod",
+                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/乐播影视.png",
                     "murl":"q:AppContent"
                 },
                 {
