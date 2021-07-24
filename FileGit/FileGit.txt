@@ -500,17 +500,17 @@
                     "list":[
                         {
                             "name":"bilibili",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/luchao900/bilibili.txt",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/luchao900/bilibili.mqz",
                             "updatetime":"版本：623&emsp;更新时间：2021/07/18"
                         },
                         {
                             "name":"超星阅读",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/luchao900/超星阅读.txt",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/luchao900/超星阅读.mqz",
                             "updatetime":"版本：20210622&emsp;更新时间：2021/07/18"
                         },
                         {
                             "name":"骚火影视",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/luchao900/骚火影视.txt",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/luchao900/骚火影视.mqz",
                             "updatetime":"版本：0&emsp;更新时间：2021/07/18"
                         }
                     ]
