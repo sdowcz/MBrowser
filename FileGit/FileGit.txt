@@ -372,7 +372,7 @@
                             "updatetime":"版本：720&emsp;更新时间：2021/07/20"
                         },
                         {
-                            "name":"幻陌博客",
+                            "name":"幻陌",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/lgh00/幻陌.mqz",
                             "updatetime":"版本：0&emsp;更新时间：2021/07/20"
                         },
