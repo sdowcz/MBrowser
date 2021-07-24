@@ -236,7 +236,7 @@
                     "list":[
                         {
                             "name":"每日热门",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/Killer Jack/每日热门.mqz",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/Killer Jack/每日热门.K.mqz",
                             "updatetime":"版本：20210723&emsp;更新时间：2021/07/23"
                         },
                         {
