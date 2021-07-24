@@ -265,7 +265,7 @@
                             "updatetime":"版本：0&emsp;更新时间：2021/07/18"
                         },
                         {
-                            "name":"久播",
+                            "name":"久播影视",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/Killer Jack/久播影视.K.mqz",
                             "updatetime":"版本：0&emsp;更新时间：2021/07/18"
                         },
@@ -291,7 +291,7 @@
                         },
                         {
                             "name":"美剧爱",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/Killer Jack/美剧爱.txt",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/Killer Jack/美剧爱.mqz",
                             "updatetime":"版本：0&emsp;更新时间：2021/07/18"
                         },
                         {
