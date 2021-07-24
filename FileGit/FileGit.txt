@@ -541,17 +541,17 @@
                         },
                         {
                             "name":"Asmrv",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/asdf1319964f/Asmrv.txt",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/asdf1319964f/Asmrv.mqz",
                             "updatetime":"版本：0&emsp;更新时间：2021/07/18"
                         },
                         {
                             "name":"笔趣阁漫画",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/asdf1319964f/笔趣阁漫画.txt",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/asdf1319964f/笔趣阁漫画.mqz",
                             "updatetime":"版本：0&emsp;更新时间：2021/07/18"
                         },
                         {
-                            "name":"97电影网",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/asdf1319964f/97电影网.txt",
+                            "name":"97电影",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/asdf1319964f/97电影.mqz",
                             "updatetime":"版本：0&emsp;更新时间：2021/07/18"
                         }
                     ]
