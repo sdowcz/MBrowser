@@ -36,7 +36,7 @@ if(上级地址.indexOf("api.php/app")!=-1){
         var 标题=e2Rex(CODE,".json(player_info).json(show)");
         if(e2Rex(CODE,".json(player_info).json(parse2)").indexOf("=")!=-1){
             var 接口="http:"+e2Rex(CODE,".json(player_info).json(parse2)").match(/\/\/[^,]*=/)[0].replace("..",".").replace("=&xktoken=","=");
-            if(接口.indexOf("vip.parwix.com")!=-1||接口.indexOf("api.zakkpa.com:8888/analysis/json/")!=-1){
+            if(接口.indexOf("vip.parwix.com")!=-1){
                 接口="http://42.51.48.17/?url=";
             }else{
                 接口;
