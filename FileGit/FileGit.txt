@@ -214,8 +214,8 @@
                             "updatetime":"版本：0&emsp;更新时间：2021/07/18"
                         },
                         {
-                            "name":"飞急速",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/fahy/飞急速.mqz",
+                            "name":"飞极速",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/fahy/飞极速.mqz",
                             "updatetime":"版本：0&emsp;更新时间：2021/07/18"
                         },
                         {
