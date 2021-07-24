@@ -138,6 +138,11 @@
                             "updatetime":"版本：20210722&emsp;更新时间：2021/07/22"
                         },
                         {
+                            "name":"铃声多多",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/蓝二/铃声多多.txt",
+                            "updatetime":"版本：0&emsp;更新时间：2021/07/18"
+                        },
+                        {
                             "name":"4K鸭奈飞",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/蓝二/4K鸭奈飞.txt",
                             "updatetime":"版本：0&emsp;更新时间：2021/07/18"
