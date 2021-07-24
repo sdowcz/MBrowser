@@ -131,12 +131,6 @@
                     "murl":"q:AppContent"
                 },
                 {
-                    "title":"哔嘀影视",
-                    "url":"https://app.9080ysw.com/api.php/app/",
-                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/哔嘀影视.png",
-                    "murl":"q:AppContent"
-                },
-                {
                     "title":"毒舌电影",
                     "url":"https://www.dushe520.com/api.php/app/",
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/毒舌电影.png",
