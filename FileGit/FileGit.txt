@@ -562,11 +562,7 @@
                     "list":[
                         {
                             "name":"MyIPTV",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/wumingtai/MyIPTV.txt",
-                            "updatetime":"版本：20210716&emsp;更新时间：2021/07/18"
-                        },{
-                            "name":"MyIPTV(2)",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/wumingtai/MyIPTV(2).txt",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/wumingtai/MyIPTV.mqz",
                             "updatetime":"版本：20210716&emsp;更新时间：2021/07/18"
                         }
                     ]
