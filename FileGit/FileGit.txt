@@ -235,57 +235,57 @@
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/Killer.png",
                     "list":[
                         {
-                            "name":"每日热门",
+                            "name":"每日热门.K",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/Killer Jack/每日热门.K.mqz",
                             "updatetime":"版本：20210723&emsp;更新时间：2021/07/23"
                         },
                         {
-                            "name":"追剧达人",
+                            "name":"追剧达人.K",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/Killer Jack/追剧达人.K.mqz",
                             "updatetime":"版本：20210721&emsp;更新时间：2021/07/18"
                         },
                         {
-                            "name":"全球直播",
+                            "name":"全球直播.K",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/Killer Jack/全球直播.K.mqz",
                             "updatetime":"版本：20210715&emsp;更新时间：2021/07/18"
                         },
                         {
-                            "name":"爱广场舞",
+                            "name":"爱广场舞.K",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/Killer Jack/爱广场舞.K.mqz",
                             "updatetime":"版本：0&emsp;更新时间：2021/07/18"
                         },
                         {
-                            "name":"E站",
+                            "name":"E站.K",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/Killer Jack/E站.K.mqz",
                             "updatetime":"版本：0&emsp;更新时间：2021/07/18"
                         },
                         {
-                            "name":"墨鱼影视",
+                            "name":"墨鱼影视.K",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/Killer Jack/墨鱼影视.K.mqz",
                             "updatetime":"版本：0&emsp;更新时间：2021/07/18"
                         },
                         {
-                            "name":"久播影视",
+                            "name":"久播影视.K",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/Killer Jack/久播影视.K.mqz",
                             "updatetime":"版本：0&emsp;更新时间：2021/07/18"
                         },
                         {
-                            "name":"55影视",
+                            "name":"55影视.K",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/Killer Jack/55影视.K.mqz",
                             "updatetime":"版本：0&emsp;更新时间：2021/07/18"
                         },
                         {
-                            "name":"喵乐影视",
+                            "name":"喵乐影视.K",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/Killer Jack/喵乐影视.K.mqz",
                             "updatetime":"版本：20210531&emsp;更新时间：2021/07/18"
                         },
                         {
-                            "name":"妖妖影院",
+                            "name":"妖妖影院.K",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/Killer Jack/妖妖影院.K.mqz",
                             "updatetime":"版本：0&emsp;更新时间：2021/07/18"
                         },
                         {
-                            "name":"麻花影视",
+                            "name":"麻花影视.K",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/Killer Jack/麻花影视.K.mqz",
                             "updatetime":"版本：20210531&emsp;更新时间：2021/07/18"
                         },
@@ -295,7 +295,7 @@
                             "updatetime":"版本：0&emsp;更新时间：2021/07/18"
                         },
                         {
-                            "name":"聚合影视",
+                            "name":"聚合影视V7",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/Killer Jack/聚合影视V7.mqz",
                             "updatetime":"版本：2021052715&emsp;更新时间：2021/07/18"
                         }
@@ -326,7 +326,7 @@
                             "updatetime":"版本：20210419&emsp;更新时间：2021/07/18"
                         },
                         {
-                            "name":"古风漫画",
+                            "name":"古风漫画(2.0)",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/唐牛才是食神/古风漫画(2.0).mqz",
                             "updatetime":"版本：20210705&emsp;更新时间：2021/07/18"
                         },
