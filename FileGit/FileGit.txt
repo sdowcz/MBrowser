@@ -625,7 +625,7 @@
                     "list":[
                         {
                             "name":"知心影视",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/dsp/知心影视.txt",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/dsp/知心影视.mqz",
                             "updatetime":"版本：0&emsp;更新时间：2021/07/18"
                         }
                     ]
@@ -636,12 +636,12 @@
                     "list":[
                         {
                             "name":"小熊影视",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/13082555673/小熊影视.txt",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/13082555673/小熊影视.mqz",
                             "updatetime":"版本：0&emsp;更新时间：2021/07/20"
                         },
                         {
                             "name":"迪卡电影网",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/13082555673/迪卡电影网.txt",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/13082555673/迪卡电影网.mqz",
                             "updatetime":"版本：0&emsp;更新时间：2021/07/20"
                         }
                     ]
