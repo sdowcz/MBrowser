@@ -209,7 +209,7 @@
                             "updatetime":"版本：0&emsp;更新时间：2021/07/18"
                         },
                         {
-                            "name":"白熊影视",
+                            "name":"白熊影院",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/fahy/白熊影院.mqz",
                             "updatetime":"版本：0&emsp;更新时间：2021/07/18"
                         },
@@ -224,7 +224,7 @@
                             "updatetime":"版本：0&emsp;更新时间：2021/07/18"
                         },
                         {
-                            "name":"奇优影视",
+                            "name":"奇优影院",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/fahy/奇优影院.mqz",
                             "updatetime":"版本：0&emsp;更新时间：2021/07/18"
                         }
@@ -573,27 +573,27 @@
                     "list":[
                         {
                             "name":"大师兄影视",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/龙火/大师兄影视.txt",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/龙火/大师兄影视.mqz",
                             "updatetime":"版本：2&emsp;更新时间：2021/07/18"
                         },
                         {
-                            "name":"酷客影视",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/龙火/酷客影视.txt",
+                            "name":"酷客影院",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/龙火/酷客影院.mqz",
                             "updatetime":"版本：1&emsp;更新时间：2021/07/18"
                         },
                         {
                             "name":"动漫岛",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/龙火/动漫岛.txt",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/龙火/动漫岛.mqz",
                             "updatetime":"版本：0&emsp;更新时间：2021/07/18"
                         },
                         {
                             "name":"肥牛看",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/龙火/肥牛看.txt",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/龙火/肥牛看.mqz",
                             "updatetime":"版本：0&emsp;更新时间：2021/07/18"
                         },
                         {
                             "name":"奇热影视",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/龙火/奇热影视.txt",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/龙火/奇热影视.mqz",
                             "updatetime":"版本：0&emsp;更新时间：2021/07/18"
                         }
                     ]
