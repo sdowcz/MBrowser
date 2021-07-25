@@ -138,6 +138,11 @@
                             "updatetime":"版本：20210722&emsp;更新时间：2021/07/22"
                         },
                         {
+                            "name":"漫码",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/蓝二/漫码.mqz",
+                            "updatetime":"版本：0&emsp;更新时间：2021/07/24"
+                        },
+                        {
                             "name":"动漫之家",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/蓝二/动漫之家.mqz",
                             "updatetime":"版本：0&emsp;更新时间：2021/07/24"
@@ -366,6 +371,11 @@
                     "title":"lgh00",
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/lgh00.png",
                     "list":[
+                        {
+                            "name":"澎湃",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/lgh00/澎湃.mqz",
+                            "updatetime":"版本：724&emsp;更新时间：2021/07/24"
+                        },
                         {
                             "name":"糗事百科",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/lgh00/糗事百科.mqz",
@@ -612,6 +622,16 @@
                     "title":"wokaotianshi123",
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/wokaotianshi123.png",
                     "list":[
+                        {
+                            "name":"南府",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/wokaotianshi123/南府.mqz",
+                            "updatetime":"版本：20210723&emsp;更新时间：2021/07/23"
+                        },
+                        {
+                            "name":"奈菲影视",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/wokaotianshi123/奈菲影视.mqz",
+                            "updatetime":"版本：20210723&emsp;更新时间：2021/07/23"
+                        },
                         {
                             "name":"耐看影视",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/wokaotianshi123/耐看影视.mqz",
