@@ -628,8 +628,8 @@
                             "updatetime":"版本：20210723&emsp;更新时间：2021/07/23"
                         },
                         {
-                            "name":"奈菲影视",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/wokaotianshi123/奈菲影视.mqz",
+                            "name":"奈非影视",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/wokaotianshi123/奈非影视.mqz",
                             "updatetime":"版本：20210723&emsp;更新时间：2021/07/23"
                         },
                         {
