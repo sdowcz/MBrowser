@@ -273,6 +273,14 @@
                     "murl":"q:AppContent"
                 },
                 {
+
+                    "title":"哈尼视频",
+
+                    "url":"http://www.videovips.top/api.php/v1.vod",
+                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/哈尼视频.png",
+                    "murl":"q:AppContent"
+                },
+                {
                     "title":"核桃影视",
                     "url":"http://app.hetaoys.vip/api.php/v1.vod",
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/核桃影视.png",
@@ -467,6 +475,14 @@
                     "title":"粉粉影视(白菜)",
                     "url":"http://huluxiaindex.huimaojia.com:30130/mogai_api.php/v1.vod",
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/粉粉影视.png",
+                    "murl":"q:AppContent"
+                },
+                {
+
+                    "title":"公主影视(王子)",
+
+                    "url":"http://mm.tcsdchina.com:6096/mogai_api.php/v1.vod",
+                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/公主影视.png",
                     "murl":"q:AppContent"
                 },
                 {
