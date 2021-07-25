@@ -30,6 +30,11 @@
                             "updatetime":"版本：20210525&emsp;更新时间：2021/07/18"
                         },
                         {
+                            "name":"酷我音乐",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/广大侠/酷我音乐.mqz",
+                            "updatetime":"版本：20210725&emsp;更新时间：2021/07/25"
+                        },
+                        {
                             "name":"360影视",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/广大侠/360影视.mqz",
                             "updatetime":"版本：20210521&emsp;更新时间：2021/07/18"
