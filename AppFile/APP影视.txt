@@ -173,6 +173,12 @@
                     "murl":"q:AppContent"
                 },
                 {
+                    "title":"海绵影视",
+                    "url":"http://app1.yuzhouys.com/api.php/app/",
+                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/海绵影视.png",
+                    "murl":"q:AppContent"
+                },
+                {
                     "title":"追剧达人",
                     "url":"http://vipmv.tv/api.php/app/",
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/追剧达人.png",
