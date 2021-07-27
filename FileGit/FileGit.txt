@@ -148,6 +148,11 @@
                             "updatetime":"版本：20210725&emsp;更新时间：2021/07/25"
                         },
                         {
+                            "name":"好看视频",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/蓝二/好看视频.mqz",
+                            "updatetime":"版本：0&emsp;更新时间：2021/07/27"
+                        },
+                        {
                             "name":"漫码",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/蓝二/漫码.mqz",
                             "updatetime":"版本：0&emsp;更新时间：2021/07/24"
@@ -381,6 +386,11 @@
                     "title":"lgh00",
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/lgh00.png",
                     "list":[
+                        {
+                            "name":"爱车MV",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/lgh00/爱车MV.mqz",
+                            "updatetime":"版本：725&emsp;更新时间：2021/07/25"
+                        },
                         {
                             "name":"澎湃",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/lgh00/澎湃.mqz",
@@ -632,6 +642,26 @@
                     "title":"wokaotianshi123",
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/wokaotianshi123.png",
                     "list":[
+                        {
+                            "name":"555电影网",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/wokaotianshi123/555电影网.mqz",
+                            "updatetime":"版本：20210723&emsp;更新时间：2021/07/23"
+                        },
+                        {
+                            "name":"乐播影视",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/wokaotianshi123/乐播影视.mqz",
+                            "updatetime":"版本：20210723&emsp;更新时间：2021/07/23"
+                        },
+                        {
+                            "name":"剧好看",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/wokaotianshi123/剧好看.mqz",
+                            "updatetime":"版本：20210723&emsp;更新时间：2021/07/23"
+                        },
+                        {
+                            "name":"非凡影视",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/wokaotianshi123/非凡影视.mqz",
+                            "updatetime":"版本：20210723&emsp;更新时间：2021/07/23"
+                        },
                         {
                             "name":"南府",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/wokaotianshi123/南府.mqz",
