@@ -149,6 +149,12 @@
                     "murl":"q:AppContent"
                 },
                 {
+                    "title":"海绵影视",
+                    "url":"http://app1.yuzhouys.com/api.php/app/",
+                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/海绵影视.png",
+                    "murl":"q:AppContent"
+                },
+                {
                     "title":"九合视频",
                     "url":"https://ptygx.com/api.php/app/",
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/九合视频.png",
@@ -170,12 +176,6 @@
                     "title":"思古影视",
                     "url":"http://www.siguyy.com/api.php/app/",
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/思古影视.png",
-                    "murl":"q:AppContent"
-                },
-                {
-                    "title":"海绵影视",
-                    "url":"http://app1.yuzhouys.com/api.php/app/",
-                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/海绵影视.png",
                     "murl":"q:AppContent"
                 },
                 {
