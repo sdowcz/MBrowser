@@ -148,6 +148,11 @@
                             "updatetime":"版本：20210725&emsp;更新时间：2021/07/25"
                         },
                         {
+                            "name":"快手直播",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/蓝二/好看视频.mqz",
+                            "updatetime":"版本：0&emsp;更新时间：2021/07/28"
+                        },
+                        {
                             "name":"好看视频",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/蓝二/好看视频.mqz",
                             "updatetime":"版本：0&emsp;更新时间：2021/07/27"
@@ -528,9 +533,14 @@
                             "updatetime":"版本：0&emsp;更新时间：2021/07/18"
                         },
                         {
+                            "name":"轻豆瓣(新版界面)",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/青城山白公子/轻豆瓣(新版界面).mqz",
+                            "updatetime":"版本：17&emsp;更新时间：2021/07/28"
+                        },
+                        {
                             "name":"轻豆瓣",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/青城山白公子/轻豆瓣.mqz",
-                            "updatetime":"版本：15&emsp;更新时间：2021/07/25"
+                            "updatetime":"版本：17&emsp;更新时间：2021/07/28"
                         }
                     ]
                 },
@@ -603,7 +613,7 @@
                         {
                             "name":"MyIPTV",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/wumingtai/MyIPTV.mqz",
-                            "updatetime":"版本：20210716&emsp;更新时间：2021/07/18"
+                            "updatetime":"版本：2021072802&emsp;更新时间：2021/07/28"
                         }
                     ]
                 },
