@@ -32,7 +32,7 @@
                         {
                             "name":"酷我音乐",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/广大侠/酷我音乐.mqz",
-                            "updatetime":"版本：20210724&emsp;更新时间：2021/07/24"
+                            "updatetime":"版本：20210728&emsp;更新时间：2021/07/28"
                         },
                         {
                             "name":"360影视",
