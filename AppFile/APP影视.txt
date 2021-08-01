@@ -30,6 +30,13 @@
                     "murl":"q:AppContent"
                 },
                 {
+
+                    "title":"稻草人TV",
+                    "url":"http://www.zhaikanys.xyz/api.php/iptv1/vod/",
+                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/稻草人TV.png",
+                    "murl":"q:AppContent"
+                },
+                {
                     "title":"大师兄影视",
                     "url":"http://tv.zz.ci/api.php/iptv/vod/",
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/大师兄影视.png",
