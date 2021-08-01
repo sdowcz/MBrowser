@@ -429,9 +429,9 @@
                     "murl":"q:AppContent"
                 },
                 {
-                    "title":"颖家影视",
+                    "title":"颖家影院",
                     "url":"http://zly.xjqxz.top/api.php/v1.vod",
-                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/颖家影视.png",
+                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/颖家影院.png",
                     "murl":"q:AppContent"
                 },
                 {
