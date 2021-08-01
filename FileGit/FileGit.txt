@@ -47,7 +47,7 @@
                         {
                             "name":"腾讯视频",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/广大侠/腾讯视频.mqz",
-                            "updatetime":"版本：2021072302&emsp;更新时间：2021/07/23"
+                            "updatetime":"版本：20210801&emsp;更新时间：2021/08/01"
                         },
                         {
                             "name":"知乎",
@@ -77,7 +77,7 @@
                         {
                             "name":"优酷视频",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/广大侠/优酷视频.mqz",
-                            "updatetime":"版本：20210323&emsp;更新时间：2021/07/18"
+                            "updatetime":"版本：20210801&emsp;更新时间：2021/08/01"
                         }
                     ]
                 },
@@ -146,6 +146,11 @@
                             "name":"蓝资小站725",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/蓝二/蓝资小站725.mqz",
                             "updatetime":"版本：20210725&emsp;更新时间：2021/07/25"
+                        },
+                        {
+                            "name":"悟空美剧",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/蓝二/悟空美剧.mqz",
+                            "updatetime":"版本：0&emsp;更新时间：2021/07/31"
                         },
                         {
                             "name":"快手直播",
@@ -590,6 +595,16 @@
                             "updatetime":"版本：20210721&emsp;更新时间：2021/07/21"
                         },
                         {
+                            "name":"EDD动漫",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/asdf1319964f/EDD动漫.mqz",
+                            "updatetime":"版本：20210728&emsp;更新时间：2021/07/28"
+                        },
+                        {
+                            "name":"missfun",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/asdf1319964f/missfun.mqz",
+                            "updatetime":"版本：20210728&emsp;更新时间：2021/07/28"
+                        },
+                        {
                             "name":"Asmrv",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/asdf1319964f/Asmrv.mqz",
                             "updatetime":"版本：0&emsp;更新时间：2021/07/18"
@@ -652,6 +667,11 @@
                     "title":"wokaotianshi123",
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/wokaotianshi123.png",
                     "list":[
+                        {
+                            "name":"迪迪影视",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/wokaotianshi123/迪迪影视.mqz",
+                            "updatetime":"版本：20210723&emsp;更新时间：2021/07/31"
+                        },
                         {
                             "name":"555电影网",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/wokaotianshi123/555电影网.mqz",
