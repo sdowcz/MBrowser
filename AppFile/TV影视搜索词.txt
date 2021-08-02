@@ -1,4 +1,4 @@
-js=var u=getVar("Url");
+var u=getVar("Url");
 if(u.indexOf("aitesucai")!=-1||u.indexOf("zz.ci")!=-1||u.indexOf("chxjon")!=-1||u.indexOf("watchmi")!=-1||u.indexOf("vipbp")!=-1||u.indexOf("wsba")!=-1||u.indexOf("xfykl")!=-1){
  "zm";
 }else{
