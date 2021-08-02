@@ -6,7 +6,7 @@
             "list":[
                 {
                     "title":"进入更新",
-                    "url":"q:update",
+                    "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/InMemory/APP影视.mqz",
                     "murl":"q:update",
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/update.png"
                 }
@@ -298,12 +298,6 @@
                     "murl":"q:AppContent"
                 },
                 {
-                    "title":"快播吧",
-                    "url":"http://www.hd8.pw/api.php/v1.vod",
-                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/快播吧.png",
-                    "murl":"q:AppContent"
-                },
-                {
                     "title":"酷酷影视",
                     "url":"http://www.kkk3.net/api.php/v1.vod",
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/酷酷影视.png",
@@ -445,12 +439,6 @@
                     "title":"追番猫",
                     "url":"http://dm.496dy.cn:88/api.php/v1.vod",
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/追番猫.png",
-                    "murl":"q:AppContent"
-                },
-                {
-                    "title":"追剧吧影视",
-                    "url":"http://iapp.zhuiju8.vip/api.php/v1.vod",
-                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/追剧吧影视.png",
                     "murl":"q:AppContent"
                 },
                 {
