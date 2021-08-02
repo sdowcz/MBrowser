@@ -167,6 +167,12 @@
                     "murl":"q:AppContent"
                 },
                 {
+                    "title":"思古影视",
+                    "url":"https://447k.com/api.php/app/",
+                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/思古影视.png",
+                    "murl":"q:AppContent"
+                },
+                {
                     "title":"追剧达人",
                     "url":"http://vipmv.tv/api.php/app/",
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/追剧达人.png",
