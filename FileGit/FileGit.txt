@@ -93,7 +93,7 @@
                         {
                             "name":"APP影视",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/InMemory/APP影视.mqz",
-                            "updatetime":"版本：20210717&emsp;更新时间：2021/07/18"
+                            "updatetime":"版本：20210802&emsp;更新时间：2021/08/02"
                         },
                         {
                             "name":"街机",
