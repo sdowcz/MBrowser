@@ -168,7 +168,7 @@
                 },
                 {
                     "title":"思古影视",
-                    "url":"https://447k.com/api.php/app/",
+                    "url":"https://sigu.cc/api.php/app/",
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/思古影视.png",
                     "murl":"q:AppContent"
                 },
