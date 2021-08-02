@@ -168,12 +168,6 @@
                     "murl":"q:AppContent"
                 },
                 {
-                    "title":"蓝果影视",
-                    "url":"http://www.languotv.com/api.php/app/",
-                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/蓝果影视.png",
-                    "murl":"q:AppContent"
-                },
-                {
                     "title":"琳琅影视",
                     "url":"https://www.u23c.com/api.php/app/",
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/琳琅影视.png",
