@@ -6,7 +6,6 @@
             "list":[
                 {
                     "title":"进入更新",
-                    "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/InMemory/APP影视.mqz",
                     "murl":"mapi:qm/https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/InMemory/APP影视.mqz",
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/update.png"
                 }
@@ -111,12 +110,6 @@
                     "title":"555电影",
                     "url":"http://www.o8tv.com/api.php/app/",
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/555电影.png",
-                    "murl":"q:AppContent"
-                },
-                {
-                    "title":"913E影视",
-                    "url":"https://www.913e.com/api.php/app/",
-                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/913E影视.png",
                     "murl":"q:AppContent"
                 },
                 {
