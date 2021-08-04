@@ -168,7 +168,7 @@
                 },
                 {
                     "title":"思古影视",
-                    "url":"https://sigu.cc/api.php/app/",
+                    "url":"https://siguyy.com/api.php/app/",
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/思古影视.png",
                     "murl":"q:AppContent"
                 },
@@ -432,6 +432,12 @@
                     "title":"追番猫",
                     "url":"http://dm.496dy.cn:88/api.php/v1.vod",
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/追番猫.png",
+                    "murl":"q:AppContent"
+                },
+                {
+                    "title":"追剧吧",
+                    "url":"http://zhuijuba.vip/api.php/v1.vod",
+                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/追剧吧影视.png",
                     "murl":"q:AppContent"
                 },
                 {
