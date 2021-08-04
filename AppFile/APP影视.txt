@@ -106,7 +106,7 @@
                     "url":"http://tv.8d8q.com/api.php/iptv/vod/",
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/小极TV.png",
                     "murl":"q:AppContent"
-                },
+                }
             ]
         },
         {
@@ -186,11 +186,10 @@
                 },
                 {
                     "title":"真快影视",
-
                     "url":"https://www.jingguanghang.com/api.php/app/",
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/真快影视.png",
                     "murl":"q:AppContent"
-                },
+                }
             ]
         },
         {
