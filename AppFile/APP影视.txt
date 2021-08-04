@@ -411,6 +411,14 @@
                     "murl":"q:AppContent"
                 },
                 {
+
+                    "title":"元芳影视",
+
+                    "url":"http://yfys1122.com/mogai_api.php/v1.vod",
+                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/元芳影视.png",
+                    "murl":"q:AppContent"
+                },
+                {
                     "title":"颖家影院",
                     "url":"http://zly.xjqxz.top/api.php/v1.vod",
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/颖家影院.png",
