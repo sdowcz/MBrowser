@@ -280,6 +280,12 @@
                     "murl":"q:AppContent"
                 },
                 {
+                    "title":"辉哥影视",
+                    "url":"https://app.y.hgyule8.com/api.php/v1.vod",
+                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/辉哥影视.png",
+                    "murl":"q:AppContent"
+                },
+                {
                     "title":"好看剧",
                     "url":"http://v.0719.me/api.php/v1.vod",
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/好看剧.png",
