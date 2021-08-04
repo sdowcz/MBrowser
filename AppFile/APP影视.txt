@@ -232,12 +232,6 @@
                     "murl":"q:AppContent"
                 },
                 {
-                    "title":"爱吧影视",
-                    "url":"http://28kysapp.com/api.php/v1.vod",
-                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/爱吧影视.png",
-                    "murl":"q:AppContent"
-                },
-                {
                     "title":"白菜追剧",
                     "url":"http://lbapp.huimaojia.com:30119/mogai_api.php/v1.vod",
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/白菜追剧.png",
@@ -367,12 +361,6 @@
                     "title":"片多儿",
                     "url":"http://meinaikang.com/api.php/v1.vod",
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/片多儿.png",
-                    "murl":"q:AppContent"
-                },
-                {
-                    "title":"青蛙影视",
-                    "url":"http://qwys8.tv/api.php/v1.vod",
-                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/青蛙影视.png",
                     "murl":"q:AppContent"
                 },
                 {
