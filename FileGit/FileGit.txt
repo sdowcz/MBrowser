@@ -22,7 +22,7 @@
                         {
                             "name":"资源采集",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/广大侠/资源采集.mqz",
-                            "updatetime":"版本：2021071702&emsp;更新时间：2021/07/18"
+                            "updatetime":"版本：20210805&emsp;更新时间：2021/08/05"
                         },
                         {
                             "name":"网络直播",
@@ -143,9 +143,9 @@
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/蓝二.png",
                     "list":[
                         {
-                            "name":"蓝资小站725",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/蓝二/蓝资小站725.mqz",
-                            "updatetime":"版本：20210725&emsp;更新时间：2021/07/25"
+                            "name":"蓝资小站804",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/蓝二/蓝资小站804.mqz",
+                            "updatetime":"版本：2021804&emsp;更新时间：2021/08/04"
                         },
                         {
                             "name":"悟空美剧",
