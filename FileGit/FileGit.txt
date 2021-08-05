@@ -733,6 +733,36 @@
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/wokaotianshi123.png",
                     "list":[
                         {
+                            "name":"9亿好",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/wokaotianshi123/9亿好.mqz",
+                            "updatetime":"版本：20210723&emsp;更新时间：2021/07/23"
+                        },
+                        {
+                            "name":"闪电(new)",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/wokaotianshi123/闪电(new).mqz",
+                            "updatetime":"版本：20210801&emsp;更新时间：2021/08/01"
+                        },
+                        {
+                            "name":"孤单影视",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/wokaotianshi123/孤单影视.mqz",
+                            "updatetime":"版本：20210803&emsp;更新时间：2021/08/03"
+                        },
+                        {
+                            "name":"枫林网",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/wokaotianshi123/枫林网.mqz",
+                            "updatetime":"版本：20210803&emsp;更新时间：2021/08/03"
+                        },
+                        {
+                            "name":"missfun(new)",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/wokaotianshi123/missfun(new).mqz",
+                            "updatetime":"版本：20210801&emsp;更新时间：2021/08/01"
+                        },
+                        {
+                            "name":"迪迪影视",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/wokaotianshi123/迪迪影视.mqz",
+                            "updatetime":"版本：20210723&emsp;更新时间：2021/07/31"
+                        },
+                        {
                             "name":"迪迪影视",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/wokaotianshi123/迪迪影视.mqz",
                             "updatetime":"版本：20210723&emsp;更新时间：2021/07/31"
@@ -785,7 +815,7 @@
                         {
                             "name":"极品影视网",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/wokaotianshi123/极品影视网.mqz",
-                            "updatetime":"版本：20210519&emsp;更新时间：2021/07/18"
+                            "updatetime":"版本：20210721&emsp;更新时间：2021/07/21"
                         },
                         {
                             "name":"影视工场",
