@@ -143,9 +143,9 @@
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/蓝二.png",
                     "list":[
                         {
-                            "name":"蓝资小站804",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/蓝二/蓝资小站804.mqz",
-                            "updatetime":"版本：2021804&emsp;更新时间：2021/08/04"
+                            "name":"蓝资小站805",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/蓝二/蓝资小站805.mqz",
+                            "updatetime":"版本：2021805&emsp;更新时间：2021/08/05"
                         },
                         {
                             "name":"悟空美剧",
