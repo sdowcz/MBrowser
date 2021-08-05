@@ -418,7 +418,7 @@
                         {
                             "name":"好漫6",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/唐牛才是食神/好漫6.mqz",
-                            "updatetime":"版本：20210724&emsp;更新时间：2021/07/24"
+                            "updatetime":"版本：20210725&emsp;更新时间：2021/07/25"
                         },
                         {
                             "name":"笔趣阁",
