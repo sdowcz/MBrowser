@@ -270,6 +270,71 @@
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/Killer.png",
                     "list":[
                         {
+                            "name":"1231d电影",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/Killer Jack/1231d电影.mqz",
+                            "updatetime":"版本：0&emsp;更新时间：2021/08/03"
+                        },
+                        {
+                            "name":"京广航影视.K",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/Killer Jack/京广航影视.K.mqz",
+                            "updatetime":"版本：1&emsp;更新时间：2021/08/03"
+                        },
+                        {
+                            "name":"少泽影客.K",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/Killer Jack/少泽影客.K.mqz",
+                            "updatetime":"版本：20210707&emsp;更新时间：2021/08/03"
+                        },
+                        {
+                            "name":"辉哥1080影视.K",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/Killer Jack/辉哥1080影视.K.mqz",
+                            "updatetime":"版本：0&emsp;更新时间：2021/08/03"
+                        },
+                        {
+                            "name":"94神马.K",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/Killer Jack/94神马.K.mqz",
+                            "updatetime":"版本：0&emsp;更新时间：2021/08/03"
+                        },
+                        {
+                            "name":"韩剧TV.K",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/Killer Jack/韩剧TV.K.mqz",
+                            "updatetime":"版本：0&emsp;更新时间：2021/08/03"
+                        },
+                        {
+                            "name":"冷so影院.K",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/Killer Jack/冷so影院.K.mqz",
+                            "updatetime":"版本：728&emsp;更新时间：2021/08/03"
+                        },
+                        {
+                            "name":"小灾难影院.K",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/Killer Jack/小灾难影院.K.mqz",
+                            "updatetime":"版本：20210708&emsp;更新时间：2021/08/03"
+                        },
+                        {
+                            "name":"追剧狗",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/Killer Jack/追剧狗.mqz",
+                            "updatetime":"版本：0&emsp;更新时间：2021/08/03"
+                        },
+                        {
+                            "name":"七年影视",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/Killer Jack/七年影视.mqz",
+                            "updatetime":"版本：0&emsp;更新时间：2021/08/03"
+                        },
+                        {
+                            "name":"飞极速动漫-无搜索",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/Killer Jack/飞极速动漫-无搜索.mqz",
+                            "updatetime":"版本：0&emsp;更新时间：2021/08/03"
+                        },
+                        {
+                            "name":"场库.K",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/Killer Jack/场库.K.mqz",
+                            "updatetime":"版本：0&emsp;更新时间：2021/08/03"
+                        },
+                        {
+                            "name":"不卡美剧.K",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/Killer Jack/不卡美剧.K.mqz",
+                            "updatetime":"版本：803&emsp;更新时间：2021/08/03"
+                        },
+                        {
                             "name":"每日热门.K",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/Killer Jack/每日热门.K.mqz",
                             "updatetime":"版本：20210723&emsp;更新时间：2021/07/23"
