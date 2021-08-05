@@ -270,6 +270,16 @@
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/Killer.png",
                     "list":[
                         {
+                            "name":"璇玑视频",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/Killer Jack/璇玑视频.mqz",
+                            "updatetime":"版本：0&emsp;更新时间：2021/08/03"
+                        },
+                        {
+                            "name":"多多影院.K",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/Killer Jack/多多影院.K.mqz",
+                            "updatetime":"版本：0&emsp;更新时间：2021/08/03"
+                        },
+                        {
                             "name":"1231d电影",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/Killer Jack/1231d电影.mqz",
                             "updatetime":"版本：0&emsp;更新时间：2021/08/03"
