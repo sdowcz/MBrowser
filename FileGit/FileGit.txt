@@ -991,15 +991,17 @@
             ]
         },
         {
-            "title":"卡片(暂无一键导入方法)",
-            "murl":"mapi:/",
+            "title":"VIA轻插件",
+            "murl":"q:#浏览框?url=",
             "typelist":[
                 {
-                    "title":"暂无",
-                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/卡片.png",
+                    "title":"VIA轻插件",
+                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/favicon.ico",
                     "list":[
                         {
-
+                            "name":"VIA轻插件官网",
+                            "url":"http://via-app.cn/#/tabBar/home",
+                            "updatetime":"点击进入VIA轻插件官网"
                         }
                     ]
                 }
