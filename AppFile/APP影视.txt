@@ -119,6 +119,12 @@
                     "murl":"q:AppContent"
                 },
                 {
+                    "title":"913E影视",
+                    "url":"http://www.913e.net/api.php/app/",
+                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/913E影视.png",
+                    "murl":"q:AppContent"
+                },
+                {
                     "title":"播放呀",
                     "url":"https://www.bofangya.com/api.php/app/",
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/播放呀.png",
