@@ -262,6 +262,12 @@
         "murl":"q:AppContent"
         },
         {
+        "title":"段友影视",
+        "url":"https://lb.5277s.com/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/段友影视©.png",
+        "murl":"q:AppContent"
+        },
+        {
         "title":"飞捷影视",
         "url":"http://www.fj6080.com/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/飞捷影视.png",
@@ -310,6 +316,12 @@
         "murl":"q:AppContent"
         },
         {
+        "title":"绿豆影音",
+        "url":"https://lvdoutv.cn/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/绿豆影音.png",
+        "murl":"q:AppContent"
+        },
+        {
         "title":"懒猫电影",
         "url":"http://www.lanmaody.com/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/懒猫电影.png",
@@ -325,6 +337,12 @@
         "title":"冷视TV",
         "url":"https://len.tv/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/冷视TV.png",
+        "murl":"q:AppContent"
+        },
+        {
+        "title":"魔方TV",
+        "url":"http://jimmyzhao.top/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/魔方TV.png",
         "murl":"q:AppContent"
         },
         {
@@ -388,6 +406,12 @@
         "murl":"q:AppContent"
         },
         {
+        "title":"段友影视",
+        "url":"http://v.5imv.cc/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/我爱电影.png",
+        "murl":"q:AppContent"
+        },
+        {
         "title":"吾爱影视",
         "url":"http://app.5lp.net/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/吾爱影视.png",
@@ -403,6 +427,12 @@
         "title":"小城影视",
         "url":"http://www.269w.com/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/小城影视.png",
+        "murl":"q:AppContent"
+        },
+        {
+        "title":"先锋影视",
+        "url":"http://jimmyzhao.top/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/先锋影视.png",
         "murl":"q:AppContent"
         },
         {
