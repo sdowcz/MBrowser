@@ -317,7 +317,7 @@
         },
         {
         "title":"绿豆影音",
-        "url":"https://lvdoutv.cn/api.php/v1.vod",
+        "url":"https://www.lvdoutv.cn/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/绿豆影音.png",
         "murl":"q:AppContent"
         },
