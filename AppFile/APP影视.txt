@@ -341,7 +341,7 @@
         },
         {
         "title":"魔方TV",
-        "url":"http://jimmyzhao.top/api.php/v1.vod",
+        "url":"http://tv.mofangzy.xyz/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/魔方TV.png",
         "murl":"q:AppContent"
         },
@@ -431,7 +431,7 @@
         },
         {
         "title":"先锋影视",
-        "url":"http://jimmyzhao.top/api.php/v1.vod",
+        "url":"http://58xtv.net/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/先锋影视.png",
         "murl":"q:AppContent"
         },
