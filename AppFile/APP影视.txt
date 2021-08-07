@@ -322,6 +322,12 @@
                     "murl":"q:AppContent"
                 },
                 {
+                    "title":"冷视TV",
+                    "url":"https://len.tv/api.php/v1.vod",
+                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/冷视TV.png",
+                    "murl":"q:AppContent"
+                },
+                {
                     "title":"麻瓜视频",
                     "url":"http://myapp.maguays.cc/mogai_api.php/v1.vod",
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/麻瓜视频.png",
