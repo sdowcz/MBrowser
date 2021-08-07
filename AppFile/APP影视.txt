@@ -191,7 +191,7 @@
         "murl":"q:AppContent"
         },
         {
-        "title":"京广航",
+        "title":"京广航影视",
         "url":"https://www.jingguanghang.com/api.php/app/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/京广航影视.png",
         "murl":"q:AppContent"
