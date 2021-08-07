@@ -519,19 +519,19 @@
         "murl":"q:AppContent"
         },
         {
-        "title":"影视工场(毒舌)",
+        "title":"影视工场",
         "url":"https://www.ik4.cc/api.php/app/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/影视工场.png",
         "murl":"q:AppContent"
         },
         {
-        "title":"粉粉影视(白菜)",
+        "title":"粉粉影视",
         "url":"http://huluxiaindex.huimaojia.com:30130/mogai_api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/粉粉影视.png",
         "murl":"q:AppContent"
         },
         {
-        "title":"公主影视(王子)",
+        "title":"公主影视",
         "url":"http://mm.tcsdchina.com:6096/mogai_api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/公主影视.png",
         "murl":"q:AppContent"
