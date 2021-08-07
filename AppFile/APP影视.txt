@@ -406,7 +406,7 @@
         "murl":"q:AppContent"
         },
         {
-        "title":"段友影视",
+        "title":"我爱电影",
         "url":"http://v.5imv.cc/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/我爱电影.png",
         "murl":"q:AppContent"
