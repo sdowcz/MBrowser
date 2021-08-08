@@ -50,7 +50,7 @@ function 选集列表(){
         }else if(URL.indexOf("api.php/lh/vod")!=-1||URL.indexOf("api.php/iptv")!=-1){
             if(选集地址.indexOf("42.51.48.17/?url=")!=-1||选集地址.indexOf(".m3u8")!=-1||选集地址.indexOf(".mp4")!=-1||选集地址.indexOf("/obj/tos")!=-1){
                 if(选集地址.indexOf("?url=")!=-1&&选集地址.indexOf("42.51.48.17")!=1){
-                    选集地址.split("?url=")[1];
+                    var 选集地址=选集地址.split("?url=")[1];
                 }else{
                     var 选集地址="https://www.baidu.com/s?wd="+选集地址;
                 }
