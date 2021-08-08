@@ -1,4 +1,5 @@
 var uu=getVar("url");
+var lasturl=getVar("lasturl");
 if(uu.indexOf("languang.wfss100")!=-1){
     var id=uu.split("url=")[1];
     var uu="https://j.languang.wfss100.com/jx/md5.php?url="+id;
