@@ -2,7 +2,7 @@ if(getVar("url").indexOf("v1.vod")!=-1){
     var URL=getVar("url").split("?")[0];
 }else if(getVar("url").indexOf("video?")!=-1){
     var URL=getVar("url").split("video?")[0];
-}else(getVar("url").indexOf("api.php/iptv)!=-1||getVar("url").indexOf("api.php/lh/vod/")!=-1){
+}else{
     var URL=getVar("url").split("?ac=list")[0];
 }
 var NEXTPAGE=Number(getVar("PN"))+1;
