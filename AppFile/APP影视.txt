@@ -166,6 +166,12 @@
         "murl":"q:APP影视"
         },
         {
+        "title":"江湖影视",
+        "url":"http://app.jhdyw.vip:1234/api.php/app/",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/江湖影视.png",
+        "murl":"q:APP影视"
+        },
+        {
         "title":"琳琅影视",
         "url":"https://www.u23c.com/api.php/app/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/琳琅影视.png",
@@ -358,7 +364,7 @@
         },
         {
         "title":"南府追剧",
-        "url":"http://app.xkvideo.club/api.php/v1.vod",
+        "url":"http://app.xkvideo.design/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/南府追剧.png",
         "murl":"q:APP影视"
         },
@@ -518,12 +524,6 @@
         "murl":"q:APP影视"
         },
         {
-        "title":"影视工场",
-        "url":"https://www.ik4.cc/api.php/app/",
-        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/影视工场.png",
-        "murl":"q:APP影视"
-        },
-        {
         "title":"粉粉影视",
         "url":"http://huluxiaindex.huimaojia.com:30130/mogai_api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/粉粉影视.png",
@@ -537,8 +537,20 @@
         },
         {
         "title":"南府追剧",
-        "url":"http://app.xkvideo.design/api.php/v1.vod",
+        "url":"http://app.xkvideo.club/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/南府追剧.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"江湖影视",
+        "url":"http://share.jhyun.jx.cn/api.php/app/",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/江湖影视.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"影视工场",
+        "url":"https://www.ik4.cc/api.php/app/",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/影视工场.png",
         "murl":"q:APP影视"
         }
     ]
