@@ -417,6 +417,18 @@
         "murl":"q:APP影视"
         },
         {
+        "title":"我爱跟剧",
+        "url":"http://www.52gen.com/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/我爱跟剧.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"蜗牛看鸭",
+        "url":"http://app.snailkya.xyz/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/蜗牛看鸭.png",
+        "murl":"q:APP影视"
+        },
+        {
         "title":"吾爱影视",
         "url":"http://app.5lp.net/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/吾爱影视.png",
