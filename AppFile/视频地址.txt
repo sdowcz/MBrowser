@@ -9,7 +9,9 @@ if(uu.indexOf("languang.wfss100")!=-1){
     var uu="https://vip.gaotian.love/api/?key=sRy0QAq8hqXRlrEtrq&url="+id;
 }
 var resp=JZ(JSON.stringify({url:uu}));
-if(uu.indexOf("baidu.com")!=-1){
+if(lasturl.indexOf("api.php/iptv")!=-1||lasturl.indexOf("api.php/lh")!=-1){
+    "web=";
+}else if(uu.indexOf("baidu.com")!=-1){
     var playurl=uu.split("wd=")[1];
     if(playurl.indexOf("42.51.48.17/?url=")!=-1){
         JSON.stringify([{name:"播放不了请切换mp4",url:playurl+"&_type=.m3u8"},{name:"mp4",url:playurl+"&_type=.mp4"}]);
