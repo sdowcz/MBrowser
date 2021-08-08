@@ -21,91 +21,91 @@
         "title":"293影院",
         "url":"http://db.293ys.top:81/api.php/iptv/vod/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/293影院.png",
-        "murl":"q:AppContent"
+        "murl":"q:TV影视内容"
         },
         {
         "title":"橙子影视",
         "url":"http://tv.aitesucai.xyz/api.php/lh/vod/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/橙子影视.png",
-        "murl":"q:AppContent"
+        "murl":"q:TV影视内容"
         },
         {
         "title":"稻草人TV",
         "url":"http://www.zhaikanys.xyz/api.php/iptv1/vod/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/稻草人TV.png",
-        "murl":"q:AppContent"
+        "murl":"q:TV影视内容"
         },
         {
         "title":"大师兄影视",
         "url":"http://tv.zz.ci/api.php/iptv/vod/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/大师兄影视.png",
-        "murl":"q:AppContent"
+        "murl":"q:TV影视内容"
         },
         {
         "title":"黑龙影视",
         "url":"http://vip.ji-ding-he.site/api.php/iptv/vod/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/黑龙影视.png",
-        "murl":"q:AppContent"
+        "murl":"q:TV影视内容"
         },
         {
         "title":"核桃影视",
         "url":"http://tv.hetaoys.vip/api.php/iptv/vod/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/核桃影视.png",
-        "murl":"q:AppContent"
+        "murl":"q:TV影视内容"
         },
         {
         "title":"聚多影视",
         "url":"http://jdys.chxjon.cn/api.php/iptv/vod/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/聚多影视.png",
-        "murl":"q:AppContent"
+        "murl":"q:TV影视内容"
         },
         {
         "title":"流星雨影院",
         "url":"http://phoebe.cf/api.php/iptv/vod/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/流星雨影院.png",
-        "murl":"q:AppContent"
+        "murl":"q:TV影视内容"
         },
         {
         "title":"明日影视",
         "url":"https://watchmi.cc/api.php/lh/vod/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/明日影视.png",
-        "murl":"q:AppContent"
+        "murl":"q:TV影视内容"
         },
         {
         "title":"青桔影视",
         "url":"http://video.vipbp.cc/api.php/iptv/vod/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/青桔影视.png",
-        "murl":"q:AppContent"
+        "murl":"q:TV影视内容"
         },
         {
         "title":"我的视频",
         "url":"http://www.wsba.com.cn/api.php/lh/vod/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/我的视频.png",
-        "murl":"q:AppContent"
+        "murl":"q:TV影视内容"
         },
         {
         "title":"云播影视",
         "url":"http://yunbo.bxin.tv/api.php/iptv/vod/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/云播影视.png",
-        "murl":"q:AppContent"
+        "murl":"q:TV影视内容"
         },
         {
         "title":"云海影视",
         "url":"http://happiness.xfykl.club/api.php/lh/vod/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/云海影视.png",
-        "murl":"q:AppContent"
+        "murl":"q:TV影视内容"
          },
         {
          "title":"柚子TV",
          "url":"http://tvht.lanrentk.cc/api.php/iptv/vod/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/柚子TV.png",
-         "murl":"q:AppContent"
+         "murl":"q:TV影视内容"
         },
         {
         "title":"小极TV",
         "url":"http://tv.8d8q.com/api.php/iptv/vod/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/小极TV.png",
-         "murl":"q:AppContent"
+         "murl":"q:TV影视内容"
         }
     ]
     },
