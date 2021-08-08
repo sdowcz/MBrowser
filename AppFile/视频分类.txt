@@ -30,7 +30,7 @@ if(URL.indexOf("api.php/app")!=-1){
     var 标题=标题2;var 地址=地址2;
     var 前="?type=";
     头部导航();
-}else if(URL.indexOf("api.php/iptv")!=-1||URL.indexOf("api.php/lh/vod")!=-1){
+}else{
     var 标题=标题3;
     var 地址=地址3;
     var 前="?ac=list&class=";

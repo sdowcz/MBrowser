@@ -54,7 +54,7 @@ if(URL.indexOf("api.php/v1.vod")!=-1){
     var 图片规则=".json(vod_pic)";
     var 简介规则=".json(vod_remarks).c().json(vod_time_add)";
     视频列表();
-}else if(URL.indexOf("api.php/iptv)!=-1||URL.indexOf("api.php/lh/vod")!=-1){
+}else{
     var 列表=e2Arr(getVar("源码"),".json(data)");
     var 标题规则=".json(title)";
     var 地址规则=".json(nextlink)";
