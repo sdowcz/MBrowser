@@ -61,7 +61,7 @@ function 选集列表(){
                 }
             }else if(选集地址.indexOf("adm1.293ys.top:81/jx.php?url=")!=-1){
                 var 切割地址=选集地址.split("?url=")[1];
-                var 选集地址="http://42.51.48.17/?url="+切割地址;
+                var 选集地址="http://148.70.25.88:81/jx/?url="+切割地址;
             }else{
               var 选集地址=选集地址;
             }
