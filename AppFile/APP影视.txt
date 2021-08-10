@@ -507,6 +507,12 @@
         "murl":"q:APP影视"
         },
         {
+        "title":"一只鱼影视",
+        "url":"http://www.bd-4k.ml/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/一只鱼影视.png",
+        "murl":"q:APP影视"
+        },
+        {
         "title":"追番猫",
         "url":"http://dm.496dy.cn:88/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/追番猫.png",
