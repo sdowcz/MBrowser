@@ -274,6 +274,12 @@
         },
         {
         "title":"段友影视",
+        "url":"http://jimmyzhao.top/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/段友影视.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"段友影视",
         "url":"https://lb.5277s.com/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/段友影视©.png",
         "murl":"q:APP影视"
