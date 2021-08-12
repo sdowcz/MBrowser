@@ -477,6 +477,12 @@
         "murl":"q:APP影视"
         },
         {
+        "title":"玺心影视",
+        "url":"https://tv.arbd.cn/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/玺心影视.png",
+        "murl":"q:APP影视"
+        },
+        {
         "title":"元芳影视",
         "url":"http://yfys1122.com/mogai_api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/元芳影视.png",
