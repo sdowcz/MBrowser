@@ -166,6 +166,12 @@
         "murl":"q:APP影视"
         },
         {
+        "title":"京广航影视",
+        "url":"https://www.jingguanghang.com/api.php/app/",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/京广航影视.png",
+        "murl":"q:APP影视"
+        },
+        {
         "title":"九合视频",
         "url":"https://ptygx.com/api.php/app/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/九合视频.png",
@@ -196,15 +202,15 @@
         "murl":"q:APP影视"
         },
         {
+        "title":"影视工场",
+        "url":"https://www.ik4.cc/api.php/app/",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/影视工场.png",
+        "murl":"q:APP影视"
+        }
+        {
         "title":"追剧达人",
         "url":"http://vipmv.tv/api.php/app/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/追剧达人.png",
-        "murl":"q:APP影视"
-        },
-        {
-        "title":"京广航影视",
-        "url":"https://www.jingguanghang.com/api.php/app/",
-        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/京广航影视.png",
         "murl":"q:APP影视"
         }
     ]
@@ -282,6 +288,12 @@
         "title":"段友影视",
         "url":"https://lb.5277s.com/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/段友影视©.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"粉粉影视",
+        "url":"http://huluxiaindex.huimaojia.com:30130/mogai_api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/粉粉影视.png",
         "murl":"q:APP影视"
         },
         {
@@ -554,12 +566,6 @@
         "title":"APP影视(备用)",
         "list":[
         {
-        "title":"粉粉影视",
-        "url":"http://huluxiaindex.huimaojia.com:30130/mogai_api.php/v1.vod",
-        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/粉粉影视.png",
-        "murl":"q:APP影视"
-        },
-        {
         "title":"南府追剧",
         "url":"http://app.xkvideo.club/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/南府追剧.png",
@@ -569,12 +575,6 @@
         "title":"江湖影视",
         "url":"http://share.jhyun.jx.cn/api.php/app/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/江湖影视.png",
-        "murl":"q:APP影视"
-        },
-        {
-        "title":"影视工场",
-        "url":"https://www.ik4.cc/api.php/app/",
-        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/影视工场.png",
         "murl":"q:APP影视"
         }
     ]
