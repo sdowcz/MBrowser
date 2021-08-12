@@ -225,6 +225,12 @@
         "murl":"q:APP影视"
         },
         {
+        "title":"FUFU影视",
+        "url":"https://fufu.ixhduta.cn/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/FUFU影视.png",
+        "murl":"q:APP影视"
+        },
+        {
         "title":"HG影视",
         "url":"http://cs.hgyx.vip/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/HG影视.png",
@@ -268,12 +274,6 @@
         },
         {
         "title":"段友影视",
-        "url":"http://jimmyzhao.top/api.php/v1.vod",
-        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/段友影视.png",
-        "murl":"q:APP影视"
-        },
-        {
-        "title":"段友影视",
         "url":"https://lb.5277s.com/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/段友影视©.png",
         "murl":"q:APP影视"
@@ -288,6 +288,12 @@
         "title":"佛系追剧",
         "url":"http://foxi.kk06.top/mogai_api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/佛系追剧.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"公主影视",
+        "url":"http://mm.tcsdchina.com:6096/mogai_api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/公主影视.png",
         "murl":"q:APP影视"
         },
         {
@@ -318,12 +324,6 @@
         "title":"海棠影视",
         "url":"https://www.52haitang.cn/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/海棠影视.png",
-        "murl":"q:APP影视"
-        },
-        {
-        "title":"酷酷影视",
-        "url":"http://www.kkk3.net/api.php/v1.vod",
-        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/酷酷影视.png",
         "murl":"q:APP影视"
         },
         {
@@ -441,12 +441,6 @@
         "murl":"q:APP影视"
         },
         {
-        "title":"王子影视",
-        "url":"http://kk.tcsdchina.com:6070/mogai_api.php/v1.vod",
-        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/王子影视.png",
-        "murl":"q:APP影视"
-        },
-        {
         "title":"小城影视",
         "url":"http://www.269w.com/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/小城影视.png",
@@ -551,12 +545,6 @@
         "title":"粉粉影视",
         "url":"http://huluxiaindex.huimaojia.com:30130/mogai_api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/粉粉影视.png",
-        "murl":"q:APP影视"
-        },
-        {
-        "title":"公主影视",
-        "url":"http://mm.tcsdchina.com:6096/mogai_api.php/v1.vod",
-        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/公主影视.png",
         "murl":"q:APP影视"
         },
         {
