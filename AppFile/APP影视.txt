@@ -554,12 +554,6 @@
         "title":"APP影视(备用)",
         "list":[
         {
-        "title":"555电影",
-        "url":"http://fx.movie06.com/api.php/app/",
-        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/555电影.png",
-        "murl":"q:APP影视"
-        },
-        {
         "title":"粉粉影视",
         "url":"http://huluxiaindex.huimaojia.com:30130/mogai_api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/粉粉影视.png",
