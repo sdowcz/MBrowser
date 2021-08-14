@@ -357,6 +357,12 @@
         "murl":"q:APP影视"
         },
         {
+        "title":"木白影视",
+        "url":"http://vapp.23at.cn/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/木白影视.png",
+        "murl":"q:APP影视"
+        },
+        {
         "title":"魔方TV",
         "url":"http://tv.mofangzy.xyz/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/魔方TV.png",
