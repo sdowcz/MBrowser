@@ -471,6 +471,11 @@
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/lgh00.png",
                     "list":[
                         {
+                            "name":"蜂鸟网",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/lgh00/蜂鸟网.mqz",
+                            "updatetime":"版本：814&emsp;更新时间：2021/08/14"
+                        },
+                        {
                             "name":"异世界动漫",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/lgh00/异世界动漫.mqz",
                             "updatetime":"版本：807&emsp;更新时间：2021/08/07"
