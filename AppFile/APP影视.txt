@@ -26,7 +26,7 @@
         "title":"293影院",
         "url":"http://db.293ys.top:81/api.php/iptv/vod/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/293影院.png",
-        "murl":"q:AppContent"
+        "murl":"q:TV影视"
         },
         {
         "title":"橙子影视",
