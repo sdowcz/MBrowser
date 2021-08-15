@@ -102,7 +102,6 @@
     293影院=http://db.293ys.top:81/api.php/iptv/vod/
     橙子影视=http://tv.aitesucai.xyz/api.php/lh/vod/
     稻草人TV=http://www.zhaikanys.xyz/api.php/iptv1/vod/
-    大师兄影视=http://tv.zz.ci/api.php/iptv/vod/
     黑龙影视=http://vip.ji-ding-he.site/api.php/iptv/vod/
     核桃影视=http://lg.hetaoys.vip/api.php/iptv/vod/
     聚多影视=http://jdys.chxjon.cn/api.php/iptv/vod/
