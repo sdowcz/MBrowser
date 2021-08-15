@@ -105,7 +105,7 @@
         "url":"http://tvht.lanrentk.cc/api.php/iptv/vod/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/柚子TV.png",
         "murl":"q:TV影视"
-        }
+        },
         {
         "title":"小极TV",
         "url":"http://tv.8d8q.com/api.php/iptv/vod/",
