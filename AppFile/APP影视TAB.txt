@@ -1,7 +1,3 @@
-TV影视##
-19影视=http://ysiptv.19jx.vip/api.php/iptv/vod/
-293影院=http://db.293ys.top:81/api.php/iptv/vod/
-APP影视##
-555电影=http://www.o8tv.com/api.php/app/
-APP影视(v1)##
-80影视=http://www.ccc8.net/api.php/v1.vod
+APP影视##https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/APP影视1.txt
+APP影视(v1)##https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/APP影视(v1).txt
+TV影视##https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/TV影视.txt
