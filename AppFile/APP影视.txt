@@ -53,12 +53,6 @@
         "murl":"q:TV影视"
         },
         {
-        "title":"聚多影视",
-        "url":"http://jdys.chxjon.cn/api.php/iptv/vod/",
-        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/聚多影视.png",
-        "murl":"q:TV影视"
-        },
-        {
         "title":"流星雨影院",
         "url":"http://phoebe.cf/api.php/iptv/vod/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/流星雨影院.png",
@@ -68,18 +62,6 @@
         "title":"明日影视",
         "url":"https://watchmi.cc/api.php/lh/vod/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/明日影视.png",
-        "murl":"q:TV影视"
-        },
-        {
-        "title":"青桔影视",
-        "url":"http://video.vipbp.cc/api.php/iptv/vod/",
-        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/青桔影视.png",
-        "murl":"q:TV影视"
-        },
-        {
-        "title":"我的视频",
-        "url":"http://www.wsba.com.cn/api.php/lh/vod/",
-        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/我的视频.png",
         "murl":"q:TV影视"
         },
         {
