@@ -923,6 +923,42 @@
                             "updatetime":"更新时间：2021/07/18"
                         }
                     ]
+                },
+                {
+                    "title":"内置",
+                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/M浏览器1.png",
+                    "list":[
+                        {
+                            "name":"综合",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/soFile/内置/综合.txt",
+                            "updatetime":"更新时间：2021/07/18"
+                        },
+                        {
+                            "name":"百科",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/soFile/内置/百科.txt",
+                            "updatetime":"更新时间：2021/07/18"
+                        },
+                        {
+                            "name":"新闻",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/soFile/内置/新闻.txt",
+                            "updatetime":"更新时间：2021/07/18"
+                        },
+                        {
+                            "name":"寻医",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/soFile/内置/寻医.txt",
+                            "updatetime":"更新时间：2021/07/18"
+                        },
+                        {
+                            "name":"坏猫",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/soFile/内置/坏猫.txt",
+                            "updatetime":"更新时间：2021/07/18"
+                        },
+                        {
+                            "name":"优惠券",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/soFile/内置/优惠券.txt",
+                            "updatetime":"更新时间：2021/07/18"
+                        }
+                    ]
                 }
             ]
         },
