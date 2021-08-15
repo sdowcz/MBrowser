@@ -925,6 +925,37 @@
                             "updatetime":"版本：20210808&emsp;更新时间：2021/08/08"
                         }
                     ]
+                },
+                {
+                    "title":"模板",
+                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/M浏览器2.png",
+                    "list":[
+                        {
+                            "name":"BASE64加解密",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/模板/BASE64加解密.mqz",
+                            "updatetime":"版本：0"
+                        },
+                        {
+                            "name":"幻灯",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/模板/幻灯.mqz",
+                            "updatetime":"版本：0"
+                        },
+                        {
+                            "name":"同列表多TAB(new)",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/模板/同列表多TAB(new).mqz",
+                            "updatetime":"版本：0"
+                        },
+                        {
+                            "name":"aes解密",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/模板/aes解密.mqz",
+                            "updatetime":"版本：0"
+                        },
+                        {
+                            "name":"登录，搜索tab",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/模板/登录，搜索tab.mqz",
+                            "updatetime":"版本：0"
+                        }
+                    ]
                 }
             ]
         },
