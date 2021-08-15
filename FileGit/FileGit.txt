@@ -11,17 +11,17 @@
                         {
                             "name":"一个影视(单一搜索版本)",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/广大侠/一个影视(单一搜索版本).mqz",
-                            "updatetime":"版本：2021071703&emsp;更新时间：2021/07/18"
+                            "updatetime":"版本：20210814&emsp;更新时间：2021/08/14"
                         },
                         {
                             "name":"一个影视(批量搜索版本)",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/广大侠/一个影视(批量搜索版本).mqz",
-                            "updatetime":"版本：2021071703&emsp;更新时间：2021/07/18"
+                            "updatetime":"版本：20210814&emsp;更新时间：2021/08/14"
                         },
                         {
                             "name":"资源采集",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/广大侠/资源采集.mqz",
-                            "updatetime":"版本：20210805&emsp;更新时间：2021/08/05"
+                            "updatetime":"版本：20210810&emsp;更新时间：2021/08/10"
                         },
                         {
                             "name":"网络直播",
@@ -142,9 +142,9 @@
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/蓝二.png",
                     "list":[
                         {
-                            "name":"蓝资小站808",
+                            "name":"蓝资小站814",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/蓝二/蓝资小站808.mqz",
-                            "updatetime":"版本：2021808&emsp;更新时间：2021/08/08"
+                            "updatetime":"版本：2021814&emsp;更新时间：2021/08/14"
                         },
                         {
                             "name":"悟空美剧",
@@ -356,7 +356,7 @@
                         {
                             "name":"全球直播.K",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/Killer Jack/全球直播.K.mqz",
-                            "updatetime":"版本：20210715&emsp;更新时间：2021/07/18"
+                            "updatetime":"版本：20210715&emsp;更新时间：2021/07/15"
                         },
                         {
                             "name":"爱广场舞.K",
@@ -747,6 +747,21 @@
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/wokaotianshi123.png",
                     "list":[
                         {
+                            "name":"麻豆影视",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/wokaotianshi123/麻豆影视.mqz",
+                            "updatetime":"版本：20210811&emsp;更新时间：2021/08/11"
+                        },
+                        {
+                            "name":"京广航影视",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/wokaotianshi123/京广航影视.mqz",
+                            "updatetime":"版本：20210806&emsp;更新时间：2021/08/06"
+                        },
+                        {
+                            "name":"饭团TV",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/wokaotianshi123/饭团TV.mqz",
+                            "updatetime":"版本：20210812&emsp;更新时间：2021/08/12"
+                        },
+                        {
                             "name":"9亿好",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/wokaotianshi123/9亿好.mqz",
                             "updatetime":"版本：20210723&emsp;更新时间：2021/07/23"
@@ -774,12 +789,7 @@
                         {
                             "name":"迪迪影视",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/wokaotianshi123/迪迪影视.mqz",
-                            "updatetime":"版本：20210723&emsp;更新时间：2021/07/31"
-                        },
-                        {
-                            "name":"迪迪影视",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/wokaotianshi123/迪迪影视.mqz",
-                            "updatetime":"版本：20210723&emsp;更新时间：2021/07/31"
+                            "updatetime":"版本：20210723&emsp;更新时间：2021/07/23"
                         },
                         {
                             "name":"555电影网",
@@ -829,7 +839,7 @@
                         {
                             "name":"极品影视网",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/wokaotianshi123/极品影视网.mqz",
-                            "updatetime":"版本：20210721&emsp;更新时间：2021/07/21"
+                            "updatetime":"版本：20210811&emsp;更新时间：2021/08/11"
                         },
                         {
                             "name":"影视工场",
@@ -862,6 +872,17 @@
                             "name":"迪卡电影网",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/13082555673/迪卡电影网.mqz",
                             "updatetime":"版本：0&emsp;更新时间：2021/07/20"
+                        }
+                    ]
+                },
+                {
+                    "title":"嗨又是我",
+                    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/嗨又是我.png",
+                    "list":[
+                        {
+                            "name":"MyIPTV",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/嗨又是我/雪视频.H.mqz",
+                            "updatetime":"版本：20210808&emsp;更新时间：2021/08/08"
                         }
                     ]
                 }
