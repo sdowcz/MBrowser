@@ -1,0 +1,1 @@
+{"name":"优惠券","value":"http:\/\/ntao.nr19.cn\/index.php?r=index\/classify&hot=2&kw=#KEY#","version":1}

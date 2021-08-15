@@ -1,0 +1,1 @@
+{"name":"百科","version":1,"engs":[{"data":"https:\/\/baike.baidu.com\/item\/#KEY#\r","name":"百度速览","type":"u"},{"data":"https:\/\/m.sogou.com\/web\/searchList.jsp?keyword=#KEY#\r","name":"搜狗百科","type":"u"},{"data":"https:\/\/wapbaike.baidu.com\/search\/none?word=#KEY#\r","name":"百度百科","type":"u"},{"data":"https:\/\/zh.m.wikipedia.org\/wiki\/#KEY#","name":"维基百科","type":"u"}]}
