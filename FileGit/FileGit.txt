@@ -129,11 +129,6 @@
                             "name":"追剧助手",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/木白先生/追剧助手.mqz",
                             "updatetime":"版本：20210716&emsp;更新时间：2021/07/18"
-                        },
-                        {
-                            "name":"淘好看影视",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/木白先生/淘好看影视.mqz",
-                            "updatetime":"版本：20210510&emsp;更新时间：2021/07/18"
                         }
                     ]
                 },
@@ -630,6 +625,11 @@
                             "name":"轻豆瓣",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/青城山白公子/轻豆瓣.mqz",
                             "updatetime":"版本：17&emsp;更新时间：2021/07/28"
+                        },
+                        {
+                            "name":"轻豆瓣影视",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/青城山白公子/轻豆瓣影视.mqz",
+                            "updatetime":"版本：16&emsp;更新时间：2021/08/12"
                         }
                     ]
                 },
@@ -904,10 +904,10 @@
                         {
                             "name":"爱搜索",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/soFile/影视/爱搜索.txt",
-                            "updatetime":"更新时间：2021/07/18"
+                            "updatetime":"wokaotianshi123&emsp;更新时间：2021/07/18"
                         },
                         {
-                            "name":"影视聚搜 2.X版",
+                            "name":"影视",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/soFile/影视/影视聚搜.txt",
                             "updatetime":"更新时间：2021/07/18"
                         }
@@ -918,14 +918,24 @@
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/so工具.png",
                     "list":[
                         {
-                            "name":"网盘搜索 2.X版",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/soFile/工具/网盘搜索.txt",
-                            "updatetime":"更新时间：2021/07/18"
+                            "name":"聚合搜(六)",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/soFile/工具/聚合搜(六).txt",
+                            "updatetime":"SVIP-666&emsp;更新时间：2021/07/18"
                         },
                         {
-                            "name":"软件搜索 2.X版",
+                            "name":"六神磁历(搜)",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/soFile/工具/六神磁历(搜).txt",
+                            "updatetime":"SVIP-666&emsp;更新时间：2021/07/18"
+                        },
+                        {
+                            "name":"网盘",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/soFile/工具/网盘搜索.txt",
+                            "updatetime":"fahy&emsp;更新时间：2021/07/18"
+                        },
+                        {
+                            "name":"软件",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/soFile/工具/软件搜索.txt",
-                            "updatetime":"更新时间：2021/07/18"
+                            "updatetime":"fahy&emsp;更新时间：2021/07/18"
                         }
                     ]
                 },
