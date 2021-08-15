@@ -659,6 +659,31 @@
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/asdf1319964f.png",
                     "list":[
                         {
+                            "name":"211电影",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/asdf1319964f/211电影.mqz",
+                            "updatetime":"版本：20210728&emsp;更新时间：2021/07/28"
+                        },
+                        {
+                            "name":"草民影视+S",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/asdf1319964f/草民影视+S.mqz",
+                            "updatetime":"版本：20210802&emsp;更新时间：2021/08/02"
+                        },
+                        {
+                            "name":"妮可动漫",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/asdf1319964f/妮可动漫.mqz",
+                            "updatetime":"版本：20210728&emsp;更新时间：2021/07/28"
+                        },
+                        {
+                            "name":"ASMRZY8",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/asdf1319964f/ASMRZY8.mqz",
+                            "updatetime":"版本：0&emsp;更新时间：2021/07/28"
+                        },
+                        {
+                            "name":"555电影网+S",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/asdf1319964f/555电影网+S.mqz",
+                            "updatetime":"版本：20210723&emsp;更新时间：2021/07/23"
+                        },
+                        {
                             "name":"陈家影视",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/asdf1319964f/陈家影视.mqz",
                             "updatetime":"版本：20210721&emsp;更新时间：2021/07/21"
@@ -689,6 +714,11 @@
                             "updatetime":"版本：20210728&emsp;更新时间：2021/07/28"
                         },
                         {
+                            "name":"耳音asmr",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/asdf1319964f/耳音asmr.mqz",
+                            "updatetime":"版本：0&emsp;更新时间：2021/07/18"
+                        },
+                        {
                             "name":"Asmrv",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/asdf1319964f/Asmrv.mqz",
                             "updatetime":"版本：0&emsp;更新时间：2021/07/18"
@@ -696,12 +726,17 @@
                         {
                             "name":"笔趣阁漫画",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/asdf1319964f/笔趣阁漫画.mqz",
-                            "updatetime":"版本：0&emsp;更新时间：2021/07/18"
+                            "updatetime":"版本：20210728&emsp;更新时间：2021/07/28"
                         },
                         {
                             "name":"97电影",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/asdf1319964f/97电影.mqz",
-                            "updatetime":"版本：0&emsp;更新时间：2021/07/18"
+                            "updatetime":"版本：20210802&emsp;更新时间：2021/08/02"
+                        },
+                        {
+                            "name":"AGE",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/asdf1319964f/AGE.mqz",
+                            "updatetime":"版本：20210202&emsp;更新时间：2021/02/02"
                         }
                     ]
                 },
