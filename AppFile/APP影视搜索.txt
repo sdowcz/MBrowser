@@ -13,7 +13,6 @@
     大师兄影视=https://hou.lu/api.php/app/
     海胆影视=http://xf123.cc/api.php/app/
     海绵影视=http://app1.yuzhouys.com/api.php/app/
-    饭团影院=http://fantuan.wkfile.com/api.php/app/
     京广航影视=https://www.jingguanghang.com/api.php/app/
     九合视频=https://ptygx.com/api.php/app/
     江湖影视=http://app.jhdyw.vip:1234/api.php/app/
