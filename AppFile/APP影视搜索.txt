@@ -13,6 +13,7 @@
     大师兄影视=https://hou.lu/api.php/app/
     海胆影视=http://xf123.cc/api.php/app/
     海绵影视=http://app1.yuzhouys.com/api.php/app/
+    饭团影院=http://fantuan.wkfile.com/api.php/app/
     京广航影视=https://www.jingguanghang.com/api.php/app/
     九合视频=https://ptygx.com/api.php/app/
     江湖影视=http://app.jhdyw.vip:1234/api.php/app/
@@ -20,7 +21,8 @@
     萌蛋蛋=http://app.mengdandan.com/api.php/app/
     思古影视=https://siguyy.com/api.php/app/
     影视工场=https://www.ik4.cc/api.php/app/
-    追剧达人=http://vipmv.tv/api.php/app/"
+    追剧达人=http://vipmv.tv/api.php/app/
+    "
     },
     {
     "title":"APP影视(v1)",
@@ -89,7 +91,8 @@
     追剧吧=http://zhuijuba.vip/api.php/v1.vod
     宅男影院=http://www.znyy666.top/api.php/v1.vod
     侦探影视=http://ys.huangguay.com/mogai_api.php/v1.vod
-    追影兔=http://longw.xyz:91/api.php/v1.vod"
+    追影兔=http://longw.xyz:91/api.php/v1.vod
+    "
     },
     {
     "title":"TV影视",
@@ -110,7 +113,8 @@
     我的视频=http://www.wsba.com.cn/api.php/lh/vod/
     云播影视=http://yunbo.bxin.tv/api.php/iptv/vod/
     云海影视=http://happiness.xfykl.club/api.php/lh/vod/
-    小极TV=http://tv.8d8q.com/api.php/iptv/vod/"
+    小极TV=http://tv.8d8q.com/api.php/iptv/vod/
+    "
     }
 ]
 }
