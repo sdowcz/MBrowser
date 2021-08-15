@@ -20,7 +20,6 @@
     萌蛋蛋=http://app.mengdandan.com/api.php/app/
     思古影视=https://siguyy.com/api.php/app/
     影视工场=https://www.ik4.cc/api.php/app/
-    追剧达人=http://vipmv.tv/api.php/app/
     "
     },
     {
