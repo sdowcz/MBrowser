@@ -249,6 +249,12 @@
         "murl":"q:APP影视"
         },
         {
+        "title":"大海影视",
+        "url":"https://sea521.top/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/大海影视.png",
+        "murl":"q:APP影视"
+        },
+        {
         "title":"顶空影视",
         "url":"http://app1.dikotv.com/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/顶空影视.png",
