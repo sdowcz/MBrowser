@@ -897,6 +897,11 @@
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/VIP影视.png",
                     "list":[
                         {
+                            "name":"爱搜索",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/soFile/影视/爱搜索.txt",
+                            "updatetime":"更新时间：2021/07/18"
+                        },
+                        {
                             "name":"影视聚搜 2.X版",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/soFile/影视/影视聚搜.txt",
                             "updatetime":"更新时间：2021/07/18"
