@@ -250,12 +250,6 @@
         },
         {
         "title":"大海影视",
-        "url":"http://sea521.top/api.php/v1.vod",
-        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/大海影视.png",
-        "murl":"q:APP影视"
-        },
-        {
-        "title":"大海影视",
         "url":"http://119.29.63.137/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/大海影视.png",
         "murl":"q:APP影视"
@@ -366,12 +360,6 @@
         "title":"木白影视",
         "url":"http://vapp.23at.cn/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/木白影视.png",
-        "murl":"q:APP影视"
-        },
-        {
-        "title":"魔方TV",
-        "url":"http://tv.mofangzy.xyz/api.php/v1.vod",
-        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/魔方TV.png",
         "murl":"q:APP影视"
         },
         {

@@ -36,7 +36,6 @@
     爱影视=https://www.hzlff.cn/api.php/v1.vod
     白菜追剧=http://lbapp.huimaojia.com:30119/mogai_api.php/v1.vod
     初心影视=https://www.18mv.club/api.php/v1.vod
-    大海影视=http://sea521.top/api.php/v1.vod
     大海影视=http://119.29.63.137/api.php/v1.vod
     顶空影视=http://app1.dikotv.com/api.php/v1.vod
     大熊追剧=http://www.dxzj88.com/mogai_api.php/v1.vod
@@ -56,7 +55,6 @@
     蓝鲸视界=https://apps.vd5.cc/api.php/v1.vod
     冷视TV=https://len.tv/api.php/v1.vod
     木白影视=http://vapp.23at.cn/api.php/v1.vod
-    魔方TV=http://tv.mofangzy.xyz/api.php/v1.vod
     麻瓜视频=http://myapp.maguays.cc/mogai_api.php/v1.vod
     喵乐影视=http://miaoletv.com/api.php/v1.vod
     南府追剧=http://app.xkvideo.design/api.php/v1.vod
