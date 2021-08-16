@@ -147,6 +147,11 @@
                   "updatetime":"版本：2021816&emsp;更新时间：2021/08/16"
                         },
                         {
+                            "name":"论坛轻站仓库",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/蓝二/论坛轻站仓库.mqz",
+                            "updatetime":"版本：1&emsp;更新时间：2021/08/16"
+                        },
+                        {
                             "name":"悟空美剧",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/蓝二/悟空美剧.mqz",
                             "updatetime":"版本：0&emsp;更新时间：2021/07/31"
