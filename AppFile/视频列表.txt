@@ -1,4 +1,4 @@
-if(getVar("url").indexOf("v1.vod")!=-1){
+if(getVar("url").indexOf(".vod")!=-1){
     var URL=getVar("url").split("?")[0];
 }else if(getVar("url").indexOf("video?")!=-1){
     var URL=getVar("url").split("video?")[0];
@@ -9,7 +9,7 @@ var NEXTPAGE=Number(getVar("PN"))+1;
 function 视频列表(){
     var res={};var items=[];var LIST=[];
     for(var j=0;j<列表.length;j++){
-        if(URL.indexOf("api.php/v1.vod")!=-1||URL.indexOf("api.php/app")!=-1){
+        if(URL.indexOf(".vod")!=-1||URL.indexOf("api.php/app")!=-1){
             var CODE=JSON.stringify(列表[j]);
         }else{
             var CODE=列表[j];
@@ -40,7 +40,7 @@ function 视频列表(){
     res.nextpage=getVar("前")+NEXTPAGE+getVar("后");
     return JSON.stringify(res);
 }
-if(URL.indexOf("api.php/v1.vod")!=-1){
+if(URL.indexOf(".vod")!=-1){
     var 列表=JSON.parse(getVar("源码").replace(/<.*?>/g,"").replace(/[\s]*/g,"")).data.list;
     var 标题规则=".json(vod_name)";
     var 地址规则=".c(/detail?vod_id=).json(vod_id)";
