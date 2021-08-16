@@ -32,6 +32,7 @@
     FUFU影视=https://fufu.ixhduta.cn/api.php/v1.vod
     HG影视=http://cs.hgyx.vip/api.php/v1.vod
     VIP影视=http://www.sp.ooo/api.php/v1.vod
+    爱看TV=http://mini.aikantv.top/mogai_api.php/v1.vod
     爱影视=https://www.hzlff.cn/api.php/v1.vod
     白菜追剧=http://lbapp.huimaojia.com:30119/mogai_api.php/v1.vod
     初心影视=https://www.18mv.club/api.php/v1.vod

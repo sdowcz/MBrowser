@@ -225,6 +225,12 @@
         "murl":"q:APP影视"
         },
         {
+        "title":"爱看TV",
+        "url":"http://mini.aikantv.top/mogai_api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/萌看TV.png",
+        "murl":"q:APP影视"
+        },
+        {
         "title":"爱影视",
         "url":"https://www.hzlff.cn/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/爱影视.png",
