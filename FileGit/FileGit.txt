@@ -9,6 +9,11 @@
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/广大侠.png",
                     "list":[
                         {
+                            "name":"一个影视(三合一搜索)",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/广大侠/一个影视.mqz",
+                            "updatetime":"版本：20210816&emsp;更新时间：2021/08/16"
+                        },
+                        {
                             "name":"一个影视(单一搜索版本)",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/广大侠/一个影视(单一搜索版本).mqz",
                             "updatetime":"版本：20210814&emsp;更新时间：2021/08/14"
@@ -76,7 +81,7 @@
                         {
                             "name":"优酷视频",
                             "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/广大侠/优酷视频.mqz",
-                            "updatetime":"版本：20210801&emsp;更新时间：2021/08/01"
+                            "updatetime":"版本：20210816&emsp;更新时间：2021/08/16"
                         }
                     ]
                 },
@@ -137,9 +142,9 @@
                     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/蓝二.png",
                     "list":[
                         {
-                            "name":"蓝资小站815",
-                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/蓝二/蓝资小站815.mqz",
-                            "updatetime":"版本：2021815&emsp;更新时间：2021/08/15"
+                            "name":"蓝资小站816",
+                            "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/蓝二/蓝资小站816.mqz",
+                            "updatetime":"版本：2021816&emsp;更新时间：2021/08/16"
                         },
                         {
                             "name":"悟空美剧",
