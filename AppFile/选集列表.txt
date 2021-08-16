@@ -31,7 +31,6 @@ function 选集列表(){
           }else{
           var 接口=URL.match(/https?:\/\/[^\/]*/)[0]+可用接口[0].match(/\/.*(url|v|vid)=/)[0].replace("..",".");
           }
-       }
             }else{
                 var 接口="http://egwang186.gitee.io/?url=";
             }
