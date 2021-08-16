@@ -119,8 +119,8 @@
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/蓝二.png",
         "list":[
         {
-        "name":"蓝资小站816",
-        "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/蓝二/蓝资小站816.mqz"
+        "name":"蓝资小站",
+        "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/蓝二/蓝资小站.mqz"
         },
         {
         "name":"论坛轻站仓库",
