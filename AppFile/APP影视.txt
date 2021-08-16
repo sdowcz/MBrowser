@@ -54,7 +54,7 @@
         },
         {
         "title":"聚多影视",
-        "url":"http://jdys.chxjon.cn/api.php/iptv/vod/",
+        "url":"http://jdyy.chxjon.cn/api.php/iptv/vod/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/聚多影视.png",
         "murl":"q:TV影视"
         },
