@@ -51,7 +51,6 @@
     核桃影视=http://app.hetaoys.vip/api.php/v1.vod
     海棠影视=https://www.52haitang.cn/api.php/v1.vod
     快播吧=http://www.hd8.pw/api.php/v1.vod
-    绿豆影音=https://www.lvdoutv.cn/api.php/v1.vod
     懒猫电影=http://www.lanmaody.com/api.php/v1.vod
     蓝鲸视界=https://apps.vd5.cc/api.php/v1.vod
     冷视TV=https://len.tv/api.php/v1.vod
