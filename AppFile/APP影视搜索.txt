@@ -26,6 +26,7 @@
     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/南府追剧.png",
     "murl":"q:APP影视(v1)搜索",
     "list":"
+    555TV=http://gxhshyy.com/api.php/gctvapi.vod
     80影视=http://www.ccc8.net/api.php/v1.vod
     80K影视=http://1080p.tv/api.php/v1.vod
     FUFU影视=https://fufu.ixhduta.cn/api.php/v1.vod
