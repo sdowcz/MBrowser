@@ -679,8 +679,8 @@
         "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/wokaotianshi123/京广航影视.mqz"
         },
         {
-        "name":"饭团TV",
-        "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/wokaotianshi123/饭团TV.mqz"
+        "name":"饭团tv",
+        "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/wokaotianshi123/饭团tv.mqz"
         },
         {
         "name":"9亿好",
