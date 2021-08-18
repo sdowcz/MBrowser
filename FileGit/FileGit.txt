@@ -123,8 +123,8 @@
         "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/蓝二/蓝资小站.mqz"
         },
         {
-        "name":"论坛轻站仓库",
-        "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/蓝二/论坛轻站仓库.mqz"
+        "name":"论坛轻站采集",
+        "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/蓝二/论坛轻站采集.mqz"
         },
         {
         "name":"悟空美剧",
