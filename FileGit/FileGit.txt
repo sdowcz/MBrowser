@@ -818,10 +818,10 @@
         }
     ]
     },
-        {
-        "title":"聚合搜索引擎",
-        "murl":"mapi:so/",
-        "typelist":[
+    {
+    "title":"聚合搜索引擎",
+    "murl":"mapi:so/",
+    "typelist":[
         {
         "title":"影视",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/VIP影视.png",
@@ -890,10 +890,10 @@
         }
     ]
     },
-        {
-        "title":"JS脚本",
-        "murl":"mapi:js/",
-        "typelist":[
+    {
+    "title":"JS脚本",
+    "murl":"mapi:js/",
+    "typelist":[
         {
         "title":"影视解析",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/80K影视.png",
@@ -924,10 +924,10 @@
         }
     ]
     },
-        {
-        "title":"广告拦截规则",
-        "murl":"mapi:ad/",
-        "typelist":[
+    {
+    "title":"广告拦截规则",
+    "murl":"mapi:ad/",
+    "typelist":[
         {
         "title":"广告拦截",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/ad.png",
@@ -972,10 +972,10 @@
         }
     ]
     },
-        {
-        "title":"VIA轻插件",
-        "murl":"q:#浏览框?url=",
-        "typelist":[
+    {
+    "title":"VIA轻插件",
+    "murl":"q:#浏览框?url=",
+    "typelist":[
         {
         "title":"VIA轻插件",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/favicon.ico",
