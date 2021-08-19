@@ -7,7 +7,7 @@
     "typelist":[
         {
         "title":"广大侠",
-        "list":[
+        "list":
         {"
         一个影视
         资源采集
@@ -23,11 +23,10 @@
         QQ音乐
         优酷视频
         "}
-        ]
         },
         {
         "title":"InMemory",
-        "list":[
+        "list":
         {"
         m仓库
         APP影视A
@@ -37,19 +36,17 @@
         清风DJ
         九桃小说(富文本)
         "}
-        ]
         },
         {
         "title":"木白先生",
-        "list":[
+        "list":
         {"
         追剧助手
         "}
-        ]
         },
         {
         "title":"蓝二",
-        "list":[
+        "list":
         {"
         蓝资小站
         论坛轻站采集
@@ -69,11 +66,10 @@
         无双电影
         思古影视
         "}
-        ]
         },
         {
         "title":"fahy",
-        "list":[
+        "list":
         {"
         捏它追剧
         4K极客影视
@@ -83,11 +79,10 @@
         010动漫之家
         奇优影院
         "}
-        ]
         },
         {
         "title":"Killer Jack",
-        "list":[
+        "list":
         {"
         璇玑视频
         多多影院.K
@@ -118,11 +113,10 @@
         美剧爱
         聚合影视V7
         "}
-        ]
         },
         {
         "title":"唐牛才是食神",
-        "list":[
+        "list":
         {"
         好漫6
         笔趣阁
@@ -135,11 +129,10 @@
         独漫画系列
         知音漫客
         "}
-        ]
         },
         {
         "title":"lgh00",
-        "list":[
+        "list":
         {"
         爱搞机
         泡泡网
@@ -173,7 +166,6 @@
         CMS
         电影先生
         "}
-        ]
         },
         {"
         "title":"青城山白公子",
@@ -182,21 +174,19 @@
         ⭐️漫画
         轻豆瓣影视
         "}
-        ]
         },
         {
         "title":"luchao900",
-        "list":[
+        "list":
         {"
         bilibili
         超星阅读
         骚火影视
         "}
-        ]
         },
         {
         "title":"asdf1319964f",
-        "list":[
+        "list":
         {"
         211电影
         草民影视+S
@@ -215,19 +205,17 @@
         97电影
         AGE
         "}
-        ]
         },
         {
         "title":"wumingtai",
-        "list":[
+        "list":
         {"
         MyIPTV
         "}
-        ]
         },
         {
         "title":"龙火",
-        "list":[
+        "list":
         {"
         大师兄影视
         酷客影院
@@ -235,11 +223,10 @@
         肥牛看
         奇热影视
         "}
-        ]
         },
         {
         "title":"wokaotianshi123",
-        "list":[
+        "list":
         {"
         人人迷影视
         麻豆影视
@@ -263,36 +250,32 @@
         极品影视网
         影视工场
         "}
-        ]
         },
         {
         "title":"dsp",
-        "list":[
+        "list":
         {"
         知心影视
         "}
-        ]
         },
         {
         "title":"13082555673",
-        "list":[
+        "list":
         {"
         小熊影视
         迪卡电影网
         "}
-        ]
         },
         {
         "title":"嗨又是我",
-        "list":[
+        "list":
         {“
         雪视频.H
         ”}
-        ]
         },
         {
         "title":"模板",
-        "list":[
+        "list":
         {"
         mdata测试
         BASE64加解密
@@ -301,7 +284,6 @@
         aes解密
         登录，搜索tab
         "}
-        ]
         }
     ]
     },
@@ -312,27 +294,25 @@
         "typelist":[
         {
         "title":"影视",
-        "list":[
+        "list":
         {"
         爱搜索
         影视
         "}
-        ]
         },
         {
         "title":"工具",
-        "list":[
+        "list":
         {"
         聚合搜(六)
         六神磁历(搜)
         网盘搜索
         软件搜索
         "}
-        ]
         },
         {
         "title":"内置",
-        "list":[
+        "list":
         {"
         综合
         百科
@@ -341,7 +321,6 @@
         坏猫
         优惠券
         "}
-        ]
         }
     ]
     },
@@ -352,21 +331,19 @@
         "typelist":[
         {
         "title":"影视解析",
-        "list":[
+        "list":
         {"
         VIP会员视频自动解析
         觅影VIP解析
         懒人专用
         "}
-        ]
         },
         {
         "title":"工具",
-        "list":[
+        "list":
         {"
         豆瓣资源下载大师
         "}
-        ]
         }
     ]
     },
@@ -377,7 +354,7 @@
         "typelist":[
         {
         "title":"广告拦截",
-        "list":[
+        "list":
         {"
         ad3=https://cdn.jsdelivr.net/gh/o0HalfLife0o/list/ad3.txt
         ad=https://gitee.com/halflife/list/raw/master/ad.txt
@@ -389,7 +366,6 @@
         adgk=https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt
         ChinaListV2.0=https://www.oduang.com/ChinaList2.0.txt
         "}
-        ]
         }
     ]
     },
@@ -400,11 +376,10 @@
         {
         "title":"VIA轻插件",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/favicon.ico",
-        "list":[
+        "list":
         {
         VIA轻插件官网=http://via-app.cn/#/tabBar/home"
         }
-        ]
         }
     ]
     }
