@@ -260,6 +260,45 @@
         优惠券
         "}
     ]
+    },
+    {
+    "title":"脚本",
+    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/脚本.webp",
+    "murl":"q:脚本",
+    "lists":[
+        {
+        "name":"影视",
+        "list":"
+        VIP会员视频自动解析
+        觅影VIP解析
+        懒人专用
+        "},
+        {
+        "name":"工具",
+        "list":"
+        豆瓣资源下载大师
+        "}
+    ]
+    },
+    {
+    "title":"广告拦截规则",
+    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/广告拦截规则.webp",
+    "murl":"q:广告拦截规则",
+    "lists":[
+        {
+        "name":"影视",
+        "list":"
+        ad3=https://cdn.jsdelivr.net/gh/o0HalfLife0o/list/ad3.txt
+        ad=https://gitee.com/halflife/list/raw/master/ad.txt
+        乘风-rule=https://gitee.com/xinggsf/Adblock-Rule/raw/master/rule.txt
+        乘风-mv=https://gitee.com/xinggsf/Adblock-Rule/raw/master/mv.txt
+        Easylist China=https://easylist-downloads.adblockplus.org/easylistchina.txt
+        EasyList Lite=https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjxlist.txt
+        CJX's Annoyance List=https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
+        adgk=https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt
+        ChinaListV2.0=https://www.oduang.com/ChinaList2.0.txt
+        "}
+    ]
     }
 ]
 }
