@@ -2,7 +2,7 @@
 "data":[
     {
     "title":"轻站",
-    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/江湖影视.png",
+    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/轻站.webp",
     "murl":"q:轻站",
     "lists":[
         {
@@ -36,8 +36,8 @@
     ]
     },
     {
-    "title":"jiaoben",
-    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/江湖影视.png",
+    "title":"脚本",
+    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/脚本.webp",
     "murl":"q:轻站",
     "lists":[
         {
