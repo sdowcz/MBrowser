@@ -17,6 +17,7 @@
     九合视频=https://ptygx.com/api.php/app/
     江湖影视=http://app.jhdyw.vip:1234/api.php/app/
     琳琅影视=https://www.u23c.com/api.php/app/
+    萌蛋蛋=http://app.mengdandan.com/api.php/app/
     思古影视=https://siguyy.com/api.php/app/
     影视工场=https://www.ik4.cc/api.php/app/
     "
