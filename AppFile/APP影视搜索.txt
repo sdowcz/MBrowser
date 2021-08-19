@@ -20,8 +20,7 @@
     萌蛋蛋=http://app.mengdandan.com/api.php/app/
     思古影视=https://siguyy.com/api.php/app/
     影视工场=https://www.ik4.cc/api.php/app/
-    "
-    },
+    "},
     {
     "title":"APP影视(v1)",
     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/南府追剧.png",
@@ -89,8 +88,7 @@
     宅男影院=http://www.znyy666.top/api.php/v1.vod
     侦探影视=http://ys.huangguay.com/mogai_api.php/v1.vod
     追影兔=http://longw.xyz:91/api.php/v1.vod
-    "
-    },
+    "},
     {
     "title":"TV影视",
     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/293影院.png",
@@ -108,7 +106,6 @@
     云播影视=http://yunbo.bxin.tv/api.php/iptv/vod/
     云海影视=http://happiness.xfykl.club/api.php/lh/vod/
     小极TV=http://tv.8d8q.com/api.php/iptv/vod/
-    "
-    }
+    "}
 ]
 }
