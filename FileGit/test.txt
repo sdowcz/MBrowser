@@ -1,0 +1,34 @@
+{
+"data":[
+    {
+    "title":"轻站",
+    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/江湖影视.png",
+    "murl":"q:轻站",
+    "lists":[
+        {
+        "name":"广大侠",
+        "list":"一个影视"
+        },
+        {
+        "name":"InMemory",
+        "list":"m仓库"
+        }
+    ]
+    },
+    {
+    "title":"jiaoben",
+    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/江湖影视.png",
+    "murl":"q:轻站",
+    "lists":[
+        {
+        "name":"广大侠",
+        "list":"一个影视"
+        },
+        {
+        "name":"InMemory",
+        "list":"m仓库"
+        }
+        ]
+     }
+]
+}
