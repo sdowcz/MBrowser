@@ -3,7 +3,7 @@
     {
     "title":"轻站",
     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/轻站.webp",
-    "murl":"q:轻站",
+    "murl":"q:轻站/",
     "lists":[
         {
         "name":"广大侠",
@@ -252,38 +252,34 @@
     ]
     },
     {
-    "title":"脚本",
-    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/脚本.webp",
-    "murl":"q:轻站",
+    "title":"聚合搜索引擎",
+    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/聚合搜索引擎.webp",
+    "murl":"q:聚合搜索引擎/",
     "lists":[
         {
-        "name":"广大侠",
+        "name":"影视",
         "list":"
-        一个影视
-        资源采集
-        网络直播
-        酷我音乐
-        360影视
-        咪咕音乐
-        腾讯视频
-        知乎
-        茶杯狐
-        虎牙直播
-        网易云音乐
-        QQ音乐
-        优酷视频"
-        },
+        爱搜索
+        影视
+        "},
         {
-        "name":"InMemory",
+        "name":"工具",
         "list":"
-        m仓库
-        APP影视A
-        街机
-        冬瓜影视
-        龙猫追剧
-        清风DJ
-        九桃小说(富文本)"
-        }
+        聚合搜(六)
+        六神磁历(搜)
+        网盘搜索
+        软件搜索
+        "},
+        {
+        "name":"内置",
+        "list":"
+        综合
+        百科
+        新闻
+        寻医
+        坏猫
+        优惠券
+        "}
         ]
      }
 ]
