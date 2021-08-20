@@ -4,7 +4,7 @@
     "title":"APP影视",
     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/江湖影视.png",
     "murl":"q:APP影视搜索",
-    "list":"
+    "app-list":"
     555电影=http://www.o8tv.com/api.php/app/
     913E影视=http://www.913e.net/api.php/app/
     播放呀=https://www.bofangya.com/api.php/app/
@@ -25,7 +25,7 @@
     "title":"APP影视(v1)",
     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/南府追剧.png",
     "murl":"q:APP影视(v1)搜索",
-    "list":"
+    "v1-list":"
     555TV=http://gxhshyy.com/api.php/gctvapi.vod
     80影视=http://www.ccc8.net/api.php/v1.vod
     80K影视=http://1080p.tv/api.php/v1.vod
@@ -93,7 +93,7 @@
     "title":"TV影视",
     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/293影院.png",
     "murl":"q:TV影视搜索",
-    "list":"
+    "tv-list":"
     19影视=http://ysiptv.19jx.vip/api.php/iptv/vod/
     293影院=http://db.293ys.top:81/api.php/iptv/vod/
     橙子影视=http://tv.aitesucai.xyz/api.php/lh/vod/
