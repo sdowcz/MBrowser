@@ -13,14 +13,6 @@
         "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/广大侠/一个影视.mqz"
         },
         {
-        "name":"一个影视(单一搜索版本)",
-        "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/广大侠/一个影视(单一搜索版本).mqz"
-        },
-        {
-        "name":"一个影视(批量搜索版本)",
-        "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/广大侠/一个影视(批量搜索版本).mqz"
-        },
-        {
         "name":"资源采集",
         "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/广大侠/资源采集.mqz"
         },
@@ -533,20 +525,12 @@
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/青城山白公子.png",
         "list":[
         {
-        "name":"⭐️漫画",
-        "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/青城山白公子/⭐️漫画.mqz"
-        },
-        {
-        "name":"轻豆瓣(新版界面)",
-        "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/青城山白公子/轻豆瓣(新版界面).mqz"
-        },
-        {
-        "name":"轻豆瓣",
-        "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/青城山白公子/轻豆瓣.mqz"
-        },
-        {
         "name":"轻豆瓣影视",
         "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/青城山白公子/轻豆瓣影视.mqz"
+        },
+        {
+        "name":"⭐️漫画",
+        "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/青城山白公子/⭐️漫画.mqz"
         }
         ]
         },
