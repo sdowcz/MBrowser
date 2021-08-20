@@ -111,6 +111,10 @@
         {
         "name":"追剧助手",
         "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/木白先生/追剧助手.mqz"
+        },
+        {
+        "name":"美图秀秀",
+        "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/木白先生/美图秀秀.mqz"
         }
         ]
         },
@@ -226,6 +230,10 @@
         "title":"Killer Jack",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/Killer.png",
         "list":[
+        {
+        "name":"网易公开课.K",
+        "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/Killer Jack/网易公开课.K.mqz"
+        },
         {
         "name":"璇玑视频",
         "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/Killer Jack/璇玑视频.mqz"
@@ -783,6 +791,10 @@
         {
         "name":"雪视频.H",
         "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/嗨又是我/雪视频.H.mqz"
+        },
+        {
+        "name":"笔趣阁.H",
+        "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/嗨又是我/笔趣阁.H.mqz"
         }
         ]
         },
