@@ -9,7 +9,7 @@
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/广大侠.png",
         "list":[
         {
-        "name":"一个影视(三合一搜索)",
+        "name":"一个影视",
         "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/广大侠/一个影视.mqz"
         },
         {
