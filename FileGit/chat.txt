@@ -2,7 +2,7 @@
   "chat":[
     {
       "QQurl":"mqqwpa://im/chat?chat_type=wpa&uin=272775028",
-      "QQtitle":"反馈/提交轻站"
+      "QQtitle":"向仓库提交轻站"
     },
     {
       "QQurl":"https://jq.qq.com/?_wv=1027&k=w4WctLUa",
