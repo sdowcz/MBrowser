@@ -2,7 +2,7 @@
   "chat":[
     {
       "QQurl":"mqqwpa://im/chat?chat_type=wpa&uin=272775028",
-      "QQtitle":"反馈/提交/M浏览器官方3群:787598773"
+      "QQtitle":"请多去轻站帖子反馈问题/M浏览器官方3群:787598773"
     }
   ]
 }
