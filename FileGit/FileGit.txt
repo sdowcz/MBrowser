@@ -759,7 +759,7 @@
         {
         "name":"打驴动漫",
         "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/dsp/打驴动漫.mqz"
-        }
+        },
         {
         "name":"知心影视",
         "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/dsp/知心影视.mqz"
