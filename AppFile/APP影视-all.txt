@@ -639,7 +639,7 @@ if(URL.indexOf(".vod")!=-1){
 }
 ######推荐地址
 var URL=getVar("Url");
-if(u.indexOf("api.php/app")!=-1){
+if(URL.indexOf("api.php/app")!=-1){
     URL+"index_video?token=";
 }else{
     URL+"/vodPhbAll";
