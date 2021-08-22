@@ -24,7 +24,7 @@ if(NewVersion!=NowVersion){
     }
 ]
 }
-######APP首页列表
+######首页列表
 {
 "data":[
     {
