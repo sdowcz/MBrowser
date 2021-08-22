@@ -644,7 +644,7 @@ if(u.indexOf("api.php/app")!=-1){
 }else{
     URL+"/vodPhbAll";
 }
-######APP影视翻页词
+######翻页词
 var URL=getVar("Url");
 if(URL.indexOf("api.php/app")!=-1){
     "pg=";
@@ -658,7 +658,7 @@ if(URL.indexOf("api.php/app")!=-1){
 }else{
     URL+"/detail?vod_id=";
 }
-######TV搜索词
+######搜索词
 var URL=getVar("urls");
 if(URL.indexOf("aitesucai")!=-1||URL.indexOf("zz.ci")!=-1||URL.indexOf("chxjon")!=-1||URL.indexOf("watchmi")!=-1||URL.indexOf("vipbp")!=-1||URL.indexOf("wsba")!=-1||URL.indexOf("xfykl")!=-1){
     "wd";
