@@ -107,10 +107,6 @@
         {
         "name":"追剧助手",
         "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/木白先生/追剧助手.mqz"
-        },
-        {
-        "name":"美图秀秀",
-        "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/木白先生/美图秀秀.mqz"
         }
         ]
         },
