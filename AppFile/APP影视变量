@@ -962,6 +962,15 @@ if(u.indexOf("aitesucai")!=-1||u.indexOf("zz.ci")!=-1||u.indexOf("chxjon")!=-1||
 }else{
     "zm";
 }
+######检测更新
+var code=getCode();
+var NewVersion=e2Rex(code,".json(update).json(new)");
+var NowVersion=e2Rex(getHttp("mdata:qm/d566171c6a64659aad784524c76ab569"),".xml(version).z(\\d+)");
+if(NewVersion>NowVersion){
+    e2Rex(code,".json(update)");
+}else{
+    code;
+}
 ######筛选列表
 类型+全部=+喜剧+爱情+恐怖+动作+科幻+剧情+战争+警匪+犯罪+动画+奇幻+武侠+冒险+枪战+恐怖+悬疑+惊悚+经典+青春+文艺+微电影+古装+历史+运动+农村+惊悚+伦理+情色+福利+惊悚+儿童+网络电影
 地区+全部=+大陆+香港+台湾+美国+英国+法国+日本+韩国+德国+泰国+印度+西班牙+加拿大+其他
