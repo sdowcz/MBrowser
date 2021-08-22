@@ -948,11 +948,11 @@ if(URL.indexOf("api.php/app")!=-1){
     URL+"/types";
 }
 ######APP影视推荐地址
-var u=getVar("Url");
+var URL=getVar("Url");
 if(u.indexOf("api.php/app")!=-1){
-    u+"index_video?token=";
+    URL+"index_video?token=";
 }else{
-    u+"/vodPhbAll";
+    URL+"/vodPhbAll";
 }
 ######APP影视播放页前缀
 var URL=getVar("Url");
