@@ -954,19 +954,19 @@ if(u.indexOf("api.php/app")!=-1){
 }else{
     u+"/vodPhbAll";
 }
-######APP影视翻页词
-var URL=getVar("Url");
-if(URL.indexOf("api.php/app")!=-1){
-    "pg=";
-}else{
-    "page=";
-}
 ######APP影视播放页前缀
 var URL=getVar("Url");
 if(URL.indexOf("api.php/app")!=-1){
     URL+"video?tid=";
 }else{
     URL+"?type=";
+}
+######APP影视翻页词
+var URL=getVar("Url");
+if(URL.indexOf("api.php/app")!=-1){
+    "pg=";
+}else{
+    "page=";
 }
 ######TV搜索词
 var u=getVar("urls");
