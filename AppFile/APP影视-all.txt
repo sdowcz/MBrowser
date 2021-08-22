@@ -692,7 +692,13 @@ function 选集列表(){
         }else if(URL.indexOf("api.php/app")!=-1){
             var 接口=e2Rex(分类CODE,".json(parse_api)");
             if(接口.indexOf("svip.jhyun.jx.cn:1234")!=-1){
-                接口="http://jhdyw.vip/jiexi/?url=";
+                if(标题.indexOf("人人")!=-1){
+                    接口="http://jhdyw.vip/jiexi/?url=";
+                }else if(标题.indexOf("番茄")!=-1){
+                    接口="http://jhdyw.vip/jiexi/fq.php?url=";
+                }else{
+                    接口="http://jhdyw.vip/jiexi/?url=";
+                }
             }else{
                 接口;
             }
