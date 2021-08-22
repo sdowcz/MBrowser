@@ -658,13 +658,6 @@ if(URL.indexOf("api.php/app")!=-1){
 }else{
     URL+"/detail?vod_id=";
 }
-######搜索词
-var URL=getVar("urls");
-if(URL.indexOf("aitesucai")!=-1||URL.indexOf("zz.ci")!=-1||URL.indexOf("chxjon")!=-1||URL.indexOf("watchmi")!=-1||URL.indexOf("vipbp")!=-1||URL.indexOf("wsba")!=-1||URL.indexOf("xfykl")!=-1){
-    "wd";
-}else{
-    "zm";
-}
 ######APP筛选列表
 类型+全部=+喜剧+爱情+恐怖+动作+科幻+剧情+战争+警匪+犯罪+动画+奇幻+武侠+冒险+枪战+恐怖+悬疑+惊悚+经典+青春+文艺+微电影+古装+历史+运动+农村+惊悚+伦理+情色+福利+惊悚+儿童+网络电影
 地区+全部=+大陆+香港+台湾+美国+英国+法国+日本+韩国+德国+泰国+印度+西班牙+加拿大+其他
@@ -989,4 +982,11 @@ if(uu.indexOf("baidu.com")!=-1){
     小极TV=http://tv.8d8q.com/api.php/iptv/vod/
     "}
 ]
+}
+######搜索词
+var URL=getVar("urls");
+if(URL.indexOf("aitesucai")!=-1||URL.indexOf("zz.ci")!=-1||URL.indexOf("chxjon")!=-1||URL.indexOf("watchmi")!=-1||URL.indexOf("vipbp")!=-1||URL.indexOf("wsba")!=-1||URL.indexOf("xfykl")!=-1){
+    "wd";
+}else{
+    "zm";
 }
