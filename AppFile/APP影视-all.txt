@@ -957,6 +957,13 @@ if(uu.indexOf("baidu.com")!=-1){
     "}
 ]
 }
+######搜索地址
+var Url=getVar("urls");
+if(Url.indexOf("api.php/app")!=-1){
+  "search?text="+getVar("KEY")+"&pg=";
+}else{
+  "?limit=10&wd="+getVar("KEY")+"&page=";
+}
 ######搜索词
 var URL=getVar("urls");
 if(URL.indexOf("aitesucai")!=-1||URL.indexOf("zz.ci")!=-1||URL.indexOf("chxjon")!=-1||URL.indexOf("watchmi")!=-1||URL.indexOf("vipbp")!=-1||URL.indexOf("wsba")!=-1||URL.indexOf("xfykl")!=-1){
