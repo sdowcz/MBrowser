@@ -928,13 +928,6 @@ if(URL.indexOf("api.php/app/")!=-1){
     var 选集地址规则=".json(url)";
     选集列表();
 }
-######播放页前缀地址
-var URL=getVar("Url");
-if(URL.indexOf("api.php/app")!=-1){
-    URL+"video_detail?id=";
-}else{
-    URL+"/detail?vod_id=";
-}
 ######取源码前缀地址
 var code=getVar("CODE");
 e2Rex(code,".json(url)");
@@ -952,13 +945,6 @@ if(URL.indexOf("api.php/app")!=-1){
 }else{
     URL+"/types";
 }
-######APP影视推荐地址
-var URL=getVar("Url");
-if(u.indexOf("api.php/app")!=-1){
-    URL+"index_video?token=";
-}else{
-    URL+"/vodPhbAll";
-}
 ######分类地址前缀
 var URL=getVar("Url");
 if(URL.indexOf("api.php/app")!=-1){
@@ -966,12 +952,26 @@ if(URL.indexOf("api.php/app")!=-1){
 }else{
     URL+"?type=";
 }
+######APP影视推荐地址
+var URL=getVar("Url");
+if(u.indexOf("api.php/app")!=-1){
+    URL+"index_video?token=";
+}else{
+    URL+"/vodPhbAll";
+}
 ######APP影视翻页词
 var URL=getVar("Url");
 if(URL.indexOf("api.php/app")!=-1){
     "pg=";
 }else{
     "page=";
+}
+######播放页前缀地址
+var URL=getVar("Url");
+if(URL.indexOf("api.php/app")!=-1){
+    URL+"video_detail?id=";
+}else{
+    URL+"/detail?vod_id=";
 }
 ######TV搜索词
 var URL=getVar("urls");
