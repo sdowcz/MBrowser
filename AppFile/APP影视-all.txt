@@ -613,7 +613,7 @@ if(NewVersion!=NowVersion){
 }else{
     列表;
 }
-######取源码前缀地址
+######取源码内地址
 var code=getVar("CODE");
 e2Rex(code,".json(url)");
 ######分类地址
