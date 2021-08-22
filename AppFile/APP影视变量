@@ -10,7 +10,7 @@ if(NewVersion>NowVersion){
 }
 ######版本更新
 {
-"update":[
+"data":[
     {
     "title":"有新版本，请点击下方按钮更新",
     "new":"20210820",
