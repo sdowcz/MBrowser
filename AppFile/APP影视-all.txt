@@ -659,13 +659,7 @@ if(URL.indexOf("api.php/app")!=-1){
     URL+"/detail?vod_id=";
 }
 ######选集列表
-if(getVar("url").indexOf(".vod")!=-1){
-    var URL=getVar("url").split("/detail?")[0];
-}else if(getVar("url").indexOf("api.php/app")!=-1){
-    var URL=getVar("url").split("video_detail?")[0];
-}else{
-    var URL=getVar("url").split("?")[0];
-}
+var URL=getVar("url");
 function 选集列表(){
     var res={};var items=[];var detail=[];
     for(var i=0;i<分类.length;i++){
