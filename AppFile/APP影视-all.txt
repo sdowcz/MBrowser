@@ -974,9 +974,9 @@ if(URL.indexOf("aitesucai")!=-1||URL.indexOf("zz.ci")!=-1||URL.indexOf("chxjon")
 ######搜索播放页前缀地址
 var URL=getVar("urls");
 if(URL.indexOf("api.php/app")!=-1){
- urls+"video_detail?id=";
+ URL+"video_detail?id=";
 }else{
- urls+"/detail?vod_id=";
+ URL+"/detail?vod_id=";
 }
 ######APP筛选列表
 类型+全部=+喜剧+爱情+恐怖+动作+科幻+剧情+战争+警匪+犯罪+动画+奇幻+武侠+冒险+枪战+恐怖+悬疑+惊悚+经典+青春+文艺+微电影+古装+历史+运动+农村+惊悚+伦理+情色+福利+惊悚+儿童+网络电影
