@@ -845,7 +845,7 @@ if(uu.indexOf("baidu.com")!=-1){
 }else{
     "web="+uu;
 }
-######APP影视搜索TAB列表
+######搜索TAB列表
 {
 "data":[
     {
@@ -868,10 +868,7 @@ if(uu.indexOf("baidu.com")!=-1){
     萌蛋蛋=http://app.mengdandan.com/api.php/app/
     思古影视=https://siguyy.com/api.php/app/
     影视工场=https://www.ik4.cc/api.php/app/
-    "}
-######APP(v1)影视搜索TAB列表
-{
-"data":[
+    "},
     {
     "title":"APP影视(v1)",
     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/南府追剧.png",
@@ -939,10 +936,7 @@ if(uu.indexOf("baidu.com")!=-1){
     宅男影院=http://www.znyy666.top/api.php/v1.vod
     侦探影视=http://ys.huangguay.com/mogai_api.php/v1.vod
     追影兔=http://longw.xyz:91/api.php/v1.vod
-    "}
-######TV影视搜索TAB列表
-{
-"data":[
+    "},
     {
     "title":"TV影视",
     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/293影院.png",
