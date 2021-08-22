@@ -1,7 +1,7 @@
 ######检测更新
 var data=getVar("APP首页列表");
 var update=getVar("版本更新");
-var NewVersion=e2Rex(data,".json(data).json(new)");
+var NewVersion=e2Rex(update,".json(data).json(new)");
 var NowVersion=e2Rex(getHttp("mdata:qm/d566171c6a64659aad784524c76ab569"),".xml(version).z(\\d+)");
 if(NewVersion>NowVersion){
     update;
