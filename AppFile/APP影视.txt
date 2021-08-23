@@ -29,12 +29,6 @@
         "murl":"q:TV影视"
         },
         {
-        "title":"橙子影视",
-        "url":"http://tv.aitesucai.xyz/api.php/lh/vod/",
-        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/橙子影视.png",
-        "murl":"q:TV影视"
-        },
-        {
         "title":"稻草人TV",
         "url":"http://www.zhaikanys.xyz/api.php/iptv1/vod/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/稻草人TV.png",
@@ -65,21 +59,9 @@
         "murl":"q:TV影视"
         },
         {
-        "title":"明日影视",
-        "url":"https://watchmi.cc/api.php/lh/vod/",
-        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/明日影视.png",
-        "murl":"q:TV影视"
-        },
-        {
         "title":"云播影视",
         "url":"http://yunbo.bxin.tv/api.php/iptv/vod/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/云播影视.png",
-        "murl":"q:TV影视"
-        },
-        {
-        "title":"云海影视",
-        "url":"http://happiness.xfykl.club/api.php/lh/vod/",
-        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/云海影视.png",
         "murl":"q:TV影视"
         },
         {
