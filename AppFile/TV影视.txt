@@ -1,2 +1,0 @@
-19影视=http://ysiptv.19jx.vip/api.php/iptv/vod/
-293影院=http://db.293ys.top:81/api.php/iptv/vod/
