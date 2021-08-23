@@ -703,7 +703,7 @@ function 选集列表(){
                 }else{
                     var 选集地址=接口+选集地址;
                 }
-            }else if(URL.indexOf("api.php/lh/vod")!=-1||URL.indexOf("api.php/iptv/vod")!=-1||URL.indexOf("api.php/iptv1/vod")!=-1||URL.indexOf("Chengcheng/vod")!=-1){
+            }else if(URL.indexOf("api.php/lh/vod")!=-1||URL.indexOf("api.php/iptv/vod")!=-1||URL.indexOf("api.php/iptv1/vod")!=-1){
                 if(选集地址.indexOf("vip.19jx.vip/api/?type=app")!=-1||选集地址.indexOf("42.51.48.17/?url=")!=-1||选集地址.indexOf(".m3u8")>20||选集地址.indexOf(".mp4")!=-1||选集地址.indexOf("/obj/tos")!=-1){
                     var 选集地址="https://www.baidu.com/s?wd="+选集地址;
                 }else if(选集地址.indexOf("=")==-1){
