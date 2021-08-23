@@ -955,7 +955,7 @@ if(uu.indexOf("ppzhu.vip")!=-1){
     流星雨影院=http://phoebe.cf/api.php/iptv/vod/
     云播影视=http://yunbo.bxin.tv/api.php/iptv/vod/
     小极TV=http://tv.8d8q.com/api.php/iptv/vod/
-    臻彩视界,http://203.lxyyy.xyz:81/api.php/iptv/vod/vod/
+    臻彩视界=http://203.lxyyy.xyz:81/api.php/iptv/vod/vod/
     "}
 ]
 }
