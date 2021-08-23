@@ -69,7 +69,7 @@
         "url":"http://203.lxyyy.xyz:81/api.php/iptv/vod/vod/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/臻彩视界.png",
         "murl":"q:TV影视"
-        },
+        }
     ]
     },
         {
