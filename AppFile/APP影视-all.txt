@@ -757,7 +757,7 @@ if(URL.indexOf("api.php/app")!=-1){
 var uu=getVar("url");
 var resp=JZ(JSON.stringify({url:uu}));
 if(uu.indexOf("ppzhu.vip")!=-1){
-    "web="+uuu+"&app=10003&account=272775028&password=qq272775028";
+    "web="+uu+"&app=10003&account=272775028&password=qq272775028";
 }else if(uu.indexOf("baidu.com")!=-1){
     var playurl=uu.split("wd=")[1];
     if(playurl.indexOf("vip.19jx.vip/api/?type=app")!=-1||playurl.indexOf("42.51.48.17/?url=")!=-1){
