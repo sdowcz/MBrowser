@@ -628,7 +628,7 @@ var URL=getVar("Url");
 if(URL.indexOf("api.php/app")!=-1){
     URL+"nav?token=";
 }else if(URL.indexOf("xsmym.xsme.pw")!=-1){
-    URL+"nav?token=&request_type=level&apikey=735b8823c9e0658a64e9eec8b57d831a&keytime="+time;
+    URL+"/types?&request_type=level&apikey=735b8823c9e0658a64e9eec8b57d831a&keytime="+time;
 }else{
     URL+"/types";
 }
@@ -652,7 +652,7 @@ var URL=getVar("Url");
 if(URL.indexOf("api.php/app")!=-1){
     URL+"index_video?token=";
 }else if(URL.indexOf("xsmym.xsme.pw")!=-1){
-    URL+"/vodPhbAll?token=&request_type=level&apikey=735b8823c9e0658a64e9eec8b57d831a&keytime="+time;
+    URL+"/vodPhbAll?request_type=level&apikey=735b8823c9e0658a64e9eec8b57d831a&keytime="+time;
 }else{
     URL+"/vodPhbAll";
 }
