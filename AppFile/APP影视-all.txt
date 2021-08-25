@@ -1,0 +1,1003 @@
+######APP列表
+{
+"data":[
+    {
+    "title":"TV影视",
+    "list":[
+        {
+        "title":"19影视",
+        "url":"http://ysiptv.19jx.vip/api.php/iptv/vod/",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/19影视.png",
+        "murl":"q:TV影视"
+        },
+        {
+        "title":"293影院",
+        "url":"http://db.293ys.top:81/api.php/iptv/vod/",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/293影院.png",
+        "murl":"q:TV影视"
+        },
+        {
+        "title":"V影视",
+        "url":"http://www.ppzhu.vip/api.php/Chengcheng/vod/",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/V影视.png",
+        "murl":"q:TV影视"
+        },
+        {
+        "title":"稻草人TV",
+        "url":"http://www.zhaikanys.xyz/api.php/iptv1/vod/",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/稻草人TV.png",
+        "murl":"q:TV影视"
+        },
+        {
+        "title":"嘀哩嘀哩TV",
+        "url":"https://api.diliktv.xyz/api.php/Chengcheng/vod/",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/嘀哩嘀哩TV.png",
+        "murl":"q:TV影视"
+        },
+        {
+        "title":"黑龙影视",
+        "url":"http://vip.ji-ding-he.site/api.php/iptv/vod/",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/黑龙影视.png",
+        "murl":"q:TV影视"
+        },
+        {
+        "title":"核桃影视",
+        "url":"http://lg.hetaoys.vip/api.php/iptv/vod/",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/核桃影视.png",
+        "murl":"q:TV影视"
+        },
+        {
+        "title":"聚多影视",
+        "url":"http://jdyy.chxjon.cn/api.php/iptv/vod/",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/聚多影视.png",
+        "murl":"q:TV影视"
+        },
+        {
+        "title":"流星雨影院",
+        "url":"http://phoebe.cf/api.php/iptv/vod/",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/流星雨影院.png",
+        "murl":"q:TV影视"
+        },
+        {
+        "title":"云播影视",
+        "url":"http://yunbo.bxin.tv/api.php/iptv/vod/",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/云播影视.png",
+        "murl":"q:TV影视"
+        },
+        {
+        "title":"小极TV",
+        "url":"http://tv.8d8q.com/api.php/iptv/vod/",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/小极TV.png",
+        "murl":"q:TV影视"
+        },
+        {
+        "title":"臻彩视界",
+        "url":"http://203.lxyyy.xyz:81/api.php/iptv/vod/vod/",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/臻彩视界.png",
+        "murl":"q:TV影视"
+        }
+    ]
+    },
+        {
+        "title":"APP影视",
+        "list":[
+        {
+        "title":"555电影",
+        "url":"http://w7tv.com/api.php/app/",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/555电影.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"913E影视",
+        "url":"http://www.913e.net/api.php/app/",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/913E影视.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"播放呀",
+        "url":"https://www.bofangya.com/api.php/app/",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/播放呀.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"畅视影视",
+        "url":"http://app.reboju.net/api.php/app/",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/畅视影视.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"毒舌电影",
+        "url":"https://www.dushe520.com/api.php/app/",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/毒舌电影.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"大师兄影视",
+        "url":"https://hou.lu/api.php/app/",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/大师兄影视.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"海胆影视",
+        "url":"http://xf123.cc/api.php/app/",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/海胆影视.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"海绵影视",
+        "url":"http://app1.yuzhouys.com/api.php/app/",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/海绵影视.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"京广航影视",
+        "url":"https://www.jingguanghang.com/api.php/app/",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/京广航影视.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"九合视频",
+        "url":"https://ptygx.com/api.php/app/",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/九合视频.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"江湖影视",
+        "url":"http://app.jhdyw.vip:1234/api.php/app/",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/江湖影视.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"琳琅影视",
+        "url":"https://www.u23c.com/api.php/app/",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/琳琅影视.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"萌蛋蛋",
+        "url":"http://app.mengdandan.com/api.php/app/",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/萌蛋蛋.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"思古影视",
+        "url":"https://siguyy.com/api.php/app/",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/思古影视.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"影视工场",
+        "url":"https://www.ik4.cc/api.php/app/",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/影视工场.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"追剧达人",
+        "url":"http://vipmv.tv/api.php/app/",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/追剧达人.png",
+        "murl":"q:APP影视"
+        }
+    ]
+    },
+        {
+        "title":"APP影视(v1)",
+        "list":[
+        {
+        "title":"555TV",
+        "url":"http://gxhshyy.com/api.php/gctvapi.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/555TV.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"80影视",
+        "url":"http://www.ccc8.net/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/80影视.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"80K影视",
+        "url":"http://1080p.tv/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/80K影视.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"FUFU影视",
+        "url":"https://fufu.ixhduta.cn/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/FUFU影视.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"HG影视",
+        "url":"http://cs.hgyx.vip/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/HG影视.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"VIP影视",
+        "url":"http://www.sp.ooo/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/VIP影视.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"爱看TV",
+        "url":"http://mini.aikantv.top/mogai_api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/萌看TV.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"爱影视",
+        "url":"https://www.hzlff.cn/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/爱影视.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"白菜追剧",
+        "url":"http://lbapp.huimaojia.com:30119/mogai_api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/白菜追剧.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"初心影视",
+        "url":"https://www.18mv.club/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/初心影视.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"大海影视",
+        "url":"http://119.29.63.137/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/大海影视.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"顶空影视",
+        "url":"http://app1.dikotv.com/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/顶空影视.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"大熊追剧",
+        "url":"http://www.dxzj88.com/mogai_api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/大熊追剧.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"段友影视",
+        "url":"http://jimmyzhao.top/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/段友影视.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"段友影视",
+        "url":"https://lb.5277s.com/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/段友影视©.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"粉粉影视",
+        "url":"http://huluxiaindex.huimaojia.com:30130/mogai_api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/粉粉影视.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"飞捷影视",
+        "url":"http://www.fj6080.com/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/飞捷影视.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"佛系追剧",
+        "url":"http://foxi.kk06.top/mogai_api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/佛系追剧.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"公主影视",
+        "url":"http://mm.tcsdchina.com:6096/mogai_api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/公主影视.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"辉哥影视",
+        "url":"https://app.y.hgyule8.com/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/辉哥影视.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"好看剧",
+        "url":"http://v.0719.me/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/好看剧.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"哈尼视频",
+        "url":"http://www.videovips.top/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/哈尼视频.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"核桃影视",
+        "url":"http://app.hetaoys.vip/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/核桃影视.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"海棠影视",
+        "url":"https://www.52haitang.cn/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/海棠影视.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"快播吧",
+        "url":"http://www.hd8.pw/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/快播吧.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"懒猫电影",
+        "url":"http://www.lanmaody.com/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/懒猫电影.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"蓝鲸视界",
+        "url":"https://apps.vd5.cc/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/蓝鲸视界.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"冷视TV",
+        "url":"https://len.tv/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/冷视TV.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"木白影视",
+        "url":"http://vapp.23at.cn/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/木白影视.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"麻瓜视频",
+        "url":"http://myapp.maguays.cc/mogai_api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/麻瓜视频.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"喵乐影视",
+        "url":"http://miaoletv.com/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/喵乐影视.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"南府追剧",
+        "url":"http://app.xkvideo.design/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/南府追剧.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"暖光影视",
+        "url":"https://app.bl210.com/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/暖光影视.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"内涵影视",
+        "url":"http://v.nhdyys.cn/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/内涵影视.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"柠檬影视",
+        "url":"https://tv.13nm.com/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/柠檬影视.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"片多儿",
+        "url":"http://meinaikang.com/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/片多儿.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"手指影视",
+        "url":"http://szys3355.com/mogai_api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/手指影视.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"森之屋",
+        "url":"http://91.208.236.96/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/森之屋.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"淘剧社",
+        "url":"http://app.shuhai99.com/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/淘剧社.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"团夕影院",
+        "url":"http://119.29.121.48/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/团夕影院.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"我爱电影",
+        "url":"http://v.5imv.cc/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/我爱电影.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"我爱跟剧",
+        "url":"http://www.52gen.com/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/我爱跟剧.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"蜗牛看鸭",
+        "url":"http://app.snailkya.xyz/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/蜗牛看鸭.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"吾爱影视",
+        "url":"http://app.5lp.net/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/吾爱影视.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"小城影视",
+        "url":"http://www.269w.com/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/小城影视.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"先锋影视",
+        "url":"http://58xtv.net/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/先锋影视.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"小极影视",
+        "url":"http://app.xiaoysw.com/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/小极影视.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"星空影视",
+        "url":"http://xiongkongwx.cn/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/星空影视.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"小蜻蜓视频",
+        "url":"http://3ketv.com/mogai_api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/小蜻蜓视频.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"休闲影视",
+        "url":"http://tv.78tv.cc/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/休闲影视.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"玺心影视",
+        "url":"https://tv.arbd.cn/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/玺心影视.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"元芳影视",
+        "url":"http://yfys1122.com/mogai_api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/元芳影视.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"颖家影院",
+        "url":"http://zly.xjqxz.top/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/颖家影院.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"亦龙影视",
+        "url":"http://app2.yilongys.cn/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/亦龙影视.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"影视热剧",
+        "url":"http://lb.26ys.cn/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/影视热剧.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"优炫影视",
+        "url":"http://yuntv.iyxtv.cn/mogai_api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/优炫影视.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"一只鱼影视",
+        "url":"http://www.bd-4k.ml/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/一只鱼影视.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"追番猫",
+        "url":"http://dm.496dy.cn:88/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/追番猫.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"追剧吧",
+        "url":"http://zhuijuba.vip/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/追剧吧影视.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"追剧人",
+        "url":"http://zhuijuren.vip/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/追剧人.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"宅男影院",
+        "url":"http://www.znyy666.top/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/宅男影院.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"侦探影视",
+        "url":"http://ys.huangguay.com/mogai_api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/侦探影视.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"追影兔",
+        "url":"http://longw.xyz:91/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/追影兔.png",
+        "murl":"q:APP影视"
+        }
+    ]
+    },
+        {
+        "title":"APP影视(备用)",
+        "list":[
+        {
+        "title":"555电影",
+        "url":"http://www.o8tv.com/api.php/app/",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/555电影.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"南府追剧",
+        "url":"http://app.xkvideo.club/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/南府追剧.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"江湖影视",
+        "url":"http://share.jhyun.jx.cn/api.php/app/",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/江湖影视.png",
+        "murl":"q:APP影视"
+        }
+    ]
+    }
+]
+}
+######版本更新
+{
+"data":[
+    {
+    "title":"有新版本，请点击下方按钮更新",
+    "new":"20210822",
+    "list":[
+        {
+        "title":"安装新版",
+        "murl":"mapi:qm/https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/InMemory/APP影视.mqz",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/update.png"
+        }
+    ]
+    }
+]
+}
+######检测更新
+var 列表=getVar("APP列表");
+var 更新=getVar("版本更新");
+var NewVersion=e2Rex(更新,".json(data).json(new)");
+var NowVersion=e2Rex(getHttp("mdata:qm/d566171c6a64659aad784524c76ab569"),".xml(version).z(\\d+)");
+if(NewVersion>NowVersion){
+    更新;
+}else{
+    列表;
+}
+######取源码内地址
+var code=getVar("CODE");
+e2Rex(code,".json(url)");
+######分类地址
+var URL=getVar("Url");
+if(URL.indexOf("api.php/app")!=-1){
+    URL+"nav?token=";
+}else{
+    URL+"/types";
+}
+######分类地址前缀
+var URL=getVar("Url");
+if(URL.indexOf("api.php/app")!=-1){
+    URL+"video?tid=";
+}else{
+    URL+"?type=";
+}
+######分类内容爬虫地址
+var URL=getVar("url");
+if(URL.indexOf(".vod")!=-1){
+    getVar("url").split("?")[0];
+}else{
+    getVar("url").split("video?")[0];
+}
+######推荐地址
+var URL=getVar("Url");
+if(URL.indexOf("api.php/app")!=-1){
+    URL+"index_video?token=";
+}else{
+    URL+"/vodPhbAll";
+}
+######翻页词
+var URL=getVar("Url");
+if(URL.indexOf("api.php/app")!=-1){
+    "pg=";
+}else{
+    "page=";
+}
+######播放页前缀地址
+var URL=getVar("Url");
+if(URL.indexOf("api.php/app")!=-1){
+    URL+"video_detail?id=";
+}else{
+    URL+"/detail?vod_id=";
+}
+######选集列表
+var URL=getVar("url");
+function 选集列表(){
+    var res={};var items=[];var detail=[];
+    for(var i=0;i<分类.length;i++){
+        if(URL.indexOf(".vod")!=-1||URL.indexOf("api.php/app")!=-1){
+            var 分类CODE=JSON.stringify(分类[i]);
+        }else{
+            var 分类CODE=分类[i];
+        }
+        var 列表=e2Arr(分类CODE,列表规则);
+        var 标题=e2Rex(分类CODE,标题规则);
+        if(URL.indexOf(".vod")!=-1){
+            var PARSE=e2Rex(分类CODE,".json(player_info).json(parse)").split(",");
+            var PARSE2=e2Rex(分类CODE,".json(player_info).json(parse2)").split(",");
+            var 总接口=PARSE.concat(PARSE2).filter(Boolean);
+            var 过滤规则=[
+/jx\.+huimaojia\.+com\/player/,/py\.+789pan\.+cn\/player\/tm\.php\?url=/,/ztys\.+waruanzy\.+com\/player\/\?url=/,/yingshi\.+waruanzy\.+com\/789pan\/\?url=/,/vip\.+parwix\.+com:4433\/player\/\?url=/,/api\.+cxitco\.+cn/,/\/vip\.+renrenmi.cc/,/yanbing\.+parwix\.+com:4433\/player/,/json\.+cantin\.+cc\/apijson\.php/,/ffdm\.+miaoletv\.+com\/\?url=/,/vip\.+sylwl\.+cn\/api\/\?key=/,/jx\.+dikotv\.+com\/\?url=/,/zly\.+xjqxz\.+top\/player\/\?url=/,/保佑/
+];
+            var 可用接口=总接口.filter(function (text) {return !过滤规则.some(function (regex) {return regex.test(text);});});
+            if(JSON.stringify(可用接口).indexOf("=")!=-1){
+                if(可用接口[0].indexOf("http")!=-1){
+                    var 接口=可用接口[0].match(/.*(url|v|vid)=/)[0].replace("..",".").replace("vip.aotian.love","vip.gaotian.love");
+                }else if(可用接口[0].indexOf("//")!=-1){
+                    var 接口="http:"+可用接口[0].match(/\/\/.*(url|v|vid)=/)[0].replace("..",".");
+                }else{
+                    var 接口=URL.match(/https?:\/\/[^\/]*/)[0]+可用接口[0].match(/\/.*(url|v|vid)=/)[0].replace("..",".");
+                }
+            }else{
+                var 接口="http://egwang186.gitee.io/?url=";
+            }
+        }else if(URL.indexOf("api.php/app")!=-1){
+            var 接口=e2Rex(分类CODE,".json(parse_api)");
+            if(接口.indexOf("svip.jhyun.jx.cn:1234")!=-1||接口.indexOf("svip.jhdyw.vip")!=-1){
+                if(标题.indexOf("人人")!=-1){
+                    接口="https://api.jhdyw.vip/jiexi/rr.php?url=";
+                }else if(标题.indexOf("番茄")!=-1){
+                    接口="https://api.jhdyw.vip/jiexi/fq.php?url=";
+                }else{
+                    接口="https://api.jhdyw.vip/?url=";
+                }
+            }else{
+                接口;
+            }
+        }else{
+            var 接口=URL;
+        }
+        var LIST=[];
+        for(var j=0;j<列表.length;j++){
+            var 选集=e2Rex(列表[j],选集规则);
+            var 选集地址=e2Rex(列表[j],选集地址规则);
+            if(URL.indexOf("api.php/app")!=-1||URL.indexOf(".vod")!=-1){
+                if(选集地址.indexOf("42.51.48.17/?url=")!=-1||选集地址.indexOf(".m3u8")>20||选集地址.indexOf(".mp4")!=-1||选集地址.indexOf("/obj/tos")!=-1){
+                    var 选集地址="https://www.baidu.com/s?wd="+选集地址;
+                }else{
+                    var 选集地址=接口+选集地址;
+                }
+            }else if(URL.indexOf("api.php/lh/vod")!=-1||URL.indexOf("api.php/iptv/vod")!=-1||URL.indexOf("api.php/iptv1/vod")!=-1){
+                if(选集地址.indexOf("vip.19jx.vip/api/?type=app")!=-1||选集地址.indexOf("42.51.48.17/?url=")!=-1||选集地址.indexOf(".m3u8")>20||选集地址.indexOf(".mp4")!=-1||选集地址.indexOf("/obj/tos")!=-1){
+                    var 选集地址="https://www.baidu.com/s?wd="+选集地址;
+                }else if(选集地址.indexOf("=")==-1){
+                    var 选集地址="http://egwang186.gitee.io/?url="+选集地址;
+                }else{
+                    var 选集地址=选集地址;
+                }
+            }else if(URL.indexOf("Chengcheng")!=-1){
+                if(选集地址.indexOf(".m3u8")>20||选集地址.indexOf(".mp4")!=-1||选集地址.indexOf("/obj/tos")!=-1){
+                    var playurl=选集地址.split("url=")[1];
+                    var 选集地址="https://www.baidu.com/s?wd="+playurl;
+                }else{
+                    if(URL.indexOf("ppzhu.vip")!=-1){
+                        var 选集地址=选集地址+"&app=10003&account=272775028&password=qq272775028";
+                    }else{
+                        var 选集地址=选集地址+"&app=10007&account=272775028&password=qq272775028";
+                    }
+                }
+            }else if(选集地址.indexOf("http")!=-1){
+                var 选集地址=选集地址;
+            }else{
+                var 选集地址=接口+选集地址;
+            }
+            LIST.push({title:选集,url:选集地址});
+        }
+        var play_={};
+        play_.title=标题;
+        play_.list=LIST;
+        items.push(play_);
+    }
+    detail.push({desc:简介});
+    res.data=items;
+    res.desc=detail;
+    return JSON.stringify(res);
+}
+if(URL.indexOf("api.php/app")!=-1){
+    var 分类=JSON.parse(getVar("源码").replace(/<.*?>/g,"").replace(/[\s]*/g,"")).data.vod_url_with_player;
+    var 简介=JSON.parse(getVar("源码").replace(/<.*?>/g,"").replace(/[\s]*/g,"")).data.vod_content;
+    var 列表规则=".json(url).ct(#).z(.*?\\$.*?#)";
+    var 标题规则=".json(name)";
+    var 选集规则=".z2(\\\(.+?\\\)\\$)";
+    var 选集地址规则=".z2(\\$\\\(.+?\\\)[#|\"])";
+    选集列表();
+}else if(URL.indexOf(".vod")!=-1){
+    var 分类=JSON.parse(getVar("源码").replace(/<.*?>/g,"").replace(/[\s]*/g,"")).data.vod_play_list;
+    var 简介=JSON.parse(getVar("源码").replace(/<.*?>/g,"").replace(/[\s]*/g,"")).data.vod_content;
+    var 列表规则=".json(url).ct(#).z(.*?\\$.*?#)";
+    var 标题规则=".json(player_info).json(show)";
+    var 选集规则=".z2(\\\(.+?\\\)\\$)";
+    var 选集地址规则=".z2(\\$\\\(.+?\\\)[#|\"])";
+    选集列表();
+}else{
+    var 分类=e2Arr(getVar("源码"),".json(videolist).z(\".*?\\])");
+    var 简介=e2Arr(getVar("源码"),".json(intro)");
+    var 列表规则=".z(\\{.*?\\})";
+    var 标题规则=".z2(\"\\(.*?\\)\")";
+    var 选集规则=".json(title)";
+    var 选集地址规则=".json(url)";
+    选集列表();
+}
+######免嗅探
+var uu=getVar("url");
+var resp=JZ(JSON.stringify({url:uu}));
+if(uu.indexOf("/jsonc/")!=-1){
+    "web="+uu;
+}else if(uu.indexOf("baidu.com")!=-1){
+    var playurl=uu.split("wd=")[1];
+    if(playurl.indexOf("vip.19jx.vip/api/?type=app")!=-1||playurl.indexOf("42.51.48.17/?url=")!=-1){
+        if(playurl.indexOf("www.mgtv.com")!=-1){
+            JSON.stringify([{name:"播放不了请切换mp4",url:playurl+"&_type=.m3u8",head:{"User-Agent":UA,"Referer":"https://www.mgtv.com/"}},{name:"mp4",url:playurl+"&_type=.mp4",head:{"User-Agent":UA,"Referer":"https://www.mgtv.com/"}}]);
+        }else{
+            JSON.stringify([{name:"播放不了请切换mp4",url:playurl+"&_type=.m3u8"},{name:"mp4",url:playurl+"&_type=.mp4"}]);
+        }
+    }else if(playurl.indexOf("cat.wkfile.com")!=-1){
+        JSON.stringify({url:playurl,head:{"Referer":"https://fkplayer.wkfile.com/"}});
+    }else{
+        JSON.stringify({url:playurl});
+    }
+}else if(uu.indexOf("wp.umao.vp6.top")!=-1){
+    var uuu="http://u.umao.vp6.top/?url="+uu.replace("wp.umao.vp6.top","umao.v.vp8.top");
+    "web="+uuu;
+}else if(uu.indexOf("languang.wfss100")!=-1){
+    var playurl=resp.code.match(/vodurl.*?'(.*?)[#|']/)[1].replace("https://languang","https://img");
+    JSON.stringify({url:playurl});
+}else if(uu.indexOf("?u=http")!=-1||uu.indexOf("url=")!=-1||uu.indexOf("v=http")!=-1){
+    if(resp.code.indexOf("<html")!=-1){
+        if(resp.code.search(/<div id="video"/)!=-1||resp.code.search(/<div id="[^"]*?player"/)!=-1||resp.code.search(/\/\/视频链接/)!=-1||resp.code.search(/<iframe[\s\S]*?src="[^"]+?"/)!=-1||resp.code.search(/<video[\s\S]*?src="[^"]+?"/)!=-1){
+            "web="+uu;
+        }else{
+            if(uu.split("url=")[1].indexOf("alizy-")!=-1){
+                var id=uu.split("url=")[1];
+                var uuu="https://api.jhdyw.vip/?url="+id;
+                var resp2=JZ(JSON.stringify({url:uuu}));
+                var playurl=JSON.parse(resp2.code).url||JSON.parse(resp2.code).msg;
+                JSON.stringify({url:playurl});
+            }else if(uu.split("url=")[1].indexOf("http")!=-1){
+                "web=http://egwang186.gitee.io/?url="+uu.split("url=")[1];
+            }else{
+                var id=uu.split("url=")[1];
+                var uuu="https://vip.gaotian.love/api/?key=sRy0QAq8hqXRlrEtrq&url="+id;
+                var resp=JZ(JSON.stringify({url:uuu}));
+                var playurl=JSON.parse(resp.code).url||JSON.parse(resp.code).msg;
+                JSON.stringify({url:playurl});
+            }
+        }
+    }else if(resp.code.indexOf("#EXTINF")!=-1){
+        if(uu.indexOf("?")!=-1){
+            if(uu.indexOf("www.mgtv.com")!=-1){
+                JSON.stringify([{name:"播放不了请切换mp4",url:uu+"&_type=.m3u8",head:{"User-Agent":UA,"Referer":"https://www.mgtv.com/"}},{name:"mp4",url:uu+"&_type=.mp4",head:{"User-Agent":UA,"Referer":"https://www.mgtv.com/"}}]);
+            }else{
+                JSON.stringify({url:uu+"&_type=.m3u8"});
+            }
+        }else{
+            JSON.stringify({url:uu+"?type=.m3u8"});
+        }
+    }else{
+        if(e2Rex(resp.code,".json(url)").length>1){
+            var playurl=JSON.parse(resp.code).url;
+            if(playurl.indexOf("pcvideotestws.titan.mgtv.com")!=-1){
+                JSON.stringify({url:playurl,head:{"User-Agent":UA,"Referer":"https://www.mgtv.com/"}});
+            }else{
+                JSON.stringify({url:playurl});
+            }
+        }else if(uu.split("url=")[1].indexOf("alizy-")!=-1){
+            var id=uu.split("url=")[1];
+            var uuu="https://api.jhdyw.vip/?url="+id;
+            var resp2=JZ(JSON.stringify({url:uuu}));
+            var playurl=JSON.parse(resp2.code).url||JSON.parse(resp2.code).msg;
+            JSON.stringify({url:playurl});
+        }else if(uu.split("url=")[1].indexOf("http")!=-1){
+            "web=http://egwang186.gitee.io/?url="+uu.split("url=")[1];
+        }else{
+            var id=uu.split("url=")[1];
+            var uuu="https://vip.gaotian.love/api/?key=sRy0QAq8hqXRlrEtrq&url="+id;
+            var resp2=JZ(JSON.stringify({url:uuu}));
+            var playurl=JSON.parse(resp2.code).url||JSON.parse(resp2.code).msg;
+            JSON.stringify({url:playurl});
+        }
+    }
+}else{
+    "web="+uu;
+}
+######搜索TAB列表
+{
+"data":[
+    {
+    "title":"APP影视",
+    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/江湖影视.png",
+    "murl":"q:APP影视搜索",
+    "list":"
+    555电影=http://w7tv.com/api.php/app/
+    913E影视=http://www.913e.net/api.php/app/
+    播放呀=https://www.bofangya.com/api.php/app/
+    畅视影视=http://app.reboju.net/api.php/app/
+    毒舌电影=https://www.dushe520.com/api.php/app/
+    大师兄影视=https://hou.lu/api.php/app/
+    海胆影视=http://xf123.cc/api.php/app/
+    海绵影视=http://app1.yuzhouys.com/api.php/app/
+    京广航影视=https://www.jingguanghang.com/api.php/app/
+    九合视频=https://ptygx.com/api.php/app/
+    江湖影视=http://app.jhdyw.vip:1234/api.php/app/
+    琳琅影视=https://www.u23c.com/api.php/app/
+    萌蛋蛋=http://app.mengdandan.com/api.php/app/
+    思古影视=https://siguyy.com/api.php/app/
+    影视工场=https://www.ik4.cc/api.php/app/
+    "},
+    {
+    "title":"APP影视(v1)",
+    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/南府追剧.png",
+    "murl":"q:APP影视(v1)搜索",
+    "list":"
+    555TV=http://gxhshyy.com/api.php/gctvapi.vod
+    80影视=http://www.ccc8.net/api.php/v1.vod
+    80K影视=http://1080p.tv/api.php/v1.vod
+    FUFU影视=https://fufu.ixhduta.cn/api.php/v1.vod
+    HG影视=http://cs.hgyx.vip/api.php/v1.vod
+    VIP影视=http://www.sp.ooo/api.php/v1.vod
+    爱看TV=http://mini.aikantv.top/mogai_api.php/v1.vod
+    爱影视=https://www.hzlff.cn/api.php/v1.vod
+    白菜追剧=http://lbapp.huimaojia.com:30119/mogai_api.php/v1.vod
+    初心影视=https://www.18mv.club/api.php/v1.vod
+    大海影视=http://119.29.63.137/api.php/v1.vod
+    顶空影视=http://app1.dikotv.com/api.php/v1.vod
+    大熊追剧=http://www.dxzj88.com/mogai_api.php/v1.vod
+    段友影视=http://jimmyzhao.top/api.php/v1.vod
+    段友影视=https://lb.5277s.com/api.php/v1.vod
+    粉粉影视=http://huluxiaindex.huimaojia.com:30130/mogai_api.php/v1.vod
+    飞捷影视=http://www.fj6080.com/api.php/v1.vod
+    佛系追剧=http://foxi.kk06.top/mogai_api.php/v1.vod
+    公主影视=http://mm.tcsdchina.com:6096/mogai_api.php/v1.vod
+    辉哥影视=https://app.y.hgyule8.com/api.php/v1.vod
+    好看剧=http://v.0719.me/api.php/v1.vod
+    哈尼视频=http://www.videovips.top/api.php/v1.vod
+    核桃影视=http://app.hetaoys.vip/api.php/v1.vod
+    海棠影视=https://www.52haitang.cn/api.php/v1.vod
+    快播吧=http://www.hd8.pw/api.php/v1.vod
+    懒猫电影=http://www.lanmaody.com/api.php/v1.vod
+    蓝鲸视界=https://apps.vd5.cc/api.php/v1.vod
+    冷视TV=https://len.tv/api.php/v1.vod
+    木白影视=http://vapp.23at.cn/api.php/v1.vod
+    麻瓜视频=http://myapp.maguays.cc/mogai_api.php/v1.vod
+    喵乐影视=http://miaoletv.com/api.php/v1.vod
+    南府追剧=http://app.xkvideo.design/api.php/v1.vod
+    暖光影视=https://app.bl210.com/api.php/v1.vod
+    内涵影视=http://v.nhdyys.cn/api.php/v1.vod
+    柠檬影视=https://tv.13nm.com/api.php/v1.vod
+    片多儿=http://meinaikang.com/api.php/v1.vod
+    手指影视=http://szys3355.com/mogai_api.php/v1.vod
+    森之屋=http://91.208.236.96/api.php/v1.vod
+    淘剧社=http://app.shuhai99.com/api.php/v1.vod
+    团夕影院=http://119.29.121.48/api.php/v1.vod
+    我爱电影=http://v.5imv.cc/api.php/v1.vod
+    我爱跟剧=http://www.52gen.com/api.php/v1.vod
+    蜗牛看鸭=http://app.snailkya.xyz/api.php/v1.vod
+    吾爱影视=http://app.5lp.net/api.php/v1.vod
+    小城影视=http://www.269w.com/api.php/v1.vod
+    先锋影视=http://58xtv.net/api.php/v1.vod
+    小极影视=http://app.xiaoysw.com/api.php/v1.vod
+    星空影视=http://xiongkongwx.cn/api.php/v1.vod
+    小蜻蜓视频=http://3ketv.com/mogai_api.php/v1.vod
+    休闲影视=http://tv.78tv.cc/api.php/v1.vod
+    玺心影视=https://tv.arbd.cn/api.php/v1.vod
+    元芳影视=http://yfys1122.com/mogai_api.php/v1.vod
+    颖家影院=http://zly.xjqxz.top/api.php/v1.vod
+    亦龙影视=http://app2.yilongys.cn/api.php/v1.vod
+    优炫影视=http://yuntv.iyxtv.cn/mogai_api.php/v1.vod
+    一只鱼影视=http://www.bd-4k.ml/api.php/v1.vod
+    追番猫=http://dm.496dy.cn:88/api.php/v1.vod
+    追剧吧=http://zhuijuba.vip/api.php/v1.vod
+    追剧人=http://zhuijuren.vip/api.php/v1.vod
+    宅男影院=http://www.znyy666.top/api.php/v1.vod
+    侦探影视=http://ys.huangguay.com/mogai_api.php/v1.vod
+    追影兔=http://longw.xyz:91/api.php/v1.vod
+    "},
+    {
+    "title":"TV影视",
+    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/293影院.png",
+    "murl":"q:TV影视搜索",
+    "list":"
+    19影视=http://ysiptv.19jx.vip/api.php/iptv/vod/
+    293影院=http://db.293ys.top:81/api.php/iptv/vod/
+    V影视=http://www.ppzhu.vip/api.php/Chengcheng/vod/
+    稻草人TV=http://www.zhaikanys.xyz/api.php/iptv1/vod/
+    嘀哩嘀哩TV,https://api.diliktv.xyz/api.php/Chengcheng/vod/
+    黑龙影视=http://vip.ji-ding-he.site/api.php/iptv/vod/
+    核桃影视=http://lg.hetaoys.vip/api.php/iptv/vod/
+    聚多影视=http://jdyy.chxjon.cn/api.php/iptv/vod/
+    流星雨影院=http://phoebe.cf/api.php/iptv/vod/
+    云播影视=http://yunbo.bxin.tv/api.php/iptv/vod/
+    小极TV=http://tv.8d8q.com/api.php/iptv/vod/
+    臻彩视界=http://203.lxyyy.xyz:81/api.php/iptv/vod/vod/
+    "}
+]
+}
+######搜索地址
+var Url=getVar("urls");
+if(Url.indexOf("api.php/app")!=-1){
+  "search?text="+getVar("KEY")+"&pg=";
+}else{
+  "?limit=10&wd="+getVar("KEY")+"&page=";
+}
+######搜索词
+var URL=getVar("urls");
+if(URL.indexOf("ppzhu")!=-1||URL.indexOf("aitesucai")!=-1||URL.indexOf("zz.ci")!=-1||URL.indexOf("chxjon")!=-1||URL.indexOf("watchmi")!=-1||URL.indexOf("vipbp")!=-1||URL.indexOf("wsba")!=-1||URL.indexOf("xfykl")!=-1){
+    "wd";
+}else{
+    "zm";
+}
+######搜索播放页前缀地址
+var URL=getVar("urls");
+if(URL.indexOf("api.php/app")!=-1){
+ URL+"video_detail?id=";
+}else{
+ URL+"/detail?vod_id=";
+}
+######APP筛选列表
+类型+全部=+喜剧+爱情+恐怖+动作+科幻+剧情+战争+警匪+犯罪+动画+奇幻+武侠+冒险+枪战+恐怖+悬疑+惊悚+经典+青春+文艺+微电影+古装+历史+运动+农村+惊悚+伦理+情色+福利+惊悚+儿童+网络电影
+地区+全部=+大陆+香港+台湾+美国+英国+法国+日本+韩国+德国+泰国+印度+西班牙+加拿大+其他
+语种+全部=+国语+英语+粤语+闽南语+韩语+日语+法语+德语+其他
+年份+全部=+2021+2020+2019+2018+2017+2016+2015+2014+2013+2012+2011+2010+2009+2008+2007+2006+2005+2004+2003+2002+2001+2000
+######TV筛选列表
+分类+电影=movie+连续剧=tvplay+综艺=tvshow+动漫=comic
+类型+全部=+喜剧+爱情+恐怖+动作+科幻+剧情+战争+警匪+犯罪+动画+奇幻+武侠+冒险+枪战+恐怖+悬疑+惊悚+经典+青春+文艺+微电影+古装+历史+运动+农村+惊悚+惊悚+伦理+情色+福利+儿童+网络电影
+地区+全部=+大陆+香港+台湾+美国+英国+法国+日本+韩国+德国+泰国+印度+西班牙+加拿大+其他
+年份+全部=+2021+2020+2019+2018+2017+2016+2015+2014+2013+2012+2011+2010+2009+2008+2007+2006+2005+2004+2003+2002+2001+2000
