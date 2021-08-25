@@ -435,6 +435,12 @@
         "murl":"q:APP影视"
         },
         {
+        "title":"完美影视",
+        "url":"http://xsmym.xsme.pw:46846/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/完美影视.png",
+        "murl":"q:APP影视"
+        },
+        {
         "title":"蜗牛看鸭",
         "url":"http://app.snailkya.xyz/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/蜗牛看鸭.png",
@@ -617,9 +623,12 @@ if(NewVersion>NowVersion){
 var code=getVar("CODE");
 e2Rex(code,".json(url)");
 ######分类地址
+var time=getVar("TIME_");
 var URL=getVar("Url");
 if(URL.indexOf("api.php/app")!=-1){
     URL+"nav?token=";
+}else if(URL.indexOf("xsmym.xsme.pw")!=-1){
+    URL+"nav?token=&request_type=level&apikey=735b8823c9e0658a64e9eec8b57d831a&keytime="+time;
 }else{
     URL+"/types";
 }
@@ -638,9 +647,12 @@ if(URL.indexOf(".vod")!=-1){
     getVar("url").split("video?")[0];
 }
 ######推荐地址
+var time=getVar("TIME_");
 var URL=getVar("Url");
 if(URL.indexOf("api.php/app")!=-1){
     URL+"index_video?token=";
+}else if(URL.indexOf("xsmym.xsme.pw")!=-1){
+    URL+"/vodPhbAll?token=&request_type=level&apikey=735b8823c9e0658a64e9eec8b57d831a&keytime="+time;
 }else{
     URL+"/vodPhbAll";
 }
@@ -653,8 +665,11 @@ if(URL.indexOf("api.php/app")!=-1){
 }
 ######播放页前缀地址
 var URL=getVar("Url");
+var time=getVar("TIME_");
 if(URL.indexOf("api.php/app")!=-1){
     URL+"video_detail?id=";
+}else if(URL.indexOf("xsmym.xsme.pw")!=-1){
+    URL+"/detail?request_type=level&apikey=735b8823c9e0658a64e9eec8b57d831a&keytime="+time"&vod_id=";
 }else{
     URL+"/detail?vod_id=";
 }
