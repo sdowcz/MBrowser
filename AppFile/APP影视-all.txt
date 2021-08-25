@@ -29,6 +29,12 @@
         "murl":"q:TV影视"
         },
         {
+        "title":"嘀哩嘀哩TV",
+        "url":"https://api.diliktv.xyz/api.php/Chengcheng/vod/",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/嘀哩嘀哩TV.png",
+        "murl":"q:TV影视"
+        },
+        {
         "title":"黑龙影视",
         "url":"http://vip.ji-ding-he.site/api.php/iptv/vod/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/黑龙影视.png",
@@ -717,7 +723,7 @@ function 选集列表(){
                 }else{
                     var 选集地址=选集地址;
                 }
-            }else if(URL.indexOf("ppzhu.vip")!=-1){
+            }else if(URL.indexOf("Chengcheng")!=-1){
                 if(选集地址.indexOf(".m3u8")>20||选集地址.indexOf(".mp4")!=-1||选集地址.indexOf("/obj/tos")!=-1){
                     var playurl=选集地址.split("url=")[1];
                     var 选集地址="https://www.baidu.com/s?wd="+playurl;
@@ -949,6 +955,7 @@ if(uu.indexOf("ppzhu.vip")!=-1){
     293影院=http://db.293ys.top:81/api.php/iptv/vod/
     V影视=http://www.ppzhu.vip/api.php/Chengcheng/vod/
     稻草人TV=http://www.zhaikanys.xyz/api.php/iptv1/vod/
+    嘀哩嘀哩TV,https://api.diliktv.xyz/api.php/Chengcheng/vod/
     黑龙影视=http://vip.ji-ding-he.site/api.php/iptv/vod/
     核桃影视=http://lg.hetaoys.vip/api.php/iptv/vod/
     聚多影视=http://jdyy.chxjon.cn/api.php/iptv/vod/
