@@ -779,7 +779,7 @@ if(URL.indexOf("api.php/app")!=-1){
 ######免嗅探
 var uu=getVar("url");
 var resp=JZ(JSON.stringify({url:uu}));
-if(uu.indexOf("ppzhu.vip")!=-1||uu.indexOf("diliktv.xyz")!=-1){
+if(uu.indexOf("/jsonc/")!=-1){
     "web="+uu;
 }else if(uu.indexOf("baidu.com")!=-1){
     var playurl=uu.split("wd=")[1];
