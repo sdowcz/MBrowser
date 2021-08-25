@@ -651,8 +651,6 @@ var time=getVar("TIME_");
 var URL=getVar("Url");
 if(URL.indexOf("api.php/app")!=-1){
     URL+"index_video?token=";
-}else if(URL.indexOf("xsmym.xsme.pw")!=-1){
-    URL+"/vodPhbAll?request_type=level&apikey=735b8823c9e0658a64e9eec8b57d831a&keytime="+time;
 }else{
     URL+"/vodPhbAll";
 }
