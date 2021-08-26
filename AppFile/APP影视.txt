@@ -55,7 +55,7 @@
         "list":[
         {
         "title":"555电影",
-        "url":"http://www.o8tv.com/api.php/app/",
+        "url":"http://w7tv.com/api.php/app/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/555电影.png"
         },
         {
