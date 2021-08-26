@@ -59,6 +59,12 @@
         "murl":"q:TV影视"
         },
         {
+        "title":"双子星",
+        "url":"http://tv.diyoui.cc/api.php/iptv/vod/",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/双子星.png",
+        "murl":"q:TV影视"
+        },
+        {
         "title":"云播影视",
         "url":"http://yunbo.bxin.tv/api.php/iptv/vod/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/云播影视.png",
@@ -959,11 +965,12 @@ if(uu.indexOf("/jsonc/")!=-1){
     293影院=http://db.293ys.top:81/api.php/iptv/vod/
     V影视=http://www.ppzhu.vip/api.php/Chengcheng/vod/
     稻草人TV=http://www.zhaikanys.xyz/api.php/iptv1/vod/
-    嘀哩嘀哩TV,https://api.diliktv.xyz/api.php/Chengcheng/vod/
+    嘀哩嘀哩TV=https://api.diliktv.xyz/api.php/Chengcheng/vod/
     黑龙影视=http://vip.ji-ding-he.site/api.php/iptv/vod/
     核桃影视=http://lg.hetaoys.vip/api.php/iptv/vod/
     聚多影视=http://jdyy.chxjon.cn/api.php/iptv/vod/
     流星雨影院=http://phoebe.cf/api.php/iptv/vod/
+    双子星=http://tv.diyoui.cc/api.php/iptv/vod/
     云播影视=http://yunbo.bxin.tv/api.php/iptv/vod/
     小极TV=http://tv.8d8q.com/api.php/iptv/vod/
     臻彩视界=http://203.lxyyy.xyz:81/api.php/iptv/vod/vod/
