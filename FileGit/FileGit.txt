@@ -227,6 +227,10 @@
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/Killer.png",
         "list":[
         {
+        "name":"速搜TV.K",
+        "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/Killer Jack/速搜TV.K.mqz"
+        },
+        {
         "name":"网易公开课.K",
         "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/Killer Jack/网易公开课.K.mqz"
         },
