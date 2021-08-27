@@ -309,6 +309,12 @@
         "murl":"q:APP影视"
         },
         {
+        "title":"黄河影视",
+        "url":"http://i.ledu8.cn/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/黄河影视.png",
+        "murl":"q:APP影视"
+        },
+        {
         "title":"好看剧",
         "url":"http://v.0719.me/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/好看剧.png",
@@ -925,6 +931,7 @@ if(uu.indexOf("/jsonc/")!=-1){
     佛系追剧=http://foxi.kk06.top/mogai_api.php/v1.vod
     公主影视=http://mm.tcsdchina.com:6096/mogai_api.php/v1.vod
     辉哥影视=https://app.y.hgyule8.com/api.php/v1.vod
+    黄河影视=http://i.ledu8.cn/api.php/v1.vod
     好看剧=http://v.0719.me/api.php/v1.vod
     哈尼视频=http://www.videovips.top/api.php/v1.vod
     核桃影视=http://app.hetaoys.vip/api.php/v1.vod
