@@ -797,6 +797,10 @@
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/嗨又是我.png",
         "list":[
         {
+        "name":"EDD动漫.H",
+        "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/嗨又是我/EDD动漫.H.mqz"
+        },
+        {
         "name":"雪视频.H",
         "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/嗨又是我/雪视频.H.mqz"
         },
