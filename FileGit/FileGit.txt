@@ -679,8 +679,8 @@
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/wokaotianshi123.png",
         "list":[
         {
-        "name":"爱爱看剧",
-        "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/wokaotianshi123/爱爱看剧.mqz"
+        "name":"爱爱看剧6",
+        "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/wokaotianshi123/爱爱看剧6.mqz"
         },
         {
         "name":"追剧吧",
