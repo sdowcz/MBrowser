@@ -59,7 +59,11 @@
         {
         "name":"优酷视频",
         "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/广大侠/优酷视频.mqz"
-        }
+        },
+        {
+        "name":"聚应用",
+        "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/广大侠/聚应用.mqz"
+        },
         ]
         },
         {
