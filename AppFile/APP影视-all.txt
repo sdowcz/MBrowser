@@ -882,6 +882,7 @@ if(uu.indexOf("/jsonc/")!=-1){
     萌蛋蛋=http://app.mengdandan.com/api.php/app/
     思古影视=https://siguyy.com/api.php/app/
     影视工场=https://www.ik4.cc/api.php/app/
+    追剧达人=http://vipmv.tv/api.php/app/
     "},
     {
     "title":"APP影视(v1)",
@@ -944,7 +945,7 @@ if(uu.indexOf("/jsonc/")!=-1){
     元芳影视=http://yfys1122.com/mogai_api.php/v1.vod
     颖家影院=http://zly.xjqxz.top/api.php/v1.vod
     亦龙影视=http://app2.yilongys.cn/api.php/v1.vod
-    影视热剧,http://lb.26ys.cn/api.php/v1.vod
+    影视热剧=http://lb.26ys.cn/api.php/v1.vod
     杨桃影视=http://ytys1122.com/mogai_api.php/v1.vod
     优炫影视=http://yuntv.iyxtv.cn/mogai_api.php/v1.vod
     一只鱼影视=http://www.bd-4k.ml/api.php/v1.vod
