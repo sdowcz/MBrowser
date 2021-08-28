@@ -1,0 +1,81 @@
+var uu=getVar("url");
+var resp=JZ(JSON.stringify({url:uu}));
+if(uu.indexOf("/jsonc/")!=-1){
+    "web="+uu;
+}else if(uu.indexOf("baidu.com")!=-1){
+    var playurl=uu.split("wd=")[1];
+    if(playurl.indexOf("vip.19jx.vip/api/?type=app")!=-1||playurl.indexOf("42.51.48.17/?url=")!=-1){
+        if(playurl.indexOf("www.mgtv.com")!=-1){
+            JSON.stringify([{name:"播放不了请切换mp4",url:playurl+"&_type=.m3u8",head:{"User-Agent":UA,"Referer":"https://www.mgtv.com/"}},{name:"mp4",url:playurl+"&_type=.mp4",head:{"User-Agent":UA,"Referer":"https://www.mgtv.com/"}}]);
+        }else{
+            JSON.stringify([{name:"播放不了请切换mp4",url:playurl+"&_type=.m3u8"},{name:"mp4",url:playurl+"&_type=.mp4"}]);
+        }
+    }else if(playurl.indexOf("cat.wkfile.com")!=-1){
+        JSON.stringify({url:playurl,head:{"Referer":"https://fkplayer.wkfile.com/"}});
+    }else{
+        JSON.stringify({url:playurl});
+    }
+}else if(uu.indexOf("wp.umao.vp6.top")!=-1){
+    var uuu="http://u.umao.vp6.top/?url="+uu.replace("wp.umao.vp6.top","umao.v.vp8.top");
+    "web="+uuu;
+}else if(uu.indexOf("languang.wfss100")!=-1){
+    var playurl=resp.code.match(/vodurl.*?'(.*?)[#|']/)[1].replace("https://languang","https://img");
+    JSON.stringify({url:playurl});
+}else if(uu.indexOf("?u=http")!=-1||uu.indexOf("url=")!=-1||uu.indexOf("v=http")!=-1){
+    if(resp.code.indexOf("<html")!=-1){
+        if(resp.code.search(/<div id="video"/)!=-1||resp.code.search(/<div id="[^"]*?player"/)!=-1||resp.code.search(/\/\/视频链接/)!=-1||resp.code.search(/<iframe[\s\S]*?src="[^"]+?"/)!=-1||resp.code.search(/<video[\s\S]*?src="[^"]+?"/)!=-1){
+            "web="+uu;
+        }else{
+            if(uu.split("url=")[1].indexOf("alizy-")!=-1){
+                var id=uu.split("url=")[1];
+                var uuu="https://api.jhdyw.vip/?url="+id;
+                var resp2=JZ(JSON.stringify({url:uuu}));
+                var playurl=JSON.parse(resp2.code).url||JSON.parse(resp2.code).msg;
+                JSON.stringify({url:playurl});
+            }else if(uu.split("url=")[1].indexOf("http")!=-1){
+                "web=http://egwang186.gitee.io/?url="+uu.split("url=")[1];
+            }else{
+                var id=uu.split("url=")[1];
+                var uuu="https://vip.gaotian.love/api/?key=sRy0QAq8hqXRlrEtrq&url="+id;
+                var resp=JZ(JSON.stringify({url:uuu}));
+                var playurl=JSON.parse(resp.code).url||JSON.parse(resp.code).msg;
+                JSON.stringify({url:playurl});
+            }
+        }
+    }else if(resp.code.indexOf("#EXTINF")!=-1){
+        if(uu.indexOf("?")!=-1){
+            if(uu.indexOf("www.mgtv.com")!=-1){
+                JSON.stringify([{name:"播放不了请切换mp4",url:uu+"&_type=.m3u8",head:{"User-Agent":UA,"Referer":"https://www.mgtv.com/"}},{name:"mp4",url:uu+"&_type=.mp4",head:{"User-Agent":UA,"Referer":"https://www.mgtv.com/"}}]);
+            }else{
+                JSON.stringify({url:uu+"&_type=.m3u8"});
+            }
+        }else{
+            JSON.stringify({url:uu+"?type=.m3u8"});
+        }
+    }else{
+        if(e2Rex(resp.code,".json(url)").length>1){
+            var playurl=JSON.parse(resp.code).url;
+            if(playurl.indexOf("pcvideotestws.titan.mgtv.com")!=-1){
+                JSON.stringify({url:playurl,head:{"User-Agent":UA,"Referer":"https://www.mgtv.com/"}});
+            }else{
+                JSON.stringify({url:playurl});
+            }
+        }else if(uu.split("url=")[1].indexOf("alizy-")!=-1){
+            var id=uu.split("url=")[1];
+            var uuu="https://api.jhdyw.vip/?url="+id;
+            var resp2=JZ(JSON.stringify({url:uuu}));
+            var playurl=JSON.parse(resp2.code).url||JSON.parse(resp2.code).msg;
+            JSON.stringify({url:playurl});
+        }else if(uu.split("url=")[1].indexOf("http")!=-1){
+            "web=http://egwang186.gitee.io/?url="+uu.split("url=")[1];
+        }else{
+            var id=uu.split("url=")[1];
+            var uuu="https://vip.gaotian.love/api/?key=sRy0QAq8hqXRlrEtrq&url="+id;
+            var resp2=JZ(JSON.stringify({url:uuu}));
+            var playurl=JSON.parse(resp2.code).url||JSON.parse(resp2.code).msg;
+            JSON.stringify({url:playurl});
+        }
+    }
+}else{
+    "web="+uu;
+}
