@@ -236,13 +236,13 @@
     "murl":"q:聚合搜索引擎",
     "lists":[
         {
-        "name":"影视",
+        "title":"影视",
         "list":"
         爱搜索
         影视
         "},
         {
-        "name":"工具",
+        "title":"工具",
         "list":"
         聚合搜(六)
         六神磁历(搜)
@@ -250,7 +250,7 @@
         软件搜索
         "},
         {
-        "name":"内置",
+        "title":"内置",
         "list":"
         综合
         百科
@@ -267,14 +267,14 @@
     "murl":"q:脚本",
     "lists":[
         {
-        "name":"影视",
+        "title":"影视",
         "list":"
         VIP会员视频自动解析
         觅影VIP解析
         懒人专用
         "},
         {
-        "name":"工具",
+        "title":"工具",
         "list":"
         豆瓣资源下载大师
         "}
@@ -286,7 +286,7 @@
     "murl":"q:广告拦截规则",
     "lists":[
         {
-        "name":"影视",
+        "title":"影视",
         "list":"
         ad3=https://cdn.jsdelivr.net/gh/o0HalfLife0o/list/ad3.txt
         ad=https://gitee.com/halflife/list/raw/master/ad.txt
