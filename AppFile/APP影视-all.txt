@@ -585,29 +585,6 @@
         "murl":"q:APP影视"
         }
     ]
-    },
-        {
-        "title":"APP影视(备用)",
-        "list":[
-        {
-        "title":"555电影",
-        "url":"http://www.o8tv.com/api.php/app/",
-        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/555电影.png",
-        "murl":"q:APP影视"
-        },
-        {
-        "title":"南府追剧",
-        "url":"http://app.xkvideo.club/api.php/v1.vod",
-        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/南府追剧.png",
-        "murl":"q:APP影视"
-        },
-        {
-        "title":"江湖影视",
-        "url":"http://share.jhyun.jx.cn/api.php/app/",
-        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/江湖影视.png",
-        "murl":"q:APP影视"
-        }
-    ]
     }
 ]
 }
