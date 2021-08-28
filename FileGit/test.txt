@@ -6,7 +6,7 @@
     "murl":"q:轻站",
     "lists":[
         {
-        "name":"广大侠",
+        "title":"广大侠",
         "list":"
         一个影视
         资源采集
@@ -23,7 +23,7 @@
         优酷视频
         "},
         {
-        "name":"InMemory",
+        "title":"InMemory",
         "list":"
         m仓库
         APP影视A
