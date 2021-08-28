@@ -14,9 +14,19 @@
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/293影院.png"
         },
         {
+        "title":"V影视",
+        "url":"http://www.ppzhu.vip/api.php/Chengcheng/vod/",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/V影视.png"
+        },
+        {
         "title":"稻草人TV",
         "url":"http://www.zhaikanys.xyz/api.php/iptv1/vod/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/稻草人TV.png"
+        },
+        {
+        "title":"嘀哩嘀哩TV",
+        "url":"https://api.diliktv.xyz/api.php/Chengcheng/vod/",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/嘀哩嘀哩TV.png"
         },
         {
         "title":"黑龙影视",
@@ -47,6 +57,11 @@
         "title":"小极TV",
         "url":"http://tv.8d8q.com/api.php/iptv/vod/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/小极TV.png"
+        },
+        {
+        "title":"臻彩视界",
+        "url":"http://203.lxyyy.xyz:81/api.php/iptv/vod/vod/",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/臻彩视界.png"
         }
     ]
     },
@@ -55,7 +70,7 @@
         "list":[
         {
         "title":"555电影",
-        "url":"http://www.o8tv.com/api.php/app/",
+        "url":"http://w7tv.com/api.php/app/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/555电影.png"
         },
         {
@@ -452,21 +467,6 @@
         "title":"追影兔",
         "url":"http://longw.xyz:91/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/追影兔.png"
-        }
-    ]
-    },
-        {
-        "title":"APP影视(备用)",
-        "list":[
-        {
-        "title":"南府追剧",
-        "url":"http://app.xkvideo.club/api.php/v1.vod",
-        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/南府追剧.png"
-        },
-        {
-        "title":"江湖影视",
-        "url":"http://share.jhyun.jx.cn/api.php/app/",
-        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/江湖影视.png"
         }
     ]
     }
