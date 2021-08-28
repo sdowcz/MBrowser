@@ -226,7 +226,7 @@
         {
         "title":"爱看TV",
         "url":"http://mini.aikantv.top/mogai_api.php/v1.vod",
-        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/萌看TV.png",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/爱看TV.png",
         "murl":"q:APP影视"
         },
         {
@@ -371,6 +371,12 @@
         "title":"麻瓜视频",
         "url":"http://myapp.maguays.cc/mogai_api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/麻瓜视频.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"萌看TV",
+        "url":"http://app.aiyi888.cn/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/萌看TV.png",
         "murl":"q:APP影视"
         },
         {

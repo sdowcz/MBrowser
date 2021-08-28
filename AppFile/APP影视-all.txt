@@ -926,6 +926,7 @@ if(uu.indexOf("/jsonc/")!=-1){
     冷视TV=https://len.tv/api.php/v1.vod
     木白影视=http://vapp.23at.cn/api.php/v1.vod
     麻瓜视频=http://myapp.maguays.cc/mogai_api.php/v1.vod
+    萌看TV=http://app.aiyi888.cn/api.php/v1.vod
     喵乐影视=http://miaoletv.com/api.php/v1.vod
     南府追剧=http://app.xkvideo.design/api.php/v1.vod
     暖光影视=https://app.bl210.com/api.php/v1.vod
