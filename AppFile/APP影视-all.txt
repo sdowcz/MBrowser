@@ -59,6 +59,12 @@
         "murl":"q:TV影视"
         },
         {
+        "title":"双子星",
+        "url":"http://tv.diyoui.cc/api.php/iptv/vod/",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/双子星.png",
+        "murl":"q:TV影视"
+        },
+        {
         "title":"云播影视",
         "url":"http://yunbo.bxin.tv/api.php/iptv/vod/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/云播影视.png",
@@ -303,6 +309,12 @@
         "murl":"q:APP影视"
         },
         {
+        "title":"黄河影视",
+        "url":"http://i.ledu8.cn/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/黄河影视.png",
+        "murl":"q:APP影视"
+        },
+        {
         "title":"好看剧",
         "url":"http://v.0719.me/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/好看剧.png",
@@ -396,6 +408,12 @@
         "title":"片多儿",
         "url":"http://meinaikang.com/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/片多儿.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"蜀蓝影视",
+        "url":"http://xz.frps.yunwk.top/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/蜀蓝影视.png",
         "murl":"q:APP影视"
         },
         {
@@ -513,6 +531,12 @@
         "murl":"q:APP影视"
         },
         {
+        "title":"杨桃影视",
+        "url":"http://ytys1122.com/mogai_api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/杨桃影视.png",
+        "murl":"q:APP影视"
+        },
+        {
         "title":"优炫影视",
         "url":"http://yuntv.iyxtv.cn/mogai_api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/优炫影视.png",
@@ -608,7 +632,7 @@ var 列表=getVar("APP列表");
 var 更新=getVar("版本更新");
 var NewVersion=e2Rex(更新,".json(data).json(new)");
 var NowVersion=e2Rex(getHttp("mdata:qm/d566171c6a64659aad784524c76ab569"),".xml(version).z(\\d+)");
-if(NewVersion>NowVersion){
+if(NewVersion!=NowVersion){
     更新;
 }else{
     列表;
@@ -907,6 +931,7 @@ if(uu.indexOf("/jsonc/")!=-1){
     佛系追剧=http://foxi.kk06.top/mogai_api.php/v1.vod
     公主影视=http://mm.tcsdchina.com:6096/mogai_api.php/v1.vod
     辉哥影视=https://app.y.hgyule8.com/api.php/v1.vod
+    黄河影视=http://i.ledu8.cn/api.php/v1.vod
     好看剧=http://v.0719.me/api.php/v1.vod
     哈尼视频=http://www.videovips.top/api.php/v1.vod
     核桃影视=http://app.hetaoys.vip/api.php/v1.vod
@@ -923,6 +948,7 @@ if(uu.indexOf("/jsonc/")!=-1){
     内涵影视=http://v.nhdyys.cn/api.php/v1.vod
     柠檬影视=https://tv.13nm.com/api.php/v1.vod
     片多儿=http://meinaikang.com/api.php/v1.vod
+    蜀蓝影视=http://xz.frps.yunwk.top/api.php/v1.vod
     手指影视=http://szys3355.com/mogai_api.php/v1.vod
     森之屋=http://91.208.236.96/api.php/v1.vod
     淘剧社=http://app.shuhai99.com/api.php/v1.vod
@@ -941,6 +967,8 @@ if(uu.indexOf("/jsonc/")!=-1){
     元芳影视=http://yfys1122.com/mogai_api.php/v1.vod
     颖家影院=http://zly.xjqxz.top/api.php/v1.vod
     亦龙影视=http://app2.yilongys.cn/api.php/v1.vod
+    影视热剧,http://lb.26ys.cn/api.php/v1.vod
+    杨桃影视=http://ytys1122.com/mogai_api.php/v1.vod
     优炫影视=http://yuntv.iyxtv.cn/mogai_api.php/v1.vod
     一只鱼影视=http://www.bd-4k.ml/api.php/v1.vod
     追番猫=http://dm.496dy.cn:88/api.php/v1.vod
@@ -959,11 +987,12 @@ if(uu.indexOf("/jsonc/")!=-1){
     293影院=http://db.293ys.top:81/api.php/iptv/vod/
     V影视=http://www.ppzhu.vip/api.php/Chengcheng/vod/
     稻草人TV=http://www.zhaikanys.xyz/api.php/iptv1/vod/
-    嘀哩嘀哩TV,https://api.diliktv.xyz/api.php/Chengcheng/vod/
+    嘀哩嘀哩TV=https://api.diliktv.xyz/api.php/Chengcheng/vod/
     黑龙影视=http://vip.ji-ding-he.site/api.php/iptv/vod/
     核桃影视=http://lg.hetaoys.vip/api.php/iptv/vod/
     聚多影视=http://jdyy.chxjon.cn/api.php/iptv/vod/
     流星雨影院=http://phoebe.cf/api.php/iptv/vod/
+    双子星=http://tv.diyoui.cc/api.php/iptv/vod/
     云播影视=http://yunbo.bxin.tv/api.php/iptv/vod/
     小极TV=http://tv.8d8q.com/api.php/iptv/vod/
     臻彩视界=http://203.lxyyy.xyz:81/api.php/iptv/vod/vod/

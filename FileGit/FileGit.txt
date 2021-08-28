@@ -59,6 +59,10 @@
         {
         "name":"优酷视频",
         "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/广大侠/优酷视频.mqz"
+        },
+        {
+        "name":"聚应用",
+        "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/广大侠/聚应用.mqz"
         }
         ]
         },
@@ -222,6 +226,10 @@
         "title":"Killer Jack",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/Killer.png",
         "list":[
+        {
+        "name":"速搜TV.K",
+        "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/Killer Jack/速搜TV.K.mqz"
+        },
         {
         "name":"网易公开课.K",
         "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/Killer Jack/网易公开课.K.mqz"
@@ -671,6 +679,10 @@
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/wokaotianshi123.png",
         "list":[
         {
+        "name":"爱爱看剧6",
+        "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/wokaotianshi123/爱爱看剧6.mqz"
+        },
+        {
         "name":"追剧吧",
         "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/wokaotianshi123/追剧吧(new).mqz"
         },
@@ -792,6 +804,10 @@
         "title":"嗨又是我",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/嗨又是我.png",
         "list":[
+        {
+        "name":"EDD动漫.H",
+        "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/嗨又是我/EDD动漫.H.mqz"
+        },
         {
         "name":"雪视频.H",
         "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/嗨又是我/雪视频.H.mqz"
