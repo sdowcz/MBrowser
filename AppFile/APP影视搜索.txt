@@ -17,10 +17,8 @@
     九合视频=https://ptygx.com/api.php/app/
     江湖影视=http://app.jhdyw.vip:1234/api.php/app/
     琳琅影视=https://www.u23c.com/api.php/app/
-    萌蛋蛋=http://app.mengdandan.com/api.php/app/
     思古影视=https://siguyy.com/api.php/app/
     影视工场=https://www.ik4.cc/api.php/app/
-    追剧达人=http://vipmv.tv/api.php/app/
     "},
     {
     "title":"APP影视(v1)",
@@ -38,7 +36,6 @@
     白菜追剧=http://lbapp.huimaojia.com:30119/mogai_api.php/v1.vod
     初心影视=https://www.18mv.club/api.php/v1.vod
     大海影视=http://119.29.63.137/api.php/v1.vod
-    顶空影视=http://app1.dikotv.com/api.php/v1.vod
     大熊追剧=http://www.dxzj88.com/mogai_api.php/v1.vod
     段友影视=http://jimmyzhao.top/api.php/v1.vod
     段友影视=https://lb.5277s.com/api.php/v1.vod
@@ -91,7 +88,6 @@
     追番猫=http://dm.496dy.cn:88/api.php/v1.vod
     追剧吧=http://zhuijuba.vip/api.php/v1.vod
     追剧人=http://zhuijuren.vip/api.php/v1.vod
-    宅男影院=http://www.znyy666.top/api.php/v1.vod
     侦探影视=http://ys.huangguay.com/mogai_api.php/v1.vod
     追影兔=http://longw.xyz:91/api.php/v1.vod
     "},
