@@ -1,304 +1,327 @@
 {
 "data":[
-    {
-    "title":"轻站",
-    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/轻站.webp",
-    "murl":"q:轻站",
-    "lists":[
-        {
-        "title":"广大侠",
-        "list":"
-        一个影视
-        资源采集
-        网络直播
-        酷我音乐
-        360影视
-        咪咕音乐
-        腾讯视频
-        知乎
-        茶杯狐
-        虎牙直播
-        网易云音乐
-        QQ音乐
-        优酷视频
-        "},
-        {
-        "title":"InMemory",
-        "list":"
-        m仓库
-        APP影视A
-        街机
-        冬瓜影视
-        龙猫追剧
-        清风DJ
-        九桃小说(富文本)
-        "},
-        {
-        "title":"木白先生",
-        "list":"
-        追剧助手
-        "},
-        {
-        "title":"蓝二",
-        "list":"
-        蓝资小站
-        论坛轻站采集
-        悟空美剧
-        快手直播
-        好看视频
-        漫码
-        动漫之家
-        铃声多多
-        4K鸭
-        3G壁纸
-        233动漫网
-        360手机助手
-        百度手机助手
-        应用宝
-        爱奇艺
-        无双电影
-        思古影视
-        "},
-        {
-        "title":"fahy",
-        "list":"
-        捏它追剧
-        4K极客影视
-        1231D电影
-        白熊影院
-        飞极速
-        010动漫之家
-        奇优影院
-        "},
-        {
-        "title":"Killer Jack",
-        "list":"
-        璇玑视频
-        多多影院.K
-        1231d电影
-        京广航影视.K
-        少泽影客.K
-        辉哥1080影视.K
-        94神马.K
-        韩剧TV.K
-        冷so影院.K
-        小灾难影院.K
-        追剧狗
-        七年影视
-        飞极速动漫-无搜索
-        场库.K
-        不卡美剧.K
-        每日热门.K
-        追剧达人.K
-        全球直播.K
-        爱广场舞.K
-        E站.K
-        墨鱼影视.K
-        久播影视.K
-        55影视.K
-        喵乐影视.K
-        妖妖影院.K
-        麻花影视.K
-        美剧爱
-        聚合影视V7
-        "},
-        {
-        "title":"唐牛才是食神",
-        "list":"
-        好漫6
-        笔趣阁
-        次元壁
-        包子漫画
-        忆漫
-        古风漫画(2.0)
-        奇漫屋
-        COCO漫画
-        独漫画系列
-        知音漫客
-        "},
-        {
-        "title":"lgh00",
-        "list":"
-        爱搞机
-        泡泡网
-        度小视
-        蜂鸟网
-        异世界动漫
-        爱车MV
-        澎湃
-        糗事百科
-        笑话网
-        快科技
-        幻陌
-        聚合直播
-        q2002
-        文学吧
-        期刊杂志
-        下厨房.h
-        汤圆创作.h
-        天气预报.h
-        九酷音乐
-        bilibili
-        零零七
-        哔呢哔呢
-        jrs直播
-        AcFun
-        嘛哩嘛哩
-        芒果TV
-        爱奇艺
-        七七看片
-        话本小说
-        CMS
-        电影先生
-        "},
-        {
-        "title":"青城山白公子",
-        "list":"
-        ⭐️漫画
-        轻豆瓣影视
-        "},
-        {
-        "title":"luchao900",
-        "list":"
-        bilibili
-        超星阅读
-        骚火影视
-        "},
-        {
-        "title":"asdf1319964f",
-        "list":"
-        211电影
-        草民影视+S
-        妮可动漫
-        ASMRZY8
-        555电影网+S
-        陈家影视
-        耐看影视
-        蜗牛影视
-        顶空影视
-        EDD动漫
-        missfun
-        耳音asmr
-        Asmrv
-        笔趣阁漫画
-        97电影
-        AGE
-        "},
-        {
-        "title":"wumingtai",
-        "list":"
-        MyIPTV
-        "},
-        {
-        "title":"龙火",
-        "list":"
-        大师兄影视
-        酷客影院
-        动漫岛
-        肥牛看
-        奇热影视
-        "},
-        {
-        "title":"wokaotianshi123",
-        "list":"
-        人人迷影视
-        麻豆影视
-        京广航影视
-        饭团tv
-        9亿好
-        闪电(new)
-        孤单影视
-        枫林网
-        missfun(new)
-        迪迪影视
-        555电影网
-        乐播影视
-        剧好看
-        非凡影视
-        南府
-        奈非影视
-        耐看影视
-        知心影视
-        Auete影视
-        极品影视网
-        影视工场
-        "},
-        {
-        "title":"dsp",
-        "list":"
-        知心影视
-        "}
-    ]
-    },
-    {
-    "title":"聚合搜索引擎",
-    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/聚合搜索引擎.webp",
-    "murl":"q:聚合搜索引擎",
-    "lists":[
-        {
-        "title":"影视",
-        "list":"
-        爱搜索
-        影视
-        "},
-        {
-        "title":"工具",
-        "list":"
-        聚合搜(六)
-        六神磁历(搜)
-        网盘搜索
-        软件搜索
-        "},
-        {
-        "title":"内置",
-        "list":"
-        综合
-        百科
-        新闻
-        寻医
-        坏猫
-        优惠券
-        "}
-    ]
-    },
-    {
-    "title":"脚本",
-    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/脚本.webp",
-    "murl":"q:脚本",
-    "lists":[
-        {
-        "title":"影视",
-        "list":"
-        VIP会员视频自动解析
-        觅影VIP解析
-        懒人专用
-        "},
-        {
-        "title":"工具",
-        "list":"
-        豆瓣资源下载大师
-        "}
-    ]
-    },
-    {
-    "title":"广告拦截规则",
-    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/广告拦截规则.webp",
-    "murl":"q:广告拦截规则",
-    "lists":[
-        {
-        "title":"影视",
-        "list":"
-        ad3=https://cdn.jsdelivr.net/gh/o0HalfLife0o/list/ad3.txt
-        ad=https://gitee.com/halflife/list/raw/master/ad.txt
-        乘风-rule=https://gitee.com/xinggsf/Adblock-Rule/raw/master/rule.txt
-        乘风-mv=https://gitee.com/xinggsf/Adblock-Rule/raw/master/mv.txt
-        Easylist China=https://easylist-downloads.adblockplus.org/easylistchina.txt
-        EasyList Lite=https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjxlist.txt
-        CJX's Annoyance List=https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
-        adgk=https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt
-        ChinaListV2.0=https://www.oduang.com/ChinaList2.0.txt
-        "}
-    ]
-    }
+{
+"title":"轻站",
+"img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/轻站.webp",
+"murl":"q:轻站",
+"lists":[
+{
+"title":"广大侠",
+"list":[
+    {"name":"一个影视"},
+    {"name":"资源采集"},
+    {"name":"网络直播"},
+    {"name":"360影视"},
+    {"name":"腾讯视频"},
+    {"name":"优酷视频"},
+    {"name":"酷我音乐"},
+    {"name":"QQ音乐"},
+    {"name":"网易云音乐"},
+    {"name":"咪咕音乐"},
+    {"name":"茶杯狐"},
+    {"name":"知乎"},
+    {"name":"虎牙直播"},
+    {"name":"聚应用"}
+]
+},
+{
+"title":".",
+"list":[
+    {"name":"m仓库"},
+    {"name":"APP影视"},
+    {"name":"看剧"},
+    {"name":"街机"},
+    {"name":"冬瓜影视"},
+    {"name":"龙猫追剧"},
+    {"name":"清风DJ"},
+    {"name":"九桃小说(富文本)"}
+]
+},
+{
+"title":"木白先生",
+"list":[
+    {"name":"追剧助手"}
+]
+},
+{
+"title":"蓝二",
+"list":[
+    {"name":"蓝资小站"},
+    {"name":"论坛轻站采集"},
+    {"name":"悟空美剧"},
+    {"name":"快手直播"},
+    {"name":"好看视频"},
+    {"name":"漫码"},
+    {"name":"动漫之家"},
+    {"name":"铃声多多"},
+    {"name":"4K鸭"},
+    {"name":"3G壁纸"},
+    {"name":"233动漫网"},
+    {"name":"360手机助手"},
+    {"name":"百度手机助手"},
+    {"name":"应用宝"},
+    {"name":"爱奇艺"},
+    {"name":"思古影视"},
+    {"name":"无双电影"}
+]
+},
+{
+"title":"fahy",
+"list":[
+    {"name":"捏它追剧"},
+    {"name":"4K极客影视"},
+    {"name":"1231D电影"},
+    {"name":"白熊影院"},
+    {"name":"飞极速"},
+    {"name":"010动漫之家"},
+    {"name":"奇优影院"}
+]
+},
+{
+"title":"Killer Jack",
+"list":[
+    {"name":"璇玑视频"},
+    {"name":"多多影院.K"},
+    {"name":"1231d电影"},
+    {"name":"京广航影视.K"},
+    {"name":"少泽影客.K"},
+    {"name":"辉哥1080影视.K"},
+    {"name":"94神马.K"},
+    {"name":"韩剧TV.K"},
+    {"name":"冷so影院.K"},
+    {"name":"小灾难影院.K"},
+    {"name":"追剧狗"},
+    {"name":"七年影视"},
+    {"name":"飞极速动漫-无搜索"},
+    {"name":"场库.K"},
+    {"name":"不卡美剧.K"},
+    {"name":"每日热门.K"},
+    {"name":"追剧达人.K"}, 
+    {"name":"全球直播.K"},
+    {"name":"爱广场舞.K"},
+    {"name":"E站.K"},
+    {"name":"墨鱼影视.K"},
+    {"name":"久播影视.K"},
+    {"name":"55影视.K"},
+    {"name":"喵乐影视.K"},
+    {"name":"妖妖影院.K"},
+    {"name":"麻花影视.K"},
+    {"name":"美剧爱"},
+    {"name":"聚合影视V7"}
+]
+},
+{
+"title":"唐牛才是食神",
+"list":[
+    {"name":"好漫6"},
+    {"name":"笔趣阁"},
+    {"name":"次元壁"},
+    {"name":"包子漫画"},
+    {"name":"忆漫"},
+    {"name":"古风漫画(2.0)"},
+    {"name":"奇漫屋"},
+    {"name":"COCO漫画"},
+    {"name":"独漫画系列"},
+    {"name":"知音漫客"}
+]
+},
+{
+"title":"lgh00",
+"list":[
+    {"name":"爱搞机"},
+    {"name":"泡泡网"},
+    {"name":"度小视"},
+    {"name":"蜂鸟网"},
+    {"name":"异世界动漫"},
+    {"name":"爱车MV"},
+    {"name":"澎湃"},
+    {"name":"糗事百科"},
+    {"name":"笑话网"},
+    {"name":"快科技"},
+    {"name":"幻陌"},
+    {"name":"聚合直播"},
+    {"name":"q2002"},
+    {"name":"文学吧"},
+    {"name":"期刊杂志"},
+    {"name":"下厨房.h"},
+    {"name":"汤圆创作.h"},
+    {"name":"天气预报.h"},
+    {"name":"九酷音乐"},
+    {"name":"bilibili"},
+    {"name":"零零七"},
+    {"name":"哔呢哔呢"},
+    {"name":"jrs直播"},
+    {"name":"AcFun"},
+    {"name":"嘛哩嘛哩"},
+    {"name":"芒果TV"},
+    {"name":"爱奇艺"},
+    {"name":"七七看片"},
+    {"name":"话本小说"},
+    {"name":"CMS"},
+    {"name":"电影先生"}
+]
+},
+{
+"title":"青城山白公子",
+"list":[
+    {"name":"⭐️漫画"},
+    {"name":"轻豆瓣影视"}
+]
+},
+{
+"title":"luchao900",
+"list":[
+    {"name":"bilibili"},
+    {"name":"超星阅读"},
+    {"name":"骚火影视"}
+]
+},
+{
+"title":"asdf1319964f",
+"list":[
+    {"name":"211电影"},
+    {"name":"草民影视+S"},
+    {"name":"妮可动漫"},
+    {"name":"ASMRZY8"},
+    {"name":"555电影网+S"},
+    {"name":"陈家影视"},
+    {"name":"耐看影视"},
+    {"name":"蜗牛影视"},
+    {"name":"顶空影视"},
+    {"name":"EDD动漫"},
+    {"name":"missfun"},
+    {"name":"耳音asmr"},
+    {"name":"Asmrv"},
+    {"name":"笔趣阁漫画"},
+    {"name":"97电影"},
+    {"name":"AGE"}
+]
+},
+{
+"title":"wumingtai",
+"list":[
+    {"name":"MyIPTV"}
+]
+},
+{
+"title":"龙火",
+"list":[
+    {"name":"大师兄影视"},
+    {"name":"酷客影院"},
+    {"name":"动漫岛"},
+    {"name":"肥牛看"},
+    {"name":"奇热影视"}
+]
+},
+{
+"title":"wokaotianshi123",
+"list":[
+    {"name":"人人迷影视"},
+    {"name":"麻豆影视"},
+    {"name":"京广航影视"},
+    {"name":"饭团tv"},
+    {"name":"9亿好"},
+    {"name":"闪电(new)"},
+    {"name":"孤单影视"},
+    {"name":"枫林网"},
+    {"name":"missfun(new)"},
+    {"name":"迪迪影视"},
+    {"name":"555电影网"},
+    {"name":"乐播影视"},
+    {"name":"剧好看"},
+    {"name":"非凡影视"},
+    {"name":"南府"},
+    {"name":"奈非影视"},
+    {"name":"耐看影视"},
+    {"name":"知心影视"},
+    {"name":"Auete影视"},
+    {"name":"极品影视网"},
+    {"name":"影视工场"}
+]
+},
+{
+"title":"dsp",
+"list":[
+    {"name":"知心影视"}     
+]
+}
+]
+},
+{
+"title":"聚合搜索引擎",
+"img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/聚合搜索引擎.webp",
+"murl":"q:聚合搜索引擎",
+"lists":[
+{
+"title":"影视",
+"list":[
+    {"name":"爱搜索"},
+    {"name":"影视"} 
+]
+},
+{
+"title":"工具",
+"list":[
+    {"name":"聚合搜(六)"},
+    {"name":"六神磁历(搜)"},
+    {"name":"网盘搜索"},
+    {"name":"软件搜索"}
+]
+},
+{
+"title":"内置",
+"list":[
+    {"name":"综合"},
+    {"name":"百科"},
+    {"name":"新闻"},
+    {"name":"寻医"},
+    {"name":"坏猫"},
+    {"name":"优惠券"}
+]
+}
+]
+},
+{
+"title":"脚本",
+"img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/脚本.webp",
+"murl":"q:脚本",
+"lists":[
+{
+"title":"影视",
+"list":[
+    {"name":"VIP会员视频自动解析"},
+    {"name":"觅影VIP解析"},
+    {"name":"懒人专用"}
+]
+},
+{
+"title":"工具",
+"list":[
+    {"name":"豆瓣资源下载大师"}
+]
+}
+]
+},
+{
+"title":"广告拦截规则",
+"img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/广告拦截规则.webp",
+"murl":"q:广告拦截规则",
+"lists":[
+{
+"title":"影视",
+"list":[
+    {"name":"ad3=https://cdn.jsdelivr.net/gh/o0HalfLife0o/list/ad3.txt"},
+    {"name":"ad=https://gitee.com/halflife/list/raw/master/ad.txt"},
+    {"name":"乘风-rule=https://gitee.com/xinggsf/Adblock-Rule/raw/master/rule.txt"},
+    {"name":"乘风-mv=https://gitee.com/xinggsf/Adblock-Rule/raw/master/mv.txt"},
+    {"name":"Easylist China=https://easylist-downloads.adblockplus.org/easylistchina.txt"},
+    {"name":"EasyList Lite=https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjxlist.txt"},
+    {"name":"CJX's Annoyance List=https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt"},
+    {"name":"adgk=https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt"},
+    {"name":"ChinaListV2.0=https://www.oduang.com/ChinaList2.0.txt"}
+]
+}
+]
+}
 ]
 }
