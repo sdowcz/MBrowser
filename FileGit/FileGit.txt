@@ -87,6 +87,10 @@
         "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/InMemory/街机.mqz"
         },
         {
+        "name":"神马影院",
+        "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/InMemory/神马影院.mqz"
+        },
+        {
         "name":"冬瓜影视",
         "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/InMemory/冬瓜影视.mqz"
         },
