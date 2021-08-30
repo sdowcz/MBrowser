@@ -124,6 +124,12 @@
         "murl":"q:APP影视"
         },
         {
+        "title":"瓜皮TV",
+        "url":"http://www.dijiaxia.com/api.php/app/",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/瓜皮TV.png",
+        "murl":"q:APP影视"
+        },
+        {
         "title":"海胆影视",
         "url":"http://xf123.cc/api.php/app/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/海胆影视.png",
@@ -867,6 +873,7 @@ if(uu.indexOf("/jsonc/")!=-1){
     畅视影视=http://app.reboju.net/api.php/app/
     毒舌电影=https://www.dushe520.com/api.php/app/
     大师兄影视=https://hou.lu/api.php/app/
+    瓜皮TV=http://www.dijiaxia.com/api.php/app/
     海胆影视=http://xf123.cc/api.php/app/
     海绵影视=http://app1.yuzhouys.com/api.php/app/
     京广航影视=https://www.jingguanghang.com/api.php/app/
