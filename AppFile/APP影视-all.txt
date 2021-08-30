@@ -381,6 +381,12 @@
         "murl":"q:APP影视"
         },
         {
+        "title":"麻腾TV",
+        "url":"http://www.matengtv.top/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/麻腾TV.png",
+        "murl":"q:APP影视"
+        },
+        {
         "title":"喵乐影视",
         "url":"http://miaoletv.com/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/喵乐影视.png",
@@ -927,6 +933,7 @@ if(uu.indexOf("/jsonc/")!=-1){
     木白影视=http://vapp.23at.cn/api.php/v1.vod
     麻瓜视频=http://myapp.maguays.cc/mogai_api.php/v1.vod
     萌看TV=http://app.aiyi888.cn/api.php/v1.vod
+    麻腾TV,http://www.matengtv.top/api.php/v1.vod
     喵乐影视=http://miaoletv.com/api.php/v1.vod
     南府追剧=http://app.xkvideo.design/api.php/v1.vod
     暖光影视=https://app.bl210.com/api.php/v1.vod
