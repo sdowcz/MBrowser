@@ -567,6 +567,12 @@
         "murl":"q:APP影视"
         },
         {
+        "title":"追剧猫",
+        "url":"https://zhuijum.com/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/追剧猫.png",
+        "murl":"q:APP影视"
+        },
+        {
         "title":"追剧人",
         "url":"http://zhuijuren.vip/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/追剧人.png",
@@ -952,6 +958,7 @@ if(uu.indexOf("/jsonc/")!=-1){
     一只鱼影视=http://www.bd-4k.ml/api.php/v1.vod
     追番猫=http://dm.496dy.cn:88/api.php/v1.vod
     追剧吧=http://zhuijuba.vip/api.php/v1.vod
+    追剧猫=https://zhuijum.com/api.php/v1.vod
     追剧人=http://zhuijuren.vip/api.php/v1.vod
     宅男影院=http://www.znyy666.top/api.php/v1.vod
     侦探影视=http://ys.huangguay.com/mogai_api.php/v1.vod
