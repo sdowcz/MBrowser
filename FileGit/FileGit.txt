@@ -837,6 +837,16 @@
         ]
         },
         {
+        "title":"文墨",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/文墨.png",
+        "list":[
+        {
+        "name":"文墨",
+        "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/文墨/文墨.mqz"
+        }
+        ]
+        },
+        {
         "title":"模板",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/M浏览器2.png",
         "list":[
