@@ -160,6 +160,12 @@
         "murl":"q:APP影视"
         },
         {
+        "title":"久九影视",
+        "url":"https://api.58qxk.cn/api.php/app/",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/久九影视.png",
+        "murl":"q:APP影视"
+        },
+        {
         "title":"琳琅影视",
         "url":"https://www.u23c.com/api.php/app/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/琳琅影视.png",
@@ -339,6 +345,12 @@
         "murl":"q:APP影视"
         },
         {
+        "title":"筋斗云影视",
+        "url":"https://tv.jindcloud.com/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/筋斗云影视.png",
+        "murl":"q:APP影视"
+        },
+        {
         "title":"快播吧",
         "url":"http://www.hd8.pw/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/快播吧.png",
@@ -423,9 +435,21 @@
         "murl":"q:APP影视"
         },
         {
+        "title":"骑士影院",
+        "url":"https://app.qishi.xyz/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/骑士影院.png",
+        "murl":"q:APP影视"
+        },
+        {
         "title":"蜀蓝影视",
         "url":"http://xz.frps.yunwk.top/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/蜀蓝影视.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"视听星球",
+        "url":"http://zjyapijzys.shynwlkj.com/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/视听星球.png",
         "murl":"q:APP影视"
         },
         {
@@ -891,6 +915,7 @@ if(uu.indexOf("/jsonc/")!=-1){
     京广航影视=https://www.jingguanghang.com/api.php/app/
     九合视频=https://ptygx.com/api.php/app/
     江湖影视=http://app.jhdyw.vip:1234/api.php/app/
+    久九影视=https://api.58qxk.cn/api.php/app/
     琳琅影视=https://www.u23c.com/api.php/app/
     萌蛋蛋=http://app.mengdandan.com/api.php/app/
     思古影视=https://siguyy.com/api.php/app/
@@ -926,6 +951,7 @@ if(uu.indexOf("/jsonc/")!=-1){
     哈尼视频=http://www.videovips.top/api.php/v1.vod
     核桃影视=http://app.hetaoys.vip/api.php/v1.vod
     海棠影视=https://www.52haitang.cn/api.php/v1.vod
+    筋斗云影视=https://tv.jindcloud.com/api.php/v1.vod
     快播吧=http://www.hd8.pw/api.php/v1.vod
     懒猫电影=http://www.lanmaody.com/api.php/v1.vod
     蓝鲸视界=https://apps.vd5.cc/api.php/v1.vod
@@ -940,7 +966,9 @@ if(uu.indexOf("/jsonc/")!=-1){
     内涵影视=http://v.nhdyys.cn/api.php/v1.vod
     柠檬影视=https://tv.13nm.com/api.php/v1.vod
     片多儿=http://meinaikang.com/api.php/v1.vod
+    骑士影院=https://app.qishi.xyz/api.php/v1.vod
     蜀蓝影视=http://xz.frps.yunwk.top/api.php/v1.vod
+    视听星球=http://zjyapijzys.shynwlkj.com/api.php/v1.vod
     手指影视=http://szys3355.com/mogai_api.php/v1.vod
     森之屋=http://91.208.236.96/api.php/v1.vod
     淘剧社=http://app.shuhai99.com/api.php/v1.vod
