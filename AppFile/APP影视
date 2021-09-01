@@ -6,7 +6,7 @@ var name=e2Rex(getHttp("mdata:qm/d566171c6a64659aad784524c76ab569"),".xml(name).
 if(version=="20210831"&&name=="APP影视"){
 列表;
 }else{
-"更新;"
+更新;
 }
 ######版本更新
 {
