@@ -2,7 +2,7 @@
 var version=e2Rex(getHttp("mdata:qm/d566171c6a64659aad784524c76ab569"),".xml(version).z(\\d+)");
 var name=e2Rex(getHttp("mdata:qm/d566171c6a64659aad784524c76ab569"),".xml(name).t().z(\\S+)");
 var update=getVar("版本更新");
-if(version=="20210830"&&name=="APP影视"){
+if(version=="20210901"&&name=="APP影视"){
 getHttp(JSON.stringify({url:"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/APP影视列表.txt"}));
 }else{
 update;
@@ -11,7 +11,7 @@ update;
 {
 "data":[
     {
-    "title":"有新版本，请升级m浏览器到2.6.4版本使用",
+    "title":"有新版本，请升级m浏览器到2.6.4及以上版本使用",
     "new":"20210830",
     "list":[
         {
