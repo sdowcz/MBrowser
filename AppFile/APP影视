@@ -1,6 +1,6 @@
 ######APP列表
 var 更新=getVar("版本更新");
-var d=e2Rex("aHR0cHMlM0EvL2lubWVtb3J5LmNvZGluZy5uZXQvcC9Jbk1lbW9yeS9kL01Ccm93c2VyL2dpdC9yYXcvbWFzdGVyL0FwcEZpbGUvQVBQJXU1RjcxJXU4OUM2JXU1MjE3JXU4ODY4LnR4dA==",".dn64().dn(utf-8).t()");
+var d=e2Rex("aHR0cHMlM0EvL2lubWVtb3J5LmNvZGluZy5uZXQvcC9Jbk1lbW9yeS9kL01Ccm93c2VyL2dpdC9yYXcvbWFzdGVyL0FwcEZpbGUvQVBQJXU1RjcxJXU4OUM2JXU1MjE3JXU4ODY4LnR4dA==",".t().dn64().dn(utf-8)");
 var u=decodeURIComponent(d);
 var 列表=getHttp(JSON.stringify({url:d}));
 var YunVersion="20210830";
