@@ -429,10 +429,10 @@ if(URL.indexOf("diyoui")!=-1||URL.indexOf("diliktv")!=-1||URL.indexOf("ppzhu")!=
 ######搜索播放页前缀地址
 var name=e2Rex(getHttp("mdata:qm/d566171c6a64659aad784524c76ab569"),".xml(name).t().z(\\S+)");
 var URL=getVar("urls");
-if(URL.indexOf("api.php/app)!=-1"&&name=="APP影视"){
-URL+"video_detail?id=";
+if(URL.indexOf("api.php/app")!=-1&&name=="APP影视"){
+    URL+"video_detail?id=";
 }else if(URL.indexOf(".vod")!=-1&&name=="APP影视"){
-URL+"/detail?vod_id=";
+    URL+"/detail?vod_id=";
 }else{
     "";
 }
