@@ -6,21 +6,7 @@ var name=e2Rex(getHttp("mdata:qm/d566171c6a64659aad784524c76ab569"),".xml(name).
 if(version=="20210831"&&name=="APP影视"){
 列表;
 }else{
-"{
-"data":[
-    {
-    "title":"有新版本，请升级m浏览器到2.6.4版本使用",
-    "new":"20210830",
-    "list":[
-        {
-        "title":"安装新版",
-        "murl":"mapi:qm/https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/InMemory/APP影视.mqz",
-        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/update.png"
-        }
-    ]
-    }
-]
-}"
+"更新;"
 }
 ######版本更新
 {
