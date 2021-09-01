@@ -1,16 +1,14 @@
-######APP列表
-var YunVersion="20210830";
-var YunName="APP影视";
+######首页数据
 var version=e2Rex(getHttp("mdata:qm/d566171c6a64659aad784524c76ab569"),".xml(version).z(\\d+)");
 var name=e2Rex(getHttp("mdata:qm/d566171c6a64659aad784524c76ab569"),".xml(name).t().z(\\S+)");
 var update=getVar("版本更新");
 var list=getHttp(JSON.stringify({url:"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/APP影视列表.txt"}));
-if(version==YunVersion&&name==YunName){
+if(version=="20210830"&&name=="APP影视"){
 list;
 }else{
 update;
 }
-######版本更新
+######更新版本
 {
 "data":[
     {
@@ -26,46 +24,48 @@ update;
     }
 ]
 }
-######检测更新
-var 列表=getVar("APP列表");
-var 更新=getVar("版本更新");
-var NewVersion=e2Rex(更新,".json(data).json(new)");
-var NowVersion=e2Rex(getHttp("mdata:qm/d566171c6a64659aad784524c76ab569"),".xml(version).z(\\d+)");
-if(NewVersion!=NowVersion){
-    更新;
-}else{
-    列表;
-}
 ######取源码内地址
 var code=getVar("CODE");
 e2Rex(code,".json(url)");
 ######分类地址
+var name=e2Rex(getHttp("mdata:qm/d566171c6a64659aad784524c76ab569"),".xml(name).t().z(\\S+)");
 var URL=getVar("Url");
-if(URL.indexOf("api.php/app")!=-1){
+if(URL.indexOf("api.php/app")!=-1&&name="APP影视"){
     URL+"nav?token=";
-}else{
+}else if(URL.indexOf(".vod")!=-1&&name="APP影视"){
     URL+"/types";
+}else{
+    "";
 }
 ######分类地址前缀
+var name=e2Rex(getHttp("mdata:qm/d566171c6a64659aad784524c76ab569"),".xml(name).t().z(\\S+)");
 var URL=getVar("Url");
-if(URL.indexOf("api.php/app")!=-1){
+if(URL.indexOf("api.php/app")!=-1&&name="APP影视"){
     URL+"video?tid=";
-}else{
+}else if(URL.indexOf(".vod")!=-1&&name="APP影视"){
     URL+"?type=";
+}else{
+    "";
 }
 ######分类内容爬虫地址
+var name=e2Rex(getHttp("mdata:qm/d566171c6a64659aad784524c76ab569"),".xml(name).t().z(\\S+)");
 var URL=getVar("url");
-if(URL.indexOf(".vod")!=-1){
+if(URL.indexOf(".vod")!=-1&&name="APP影视"){
     getVar("url").split("?")[0];
-}else{
+}else if(URL.indexOf("api.php/app")!=-1&&name="APP影视"){
     getVar("url").split("video?")[0];
+}else{
+    "";
 }
 ######推荐地址
+var name=e2Rex(getHttp("mdata:qm/d566171c6a64659aad784524c76ab569"),".xml(name).t().z(\\S+)");
 var URL=getVar("Url");
-if(URL.indexOf("api.php/app")!=-1){
+if(URL.indexOf("api.php/app")!=-1&&name="APP影视"){
     URL+"index_video?token=";
-}else{
+}else if(URL.indexOf(".vod")!=-1&&name="APP影视"){
     URL+"/vodPhbAll";
+}else{
+    "";
 }
 ######翻页词
 var URL=getVar("Url");
@@ -75,11 +75,14 @@ if(URL.indexOf("api.php/app")!=-1){
     "page=";
 }
 ######播放页前缀地址
+var name=e2Rex(getHttp("mdata:qm/d566171c6a64659aad784524c76ab569"),".xml(name).t().z(\\S+)");
 var URL=getVar("Url");
-if(URL.indexOf("api.php/app")!=-1){
+if(URL.indexOf("api.php/app")!=-1&&name="APP影视"){
     URL+"video_detail?id=";
-}else{
+}else if(URL.indexOf(".vod")!=-1&&name="APP影视"){
     URL+"/detail?vod_id=";
+}else{
+    "";
 }
 ######选集列表
 var URL=getVar("url");
@@ -408,11 +411,14 @@ if(uu.indexOf("/jsonc/")!=-1){
 ]
 }
 ######搜索地址
+var name=e2Rex(getHttp("mdata:qm/d566171c6a64659aad784524c76ab569"),".xml(name).t().z(\\S+)");
 var Url=getVar("urls");
-if(Url.indexOf("api.php/app")!=-1){
-  "search?text="+getVar("KEY")+"&pg=";
+if(Url.indexOf("api.php/app")!=-1&&name=="APP影视"){
+    "search?text="+getVar("KEY")+"&pg=";
+}else if(Url.indexOf(".vod")!=-1&&name=="APP影视"){
+    "?limit=10&wd="+getVar("KEY")+"&page=";
 }else{
-  "?limit=10&wd="+getVar("KEY")+"&page=";
+    "";
 }
 ######搜索词
 var URL=getVar("urls");
@@ -422,11 +428,14 @@ if(URL.indexOf("diyoui")!=-1||URL.indexOf("diliktv")!=-1||URL.indexOf("ppzhu")!=
     "zm";
 }
 ######搜索播放页前缀地址
+var name=e2Rex(getHttp("mdata:qm/d566171c6a64659aad784524c76ab569"),".xml(name).t().z(\\S+)");
 var URL=getVar("urls");
-if(URL.indexOf("api.php/app")!=-1){
- URL+"video_detail?id=";
+if(URL.indexOf("api.php/app"&&name=="APP影视")!=-1){
+URL+"video_detail?id=";
+}else if(URL.indexOf(".vod"&&name=="APP影视")!=-1){
+URL+"/detail?vod_id=";
 }else{
- URL+"/detail?vod_id=";
+    "";
 }
 ######APP筛选
 类型+全部=+喜剧+爱情+恐怖+动作+科幻+剧情+战争+警匪+犯罪+动画+奇幻+武侠+冒险+枪战+恐怖+悬疑+惊悚+经典+青春+文艺+微电影+古装+历史+运动+农村+惊悚+伦理+情色+福利+惊悚+儿童+网络电影
