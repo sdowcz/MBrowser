@@ -1,7 +1,5 @@
 ######APP列表
 var 更新=getVar("版本更新");
-var d=e2Rex("aHR0cHMlM0EvL2lubWVtb3J5LmNvZGluZy5uZXQvcC9Jbk1lbW9yeS9kL01Ccm93c2VyL2dpdC9yYXcvbWFzdGVyL0FwcEZpbGUvQVBQJXU1RjcxJXU4OUM2JXU1MjE3JXU4ODY4LnR4dA==",".dn64().t()");
-var u=decodeURI(d);
 var 列表=getHttp(JSON.stringify({url:"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/APP影视列表.txt"}));
 var YunVersion="20210830";
 var YunName="APP影视";
