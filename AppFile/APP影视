@@ -1,9 +1,7 @@
 ######APP列表
-var YunVersion="20120901";
 var version=e2Rex(getHttp("mdata:qm/d566171c6a64659aad784524c76ab569"),".xml(version).z(\\d+)");
-var YunName="APP影视";
 var name=e2Rex(getHttp("mdata:qm/d566171c6a64659aad784524c76ab569"),".xml(name).t()");
-if(YunVersion==version&&YunName=name){
+if(version=="20210831"&&name=="APP影视"){
 "{
 "data":[
     {
