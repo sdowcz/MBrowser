@@ -609,6 +609,12 @@
         "murl":"q:APP影视"
         },
         {
+        "title":"宅男影视",
+        "url":"https://www.znyy666.top/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/宅男影视.png",
+        "murl":"q:APP影视"
+        },
+        {
         "title":"侦探影视",
         "url":"http://ys.huangguay.com/mogai_api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/侦探影视.png",
