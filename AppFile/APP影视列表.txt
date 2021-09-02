@@ -524,6 +524,12 @@
         "murl":"q:APP影视"
         },
         {
+        "title":"香蕉视频",
+        "url":"https://007.lanmaody.com/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/香蕉视频.png",
+        "murl":"q:APP影视"
+        },
+        {
         "title":"星空影视",
         "url":"http://xiongkongwx.cn/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/星空影视.png",
