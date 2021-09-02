@@ -422,6 +422,12 @@
         "murl":"q:APP影视"
         },
         {
+        "title":"美剧虫",
+        "url":"https://meijuchong.com/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/美剧虫.png",
+        "murl":"q:APP影视"
+        },
+        {
         "title":"内涵影视",
         "url":"http://v.nhdyys.cn/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/内涵影视.png",

@@ -358,6 +358,7 @@ if(uu.indexOf("baidu.com")!=-1){
     喵乐影视=http://miaoletv.com/api.php/v1.vod
     南府追剧=http://app.xkvideo.design/api.php/v1.vod
     暖光影视=https://app.bl210.com/api.php/v1.vod
+    美剧虫=https://meijuchong.com/api.php/v1.vod
     内涵影视=http://v.nhdyys.cn/api.php/v1.vod
     柠檬影视=https://tv.13nm.com/api.php/v1.vod
     片多儿=http://meinaikang.com/api.php/v1.vod
