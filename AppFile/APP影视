@@ -201,14 +201,24 @@ if(URL.indexOf("api.php/app")!=-1){
 }
 ######免嗅探
 var uu=getVar("url");
+if(uu.indexOf("languang.wfss100")!=-1){
+    var id=uu.split("url=")[1];
+    var uu="https://j.languang.wfss100.com/jx/md5.php?url="+id;
+}else if(uu.indexOf("&down=200")!=-1){
+    var uu=uu.replace("&down=200","");
+}else if(uu.indexOf("789pan.hd8.pw")!=-1){
+    var id=uu.split("url=")[1];
+    var uu="https://vip.gaotian.love/api/?key=sRy0QAq8hqXRlrEtrq&url="+id;
+}else if(uu.indexOf("uid=1735&my=abghmpqtwBGIKLOW24&url=")!=-1){
+    var id=uu.split("url=")[1];
+    var uu="https://api.parwix.com:4433/analysis/json/?uid=1735&my=bfgnqrstuINQRWZ034&url="+id;
+}
 var resp=JZ(JSON.stringify({url:uu}));
-if(uu.indexOf("/jsonc/")!=-1){
-    "web="+uu;
-}else if(uu.indexOf("baidu.com")!=-1){
+if(uu.indexOf("baidu.com")!=-1){
     var playurl=uu.split("wd=")[1];
-    if(playurl.indexOf("vip.19jx.vip/api/?type=app")!=-1||playurl.indexOf("42.51.48.17/?url=")!=-1){
+    if(playurl.indexOf("www.ppzhu.vip")!=-1||playurl.indexOf("vip.19jx.vip/api/?type=app")!=-1||playurl.indexOf("42.51.48.17/?url=")!=-1){
         if(playurl.indexOf("www.mgtv.com")!=-1){
-            JSON.stringify([{name:"播放不了请切换mp4",url:playurl+"&_type=.m3u8",head:{"User-Agent":UA,"Referer":"https://www.mgtv.com/"}},{name:"mp4",url:playurl+"&_type=.mp4",head:{"User-Agent":UA,"Referer":"https://www.mgtv.com/"}}]);
+            JSON.stringify([{name:"播放不了请切换mp4",url:playurl+"&_type=.m3u8",head:{"User-Agent":"Mozilla/5.0","Origin":"https://www.mgtv.com"}},{name:"mp4",url:playurl+"&_type=.mp4",head:{"User-Agent":"Mozilla/5.0","Referer":"https://www.mgtv.com"}}]);
         }else{
             JSON.stringify([{name:"播放不了请切换mp4",url:playurl+"&_type=.m3u8"},{name:"mp4",url:playurl+"&_type=.mp4"}]);
         }
@@ -247,7 +257,7 @@ if(uu.indexOf("/jsonc/")!=-1){
     }else if(resp.code.indexOf("#EXTINF")!=-1){
         if(uu.indexOf("?")!=-1){
             if(uu.indexOf("www.mgtv.com")!=-1){
-                JSON.stringify([{name:"播放不了请切换mp4",url:uu+"&_type=.m3u8",head:{"User-Agent":UA,"Referer":"https://www.mgtv.com/"}},{name:"mp4",url:uu+"&_type=.mp4",head:{"User-Agent":UA,"Referer":"https://www.mgtv.com/"}}]);
+                JSON.stringify([{name:"播放不了请切换mp4",url:uu+"&_type=.m3u8",head:{"User-Agent":"Mozilla/5.0","Referer":"https://www.mgtv.com"}},{name:"mp4",url:uu+"&_type=.mp4",head:{"User-Agent":"Mozilla/5.0","Referer":"https://www.mgtv.com"}}]);
             }else{
                 JSON.stringify({url:uu+"&_type=.m3u8"});
             }
