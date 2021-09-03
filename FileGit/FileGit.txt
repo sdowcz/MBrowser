@@ -403,6 +403,10 @@
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/lgh00.png",
         "list":[
         {
+        "name":"Pixivel",
+        "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/lgh00/Pixivel.mqz"
+        },
+        {
         "name":"梨视频",
         "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/lgh00/梨视频.mqz"
         },
