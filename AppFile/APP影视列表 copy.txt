@@ -1,4 +1,3 @@
-######APP列表
 {
 "data":[
     {
@@ -285,6 +284,12 @@
         "murl":"q:APP影视"
         },
         {
+        "title":"粉粉影视",
+        "url":"http://huluxiaindex.huimaojia.com:30130/mogai_api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/粉粉影视.png",
+        "murl":"q:APP影视"
+        },
+        {
         "title":"飞捷影视",
         "url":"http://www.fj6080.com/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/飞捷影视.png",
@@ -358,7 +363,7 @@
         },
         {
         "title":"懒猫电影",
-        "url":"http://007.lanmaody.com/api.php/v1.vod",
+        "url":"http://www.lanmaody.com/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/懒猫电影.png",
         "murl":"q:APP影视"
         },
@@ -417,6 +422,12 @@
         "murl":"q:APP影视"
         },
         {
+        "title":"美剧虫",
+        "url":"https://meijuchong.com/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/美剧虫.png",
+        "murl":"q:APP影视"
+        },
+        {
         "title":"内涵影视",
         "url":"http://v.nhdyys.cn/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/内涵影视.png",
@@ -438,6 +449,12 @@
         "title":"骑士影院",
         "url":"https://app.qishi.xyz/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/骑士影院.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"蜀蓝影视",
+        "url":"http://xz.frps.yunwk.top/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/蜀蓝影视.png",
         "murl":"q:APP影视"
         },
         {
@@ -513,6 +530,12 @@
         "murl":"q:APP影视"
         },
         {
+        "title":"香蕉视频",
+        "url":"https://007.lanmaody.com/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/香蕉视频.png",
+        "murl":"q:APP影视"
+        },
+        {
         "title":"星空影视",
         "url":"http://xiongkongwx.cn/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/星空影视.png",
@@ -537,6 +560,24 @@
         "murl":"q:APP影视"
         },
         {
+        "title":"星影相随",
+        "url":"https://www.rootthree.top/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/星影相随.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"星月影视",
+        "url":"http://www.jjsvip.cc/mogai_api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/星月影视.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"益达影院",
+        "url":"http://luobu.yss6080.com/mogai_api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/益达影院.png",
+        "murl":"q:APP影视"
+        },
+        {
         "title":"元芳影视",
         "url":"http://yfys1122.com/mogai_api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/元芳影视.png",
@@ -546,6 +587,12 @@
         "title":"颖家影院",
         "url":"http://zly.xjqxz.top/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/颖家影院.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"亦龙影视",
+        "url":"http://app2.yilongys.cn/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/亦龙影视.png",
         "murl":"q:APP影视"
         },
         {
@@ -617,30 +664,4 @@
     ]
     }
 ]
-}
-######版本更新
-{
-"data":[
-    {
-    "title":"有新版本，请升级m浏览器到2.6.4版本使用",
-    "new":"20210901",
-    "list":[
-        {
-        "title":"安装新版",
-        "murl":"mapi:qm/https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/InMemory/APP影视.mqz",
-        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/update.png"
-        }
-    ]
-    }
-]
-}
-######检测更新
-var 列表=getVar("APP列表");
-var 更新=getVar("版本更新");
-var NewVersion=e2Rex(更新,".json(data).json(new)");
-var NowVersion=e2Rex(getHttp("mdata:qm/d566171c6a64659aad784524c76ab569"),".xml(version).z(\\d+)");
-if(NewVersion!=NowVersion){
-    更新;
-}else{
-    列表;
 }

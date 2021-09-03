@@ -284,12 +284,6 @@
         "murl":"q:APP影视"
         },
         {
-        "title":"粉粉影视",
-        "url":"http://huluxiaindex.huimaojia.com:30130/mogai_api.php/v1.vod",
-        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/粉粉影视.png",
-        "murl":"q:APP影视"
-        },
-        {
         "title":"飞捷影视",
         "url":"http://www.fj6080.com/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/飞捷影视.png",
@@ -363,7 +357,7 @@
         },
         {
         "title":"懒猫电影",
-        "url":"http://www.lanmaody.com/api.php/v1.vod",
+        "url":"http://007.lanmaody.com/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/懒猫电影.png",
         "murl":"q:APP影视"
         },
@@ -452,12 +446,6 @@
         "murl":"q:APP影视"
         },
         {
-        "title":"蜀蓝影视",
-        "url":"http://xz.frps.yunwk.top/api.php/v1.vod",
-        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/蜀蓝影视.png",
-        "murl":"q:APP影视"
-        },
-        {
         "title":"视听星球",
         "url":"http://zjyapijzys.shynwlkj.com/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/视听星球.png",
@@ -530,12 +518,6 @@
         "murl":"q:APP影视"
         },
         {
-        "title":"香蕉视频",
-        "url":"https://007.lanmaody.com/api.php/v1.vod",
-        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/香蕉视频.png",
-        "murl":"q:APP影视"
-        },
-        {
         "title":"星空影视",
         "url":"http://xiongkongwx.cn/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/星空影视.png",
@@ -587,12 +569,6 @@
         "title":"颖家影院",
         "url":"http://zly.xjqxz.top/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/颖家影院.png",
-        "murl":"q:APP影视"
-        },
-        {
-        "title":"亦龙影视",
-        "url":"http://app2.yilongys.cn/api.php/v1.vod",
-        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/亦龙影视.png",
         "murl":"q:APP影视"
         },
         {
