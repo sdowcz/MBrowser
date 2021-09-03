@@ -40,6 +40,12 @@
         "murl":"q:APP影视"
         },
         {
+        "title":"段友影视",
+        "url":"https://lb.5277s.com/api.php/app/",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/段友影视©.png",
+        "murl":"q:APP影视"
+        },
+        {
         "title":"瓜皮TV",
         "url":"http://www.dijiaxia.com/api.php/app/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/瓜皮TV.png",
@@ -192,12 +198,6 @@
         "title":"段友影视",
         "url":"http://jimmyzhao.top/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/段友影视.png",
-        "murl":"q:APP影视"
-        },
-        {
-        "title":"段友影视",
-        "url":"https://lb.5277s.com/api.php/v1.vod",
-        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/段友影视©.png",
         "murl":"q:APP影视"
         },
         {
