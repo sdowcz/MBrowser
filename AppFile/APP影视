@@ -26,41 +26,37 @@ update;
 var code=getVar("CODE");
 e2Rex(code,".json(url)");
 ######分类地址
-var name=e2Rex(getHttp("mdata:qm/d566171c6a64659aad784524c76ab569"),".xml(name).t().z(\\S+)");
 var URL=getVar("Url");
-if(URL.indexOf("api.php/app")!=-1&&name=="APP影视"){
+if(URL.indexOf("api.php/app")!=-1){
     URL+"nav?token=";
-}else if(URL.indexOf(".vod")!=-1&&name=="APP影视"){
+}else if(URL.indexOf(".vod")!=-1){
     URL+"/types";
 }else{
     "";
 }
 ######分类地址前缀
-var name=e2Rex(getHttp("mdata:qm/d566171c6a64659aad784524c76ab569"),".xml(name).t().z(\\S+)");
 var URL=getVar("Url");
-if(URL.indexOf("api.php/app")!=-1&&name=="APP影视"){
+if(URL.indexOf("api.php/app")!=-1){
     URL+"video?tid=";
-}else if(URL.indexOf(".vod")!=-1&&name=="APP影视"){
+}else if(URL.indexOf(".vod")!=-1){
     URL+"?type=";
 }else{
     "";
 }
 ######分类内容爬虫地址
-var name=e2Rex(getHttp("mdata:qm/d566171c6a64659aad784524c76ab569"),".xml(name).t().z(\\S+)");
 var URL=getVar("url");
-if(URL.indexOf(".vod")!=-1&&name=="APP影视"){
+if(URL.indexOf(".vod")!=-1){
     getVar("url").split("?")[0];
-}else if(URL.indexOf("api.php/app")!=-1&&name=="APP影视"){
+}else if(URL.indexOf("api.php/app")!=-1){
     getVar("url").split("video?")[0];
 }else{
     "";
 }
 ######推荐地址
-var name=e2Rex(getHttp("mdata:qm/d566171c6a64659aad784524c76ab569"),".xml(name).t().z(\\S+)");
 var URL=getVar("Url");
-if(URL.indexOf("api.php/app")!=-1&&name=="APP影视"){
+if(URL.indexOf("api.php/app")!=-1){
     URL+"index_video?token=";
-}else if(URL.indexOf(".vod")!=-1&&name=="APP影视"){
+}else if(URL.indexOf(".vod")!=-1){
     URL+"/vodPhbAll";
 }else{
     "";
@@ -73,11 +69,10 @@ if(URL.indexOf("api.php/app")!=-1){
     "page=";
 }
 ######播放页前缀地址
-var name=e2Rex(getHttp("mdata:qm/d566171c6a64659aad784524c76ab569"),".xml(name).t().z(\\S+)");
 var URL=getVar("Url");
-if(URL.indexOf("api.php/app")!=-1&&name=="APP影视"){
+if(URL.indexOf("api.php/app")!=-1){
     URL+"video_detail?id=";
-}else if(URL.indexOf(".vod")!=-1&&name=="APP影视"){
+}else if(URL.indexOf(".vod")!=-1){
     URL+"/detail?vod_id=";
 }else{
     "";
@@ -413,11 +408,10 @@ if(uu.indexOf("baidu.com")!=-1){
 ]
 }
 ######搜索地址
-var name=e2Rex(getHttp("mdata:qm/d566171c6a64659aad784524c76ab569"),".xml(name).t().z(\\S+)");
 var Url=getVar("urls");
-if(Url.indexOf("api.php/app")!=-1&&name=="APP影视"){
+if(Url.indexOf("api.php/app")!=-1){
     "search?text="+getVar("KEY")+"&pg=";
-}else if(Url.indexOf(".vod")!=-1&&name=="APP影视"){
+}else if(Url.indexOf(".vod")!=-1){
     "?limit=10&wd="+getVar("KEY")+"&page=";
 }else{
     "";
@@ -430,11 +424,10 @@ if(URL.indexOf("diyoui")!=-1||URL.indexOf("diliktv")!=-1||URL.indexOf("ppzhu")!=
     "zm";
 }
 ######搜索播放页前缀地址
-var name=e2Rex(getHttp("mdata:qm/d566171c6a64659aad784524c76ab569"),".xml(name).t().z(\\S+)");
 var URL=getVar("urls");
-if(URL.indexOf("api.php/app")!=-1&&name=="APP影视"){
+if(URL.indexOf("api.php/app")!=-1){
     URL+"video_detail?id=";
-}else if(URL.indexOf(".vod")!=-1&&name=="APP影视"){
+}else if(URL.indexOf(".vod")!=-1){
     URL+"/detail?vod_id=";
 }else{
     "";
