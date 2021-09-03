@@ -310,11 +310,8 @@ if(uu.indexOf("baidu.com")!=-1){
     江湖影视=http://app.jhdyw.vip:1234/api.php/app/
     久九影视=https://api.58qxk.cn/api.php/app/
     琳琅影视=https://www.u23c.com/api.php/app/
-    萌蛋蛋=http://app.mengdandan.com/api.php/app/
     思古影视=https://siguyy.com/api.php/app/
     影视工场=https://www.ik4.cc/api.php/app/
-    追剧达人=http://vipmv.tv/api.php/app/
-    "},
     {
     "title":"APP影视(v1)",
     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/南府追剧.png",
