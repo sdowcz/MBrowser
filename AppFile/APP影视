@@ -307,6 +307,7 @@ if(uu.indexOf("baidu.com")!=-1){
     琳琅影视=https://www.u23c.com/api.php/app/
     思古影视=https://siguyy.com/api.php/app/
     影视工场=https://www.ik4.cc/api.php/app/
+    "},
     {
     "title":"APP影视(v1)",
     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/南府追剧.png",
