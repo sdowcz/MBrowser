@@ -201,6 +201,12 @@
         "murl":"q:APP影视"
         },
         {
+        "title":"段友影视",
+        "url":"https://ishangwo.top/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/段友影视1.png",
+        "murl":"q:APP影视"
+        },
+        {
         "title":"飞捷影视",
         "url":"http://www.fj6080.com/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/飞捷影视.png",
