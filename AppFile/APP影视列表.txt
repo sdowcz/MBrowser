@@ -387,6 +387,18 @@
         "murl":"q:APP影视"
         },
         {
+        "title":"天天影视",
+        "url":"http://app.at008.cn/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/天天影视.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"天天影视",
+        "url":"https://www.tiantianys8.com/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/天天影视1.png",
+        "murl":"q:APP影视"
+        },
+        {
         "title":"团夕影院",
         "url":"http://119.29.121.48/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/团夕影院.png",
