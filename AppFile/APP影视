@@ -1,12 +1,13 @@
 ######首页数据
 var NewVersion="20210901";
 var version=e2Rex(getHttp("mdata:qm/d566171c6a64659aad784524c76ab569"),".xml(version).z(\\d+)");
-var name=e2Rex(getHttp("mdata:qm/d566171c6a64659aad784524c76ab569"),".xml(name).t().z(\\S+)");
+var NewSign="d566171c6a64659aad784524c76ab569";
+var sign=e2Rex(getVar("QMINFO"),".xml(sign).t().z(\\S+)");
 var update=getVar("版本更新");
-if(version!=NewVersion){
-    update;
-}else{
+if(version==NewVersion&&NewSign==sign){
     getHttp(JSON.stringify({url:"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/APP影视列表.txt"}));
+}else{
+    update;
 }
 ######版本更新
 {
@@ -70,10 +71,12 @@ if(URL.indexOf("api.php/app")!=-1){
     "page=";
 }
 ######播放页前缀地址
+var NewSign="d566171c6a64659aad784524c76ab569";
+var sign=e2Rex(getVar("QMINFO"),".xml(sign).t().z(\\S+)");
 var URL=getVar("Url");
-if(URL.indexOf("api.php/app")!=-1){
+if(URL.indexOf("api.php/app")!=-1&&&&NewSign==sign){
     URL+"video_detail?id=";
-}else if(URL.indexOf(".vod")!=-1){
+}else if(URL.indexOf(".vod")!=-1&&&&NewSign==sign){
     URL+"/detail?vod_id=";
 }else{
     "";
