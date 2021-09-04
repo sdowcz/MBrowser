@@ -13,7 +13,7 @@ if(version==NewVersion&&NewSign==sign){
 {
 "data":[
     {
-    "title":"有新版本，请升级m浏览器到2.6.4及以上版本使用",
+    "title":"有新版本，请升级m浏览器到2.6.6及以上版本使用",
     "list":[
         {
         "title":"安装新版",
