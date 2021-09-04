@@ -297,6 +297,12 @@
         "murl":"q:APP影视"
         },
         {
+        "title":"绿箭影视",
+        "url":"http://www.69ty.cc/mogai_api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/绿箭影视.png",
+        "murl":"q:APP影视"
+        },
+        {
         "title":"冷视TV",
         "url":"https://len.tv/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/冷视TV.png",
