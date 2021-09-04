@@ -853,6 +853,10 @@
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/文墨.png",
         "list":[
         {
+        "name":"文墨（垂直布局版）",
+        "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/文墨/文墨（垂直布局版）.mqz"
+        },
+        {
         "name":"文墨",
         "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/文墨/文墨.mqz"
         }
