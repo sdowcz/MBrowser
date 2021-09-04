@@ -1,11 +1,12 @@
 ######首页数据
+var NewVersion=="20210901";
 var version=e2Rex(getHttp("mdata:qm/d566171c6a64659aad784524c76ab569"),".xml(version).z(\\d+)");
 var name=e2Rex(getHttp("mdata:qm/d566171c6a64659aad784524c76ab569"),".xml(name).t().z(\\S+)");
 var update=getVar("版本更新");
-if(version=="20210901"&&name=="APP影视"){
-getHttp(JSON.stringify({url:"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/APP影视列表.txt"}));
+if(version!=NewVersion){
+    update;
 }else{
-update;
+    getHttp(JSON.stringify({url:"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/APP影视列表.txt"}));
 }
 ######版本更新
 {
@@ -110,19 +111,19 @@ function 选集列表(){
             }
         }else if(URL.indexOf("api.php/app")!=-1){
             var 接口=e2Rex(分类CODE,".json(parse_api)");
-            if(接口.indexOf("svip.jhyun.jx.cn:1234")!=-1||接口.indexOf("svip.jhdyw.vip")!=-1){
+            if(接口.indexOf("svip.jhyun.jx.cn:1234")!=-1||接口.indexOf("svip.jhdyw.vip")!=-1||接口.indexOf("jhsj.manduhu.com")!=-1){
                 if(标题.indexOf("人人")!=-1){
-                    接口="https://jhdyw.vip/jiexi/rr.php?url=";
+                    var 接口="https://jhdyw.vip/jiexi/rr.php?url=";
                 }else if(标题.indexOf("番茄")!=-1){
-                    接口="https://jhdyw.vip/jiexi/fq.php?url=";
+                    var 接口="https://jhdyw.vip/jiexi/fq.php?url=";
                 }else{
-                    接口="https://api.jhdyw.vip/?url=";
+                    var 接口="https://api.jhdyw.vip/?url=";
                 }
-            }else if(接口.indexOf("jhsj.manduhu.com")!=-1){
-                接口="https://api.jhdyw.vip/jiexi/?url=";
+            }else{
+                var 接口=URL;
             }
         }else{
-            var 接口=URL;
+            var 接口="http://egwang186.gitee.io/?url=";
         }
         var LIST=[];
         for(var j=0;j<列表.length;j++){
