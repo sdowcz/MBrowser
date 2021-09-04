@@ -74,9 +74,9 @@ if(URL.indexOf("api.php/app")!=-1){
 var NewSign="d566171c6a64659aad784524c76ab569";
 var sign=e2Rex(getVar("QMINFO"),".xml(sign).t().z(\\S+)");
 var URL=getVar("Url");
-if(URL.indexOf("api.php/app")!=-1&&&&NewSign==sign){
+if(URL.indexOf("api.php/app")!=-1&&NewSign==sign){
     URL+"video_detail?id=";
-}else if(URL.indexOf(".vod")!=-1&&&&NewSign==sign){
+}else if(URL.indexOf(".vod")!=-1&&NewSign==sign){
     URL+"/detail?vod_id=";
 }else{
     "";
