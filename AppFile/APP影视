@@ -1,9 +1,9 @@
 ######首页数据
+var update=getVar("版本更新");
 var NewVersion="20210901";
 var version=e2Rex(getVar("QMINFO"),".xml(version).z(\\d+)");
 var NewSign="d566171c6a64659aad784524c76ab569";
 var sign=e2Rex(getVar("QMINFO"),".xml(sign).t().z(\\S+)");
-var update=getVar("版本更新");
 if(version==NewVersion&&NewSign==sign){
     getHttp(JSON.stringify({url:"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/APP影视列表.txt"}));
 }else{
@@ -29,10 +29,14 @@ var code=getVar("CODE");
 e2Rex(code,".json(url)");
 ######分类地址
 var URL=getVar("Url");
-if(URL.indexOf("api.php/app")!=-1){
-    URL+"nav?token=";
-}else if(URL.indexOf(".vod")!=-1){
-    URL+"/types";
+var NewSign="d566171c6a64659aad784524c76ab569";
+var sign=e2Rex(getVar("QMINFO"),".xml(sign).t().z(\\S+)");
+if(version==NewVersion&&NewSign==sign){
+    if(URL.indexOf("api.php/app")!=-1){
+        URL+"nav?token=";
+    }else{
+        URL+"/types";
+    }
 }else{
     "";
 }
@@ -56,10 +60,14 @@ if(URL.indexOf(".vod")!=-1){
 }
 ######推荐地址
 var URL=getVar("Url");
-if(URL.indexOf("api.php/app")!=-1){
-    URL+"index_video?token=";
-}else if(URL.indexOf(".vod")!=-1){
-    URL+"/vodPhbAll";
+var NewSign="d566171c6a64659aad784524c76ab569";
+var sign=e2Rex(getVar("QMINFO"),".xml(sign).t().z(\\S+)");
+if(version==NewVersion&&NewSign==sign){
+    if(URL.indexOf("api.php/app")!=-1){
+        URL+"index_video?token=";
+    }else{
+        URL+"/vodPhbAll";
+    }
 }else{
     "";
 }
@@ -419,12 +427,17 @@ if(uu.indexOf("baidu.com")!=-1){
 }
 ######搜索地址
 var Url=getVar("urls");
-if(Url.indexOf("api.php/app")!=-1){
-    "search?text="+getVar("KEY")+"&pg=";
-}else if(Url.indexOf(".vod")!=-1){
-    "?limit=10&wd="+getVar("KEY")+"&page=";
+var appSign="d566171c6a64659aad784524c76ab569";
+var kanjuSign='5c61903daa6fa3679338d57ace3cae02';
+var sign=e2Rex(getVar("QMINFO"),".xml(sign).t()").replace(/\s/g,"");
+if(sign==appSign||sign==kanjuSign){
+    if(Url.indexOf("api.php/app")!=-1){
+        "search?text="+getVar("KEY")+"&pg=";
+    }else{
+        "?limit=10&wd="+getVar("KEY")+"&page=";
+    }
 }else{
-    "";
+        "";
 }
 ######搜索词
 var URL=getVar("urls");
@@ -434,16 +447,11 @@ if(URL.indexOf("diyoui")!=-1||URL.indexOf("diliktv")!=-1||URL.indexOf("ppzhu")!=
     "zm";
 }
 ######搜索播放页前缀地址
-var appSign="d566171c6a64659aad784524c76ab569";
-var kanjuSign='5c61903daa6fa3679338d57ace3cae02';
-var sign=e2Rex(getVar("QMINFO"),".xml(sign).t()").replace(/\s/g,"");
 var URL=getVar("urls");
-if(sign==appSign||sign==kanjuSign){
-    if(URL.indexOf("api.php/app")!=-1){
-        URL+"video_detail?id=";
-    }else{
-        URL+"/detail?vod_id=";
-    }
+if(URL.indexOf("api.php/app")!=-1){
+    URL+"video_detail?id=";
+}else if(URL.indexOf(".vod")!=-1){
+    URL+"/detail?vod_id=";
 }else{
     "";
 }
