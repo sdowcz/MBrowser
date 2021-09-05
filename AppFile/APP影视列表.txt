@@ -339,6 +339,12 @@
         "murl":"q:APP影视"
         },
         {
+        "title":"喵影影视",
+        "url":"http://www.mxmbk.xyz/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/喵影影视.png",
+        "murl":"q:APP影视"
+        },
+        {
         "title":"南府追剧",
         "url":"http://app.xkvideo.design/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/南府追剧.png",
