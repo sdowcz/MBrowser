@@ -121,7 +121,7 @@ function 选集列表(){
                     var 接口="https://api.jhdyw.vip/?url=";
                 }
             }else{
-                var 接口=URL;
+                var 接口=接口;
             }
         }else{
             var 接口="http://egwang186.gitee.io/?url=";
