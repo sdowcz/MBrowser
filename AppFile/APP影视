@@ -114,14 +114,14 @@ function 选集列表(){
             var 接口=e2Rex(分类CODE,".json(parse_api)");
             if(接口.indexOf("svip.jhyun.jx.cn:1234")!=-1||接口.indexOf("svip.jhdyw.vip")!=-1||接口.indexOf("jhsj.manduhu.com")!=-1){
                 if(标题.indexOf("人人")!=-1){
-                    var 接口="https://jhdyw.vip/jiexi/rr.php?url=";
+                    接口="https://jhdyw.vip/jiexi/rr.php?url=";
                 }else if(标题.indexOf("番茄")!=-1){
-                    var 接口="https://jhdyw.vip/jiexi/fq.php?url=";
+                    接口="https://jhdyw.vip/jiexi/fq.php?url=";
                 }else{
-                    var 接口="https://api.jhdyw.vip/?url=";
+                    接口="https://api.jhdyw.vip/?url=";
                 }
             }else{
-                var 接口=接口;
+                接口;
             }
         }else{
             var 接口="http://egwang186.gitee.io/?url=";
