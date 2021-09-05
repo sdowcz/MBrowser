@@ -197,13 +197,6 @@ if(URL.indexOf("api.php/app")!=-1){
 }
 ######免嗅探
 var uu=getVar("url");
-if(u.indexOf("nfmovies.com")!=-1){
-var UA="Mozilla/5.0";
-}else if(u.indexOf("hou.lu")!=-1){
-var UA="okhttp";
-}else{
-var UA="Mozilla/5.0 Android";
-}
 if(uu.indexOf("languang.wfss100")!=-1){
     var id=uu.split("url=")[1];
     var uu="https://j.languang.wfss100.com/jx/md5.php?url="+id;
