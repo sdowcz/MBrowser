@@ -1,6 +1,6 @@
 ######首页数据
 var update=getVar("版本更新");
-var name=e2Rex("QVBQJXU1RjcxJXU4OUM2JXU1MjE3JXU4ODY4",".dn64().t()");
+var name=e2Rex("QVBQJXU1RjcxJXU4OUM2JXU1MjE3JXU4ODY4",".t().dn64()");
 var NewVersion="20210901";
 var version=e2Rex(getVar("QMINFO"),".xml(version).z(\\d+)");
 var NewSign="d566171c6a64659aad784524c76ab569";
