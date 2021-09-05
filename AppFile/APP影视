@@ -5,7 +5,7 @@ var NewSign="d566171c6a64659aad784524c76ab569";
 var sign=e2Rex(getVar("QMINFO"),".xml(sign).t().z(\\S+)");
 var update=getVar("版本更新");
 if(version==NewVersion&&NewSign==sign){
-"
+"\
 {
 'data':[
     {
