@@ -351,7 +351,7 @@ if(URL.indexOf("api.php/app")!=-1){
 var updateCode=getVar("版本更新");
 var update=e2Rex(updateCode,".json(data).i(0)");
 var tips=e2Rex(updateCode,".json(data).i(1)");
-var NewVersion="20210905";
+var NewVersion="20210901";
 var version=e2Rex(getVar("QMINFO"),".xml(version).z(\\d+)");
 var NewSign="5c61903daa6fa3679338d57ace3cae02";
 var sign=e2Rex(getVar("QMINFO"),".xml(sign).t()").replace(/\s/g,"");
@@ -365,11 +365,11 @@ if(version==NewVersion&&sign==NewSign){
 "data":[
     {
     "title":"有新版本，请升级m浏览器到2.6.6及以上版本使用",
-    "murl":"mapi:qm/https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/InMemory/APP影视.mqz"
+    "murl":"mapi:qm/https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/InMemory/看剧.mqz"
     },
     {
     "title":"感谢您的使用，祝您看剧愉快！",
-    "murl":"mapi:qm/https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/InMemory/APP影视.mqz"
+    "murl":""
     }
 ]
 }
