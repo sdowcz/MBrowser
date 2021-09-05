@@ -364,7 +364,7 @@ if(version==NewVersion&&sign==NewSign){
 {
 "data":[
     {
-    "title":"有新版本，请升级m浏览器到2.6.6及以上版本使用",
+    "title":"有新版本，安装更新后重新打开",
     "murl":"mapi:qm/https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/InMemory/看剧.mqz"
     },
     {
