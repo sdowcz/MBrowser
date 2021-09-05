@@ -339,7 +339,7 @@
         'murl':'q:APP影视'
         },{
         'title':'喵影影视',
-        'url':'http://miaoletv.com/api.php/v1.vod',
+        'url':'http://www.mxmbk.xyz/api.php/v1.vod',
         'img':'https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/喵影影视.png',
         'murl':'q:APP影视'
         },
