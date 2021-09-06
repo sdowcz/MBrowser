@@ -380,6 +380,12 @@
         "murl":"q:APP影视"
         },
         {
+        "title":"奇趣影视",
+        "url":"http://app.qiqu.me/mogai_api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/奇趣影视.png",
+        "murl":"q:APP影视"
+        },
+        {
         "title":"骑士影院",
         "url":"https://app.qishi.xyz/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/骑士影院.png",
