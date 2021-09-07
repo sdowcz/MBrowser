@@ -153,6 +153,12 @@
         "murl":"q:APP影视"
         },
         {
+        "title":"CJT影院",
+        "url":"https://www.cjt521.com/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/CJT影院.png",
+        "murl":"q:APP影视"
+        },
+        {
         "title":"FUFU影视",
         "url":"https://fufu.ixhduta.cn/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/FUFU影视.png",
