@@ -16,12 +16,6 @@
         "murl":"q:APP影视"
         },
         {
-        "title":"COKEMV",
-        "url":"https://cokemv.me/api.php/app/",
-        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/COKEMV.png",
-        "murl":"q:APP影视"
-        },
-        {
         "title":"BD电影",
         "url":"https://www.bddysf.com/api.php/app/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/BD电影.png",
