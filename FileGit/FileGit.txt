@@ -115,6 +115,10 @@
         {
         "name":"追剧助手",
         "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/木白先生/追剧助手.mqz"
+        },
+        {
+        "name":"报刊杂志",
+        "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/木白先生/报刊杂志.mqz"
         }
         ]
         },
