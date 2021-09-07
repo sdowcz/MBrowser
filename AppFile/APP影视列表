@@ -459,7 +459,7 @@
         },
         {
         "title":"忘忧果TV",
-        "url":"https://ax.jx.cn/api.php/v1.vod/vodPhbAll",
+        "url":"https://ax.jx.cn/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/忘忧果TV.png",
         "murl":"q:APP影视"
         },
