@@ -304,11 +304,11 @@ if(uu.indexOf("baidu.com")!=-1){
     "web="+uu;
 }
 ######搜索TAB列表
-var name=e2Rex("QVBQ5pCc57Si5YiX6KGo",".t().dn64()");
+var filename=e2Rex("QVBQ5pCc57Si5YiX6KGo",".t().dn64()");
 var kanjuSign="5c61903daa6fa3679338d57ace3cae02";
 var appSign="d566171c6a64659aad784524c76ab569";
 var sign=e2Rex(getVar("QMINFO"),".xml(sign).t()").replace(/\s/g,"");
-    getHttp(JSON.stringify({url:"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/APP搜索列表"}));
+    getHttp(JSON.stringify({url:"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/" + filename}));
 ######搜索地址
 var Url=getVar("urls");
 var appSign="d566171c6a64659aad784524c76ab569";
