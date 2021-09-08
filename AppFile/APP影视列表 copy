@@ -249,6 +249,12 @@
         "murl":"q:APP影视"
         },
         {
+        "title":"好看剧",
+        "url":"http://v.0719.me/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/好看剧.png",
+        "murl":"q:APP影视"
+        },
+        {
         "title":"哈尼视频",
         "url":"http://www.videovips.top/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/哈尼视频.png",
@@ -264,6 +270,12 @@
         "title":"核桃影视",
         "url":"http://app.hetaoys.vip/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/核桃影视.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"海棠影视",
+        "url":"https://www.52haitang.cn/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/海棠影视.png",
         "murl":"q:APP影视"
         },
         {
@@ -563,6 +575,12 @@
         "title":"追剧吧",
         "url":"http://zhuijuba.vip/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/追剧吧影视.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"追剧猫",
+        "url":"https://zhuijum.com/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/追剧猫.png",
         "murl":"q:APP影视"
         },
         {
