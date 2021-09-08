@@ -7,20 +7,25 @@
     "list":"
     555电影=http://w7tv.com/api.php/app/
     913E影视=http://www.913e.net/api.php/app/
+    BD电影=https://www.bddysf.com/api.php/app/
     播放呀=https://www.bofangya.com/api.php/app/
     畅视影视=http://app.reboju.net/api.php/app/
     毒舌电影=https://www.dushe520.com/api.php/app/
     大师兄影视=https://hou.lu/api.php/app/
+    段友影视=https://lb.5277s.com/api.php/app/
     瓜皮TV=http://www.dijiaxia.com/api.php/app/
-    海胆影视=http://xf123.cc/api.php/app/
+    胆影视=http://xf123.cc/api.php/app/
     海绵影视=http://app1.yuzhouys.com/api.php/app/
     京广航影视=https://www.jingguanghang.com/api.php/app/
     九合视频=https://ptygx.com/api.php/app/
     江湖影视=http://app.jhdyw.vip:1234/api.php/app/
     久九影视=https://api.58qxk.cn/api.php/app/
     琳琅影视=https://www.u23c.com/api.php/app/
-    思古影视=https://siguyy.com/api.php/app/
+    极乐阁=https://vip.wuqcms.com/api.php/app/
+    蛋蛋=http://app.mengdandan.com/api.php/app/
+    古影视=https://siguyy.com/api.php/app/
     影视工场=https://www.ik4.cc/api.php/app/
+    追剧达人=http://vipmv.tv/api.php/app/
     "},
     {
     "title":"APP影视(v1)",
@@ -30,6 +35,7 @@
     555TV=http://gxhshyy.com/api.php/gctvapi.vod
     80影视=http://www.ccc8.net/api.php/v1.vod
     80K影视=http://1080p.tv/api.php/v1.vod
+    CJT影院=https://www.cjt521.com/api.php/v1.vod
     FUFU影视=https://fufu.ixhduta.cn/api.php/v1.vod
     HG影视=http://cs.hgyx.vip/api.php/v1.vod
     VIP影视=http://www.sp.ooo/api.php/v1.vod
@@ -40,7 +46,7 @@
     大海影视=http://119.29.63.137/api.php/v1.vod
     大熊追剧=http://www.dxzj88.com/mogai_api.php/v1.vod
     段友影视=http://jimmyzhao.top/api.php/v1.vod
-    段友影视=https://lb.5277s.com/api.php/v1.vod
+    段友影视=https://ishangwo.top/api.php/v1.vod
     飞捷影视=http://www.fj6080.com/api.php/v1.vod
     佛系追剧=http://foxi.kk06.top/mogai_api.php/v1.vod
     公主影视=http://mm.tcsdchina.com:6096/mogai_api.php/v1.vod
@@ -55,28 +61,34 @@
     快播吧=http://www.hd8.pw/api.php/v1.vod
     懒猫电影=http://007.lanmaody.com/api.php/v1.vod
     蓝鲸视界=https://apps.vd5.cc/api.php/v1.vod
+    绿箭影视=http://www.69ty.cc/mogai_api.php/v1.vod
     冷视TV=https://len.tv/api.php/v1.vod
     木白影视=http://vapp.23at.cn/api.php/v1.vod
     麻瓜视频=http://myapp.maguays.cc/mogai_api.php/v1.vod
     萌看TV=http://app.aiyi888.cn/api.php/v1.vod
-    麻腾TV,http://www.matengtv.top/api.php/v1.vod
+    麻腾TV=http://www.matengtv.top/api.php/v1.vod
     喵乐影视=http://miaoletv.com/api.php/v1.vod
+    喵影影视=http://www.mxmbk.xyz/api.php/v1.vod
     南府追剧=http://app.xkvideo.design/api.php/v1.vod
     暖光影视=https://app.bl210.com/api.php/v1.vod
     美剧虫=https://meijuchong.com/api.php/v1.vod
     内涵影视=http://v.nhdyys.cn/api.php/v1.vod
     柠檬影视=https://tv.13nm.com/api.php/v1.vod
     片多儿=http://meinaikang.com/api.php/v1.vod
+    奇趣影视=http://app.qiqu.me/mogai_api.php/v1.vod
     骑士影院=https://app.qishi.xyz/api.php/v1.vod
     视听星球=http://zjyapijzys.shynwlkj.com/api.php/v1.vod
     手指影视=http://szys3355.com/mogai_api.php/v1.vod
     森之屋=http://91.208.236.96/api.php/v1.vod
     淘剧社=http://app.shuhai99.com/api.php/v1.vod
+    天天影视=http://app.at008.cn/api.php/v1.vod
+    天天影视=https://www.tiantianys8.com/api.php/v1.vod
     团夕影院=http://119.29.121.48/api.php/v1.vod
     我爱电影=http://v.5imv.cc/api.php/v1.vod
     我爱跟剧=http://www.52gen.com/api.php/v1.vod
-    蜗牛看鸭=http://app.snailkya.xyz/api.php/v1.vod
     吾爱影视=http://app.5lp.net/api.php/v1.vod
+    蜗牛看鸭=http://app.snailkya.xyz/api.php/v1.vod
+    忘忧果TV=https://ax.jx.cn/api.php/v1.vod
     小城影视=http://www.269w.com/api.php/v1.vod
     先锋影视=http://58xtv.net/api.php/v1.vod
     小极影视=http://app.xiaoysw.com/api.php/v1.vod
@@ -97,7 +109,7 @@
     追剧吧=http://zhuijuba.vip/api.php/v1.vod
     追剧猫=https://zhuijum.com/api.php/v1.vod
     追剧人=http://zhuijuren.vip/api.php/v1.vod
-    宅男影院=http://www.znyy666.top/api.php/v1.vod
+    宅男影院=https://www.znyy666.top/api.php/v1.vod
     侦探影视=http://ys.huangguay.com/mogai_api.php/v1.vod
     追影兔=http://longw.xyz:91/api.php/v1.vod
     "},
@@ -108,6 +120,7 @@
     "list":"
     19影视=http://ysiptv.19jx.vip/api.php/iptv/vod/
     293影院=http://db.293ys.top:81/api.php/iptv/vod/
+    2号币影院=http://203.lxyyy.xyz:81/api.php/iptv/vod/
     V影视=http://www.ppzhu.vip/api.php/Chengcheng/vod/
     稻草人TV=http://www.zhaikanys.xyz/api.php/iptv1/vod/
     嘀哩嘀哩TV=https://api.diliktv.xyz/api.php/Chengcheng/vod/
