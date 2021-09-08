@@ -1,12 +1,14 @@
 ######APP影视首页数据
 var update=getVar("版本更新");
-var name=e2Rex("QVBQ5b2x6KeG5YiX6KGo",".t().dn64()");
+var filename=e2Rex("QVBQ5b2x6KeG5YiX6KGo",".t().dn64()");
 var NewVersion="20210905";
 var version=e2Rex(getVar("QMINFO"),".xml(version).z(\\d+)");
-var NewSign="d566171c6a64659aad784524c76ab569";
+var appSign="d566171c6a64659aad784524c76ab569";
 var sign=e2Rex(getVar("QMINFO"),".xml(sign).t()").replace(/\s/g,"");
-if(version==NewVersion&&NewSign==sign){
-    getHttp(JSON.stringify({url:"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/" + name}));
+var appName="APP影视";
+var name=e2Rex(getVar("QMINFO"),".xml(name).t()").replace(/\s/g,"");
+if(version==NewVersion&&sign==appSign&&name==appName){
+    getHttp(JSON.stringify({url:"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/" + filename}));
 }else{
     update;
 }
@@ -306,7 +308,7 @@ var name=e2Rex("QVBQ5pCc57Si5YiX6KGo",".t().dn64()");
 var kanjuSign="5c61903daa6fa3679338d57ace3cae02";
 var appSign="d566171c6a64659aad784524c76ab569";
 var sign=e2Rex(getVar("QMINFO"),".xml(sign).t()").replace(/\s/g,"");
-    getHttp(JSON.stringify({url:"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/" + name}));
+    getHttp(JSON.stringify({url:"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/APP搜索列表"}));
 ######搜索地址
 var Url=getVar("urls");
 var appSign="d566171c6a64659aad784524c76ab569";
