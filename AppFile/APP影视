@@ -16,15 +16,10 @@ if(version==NewVersion&&sign==appSign&&name==appName){
 {
 "data":[
     {
-    "title":"有新版本，请升级m浏览器到2.6.6及以上版本使用",
+    "title":"修复因新版引用变量出问题，导致分类失效",
     "list":[
         {
         "title":"安装新版",
-        "murl":"mapi:qm/https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/InMemory/APP影视.mqz",
-        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/update.png"
-        },
-        {
-        "title":"修复分类",
         "murl":"mapi:qm/https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/InMemory/APP影视.mqz",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/update.png"
         }
