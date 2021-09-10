@@ -655,6 +655,12 @@
         "murl":"q:TV影视"
         },
         {
+        "title":"久久影院",
+        "url":"http://lm.0818tv.com/mv/api.php/Chengcheng/vod/",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/久久影院.png",
+        "murl":"q:TV影视"
+        },
+        {
         "title":"流星雨影院",
         "url":"http://phoebe.cf/api.php/iptv/vod/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/流星雨影院.png",
