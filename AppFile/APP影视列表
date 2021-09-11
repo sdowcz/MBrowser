@@ -118,6 +118,12 @@
         "murl":"q:APP影视"
         },
         {
+        "title":"小龟视频",
+        "url":"https://ys.80tvs.cn/api.php/app/",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/小龟视频.png",
+        "murl":"q:APP影视"
+        },
+        {
         "title":"影视工场",
         "url":"https://www.ik4.cc/api.php/app/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/影视工场.png",
