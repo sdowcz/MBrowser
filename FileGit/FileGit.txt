@@ -365,16 +365,24 @@
         "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/唐牛才是食神/好漫6.mqz"
         },
         {
-        "name":"笔趣阁",
-        "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/唐牛才是食神/笔趣阁.mqz"
-        },
-        {
         "name":"次元壁",
         "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/唐牛才是食神/次元壁.mqz"
         },
         {
         "name":"包子漫画",
         "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/唐牛才是食神/包子漫画.mqz"
+        },
+        {
+        "name":"野蛮漫画",
+        "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/唐牛才是食神/野蛮漫画.mqz"
+        },
+        {
+        "name":"漫神漫画",
+        "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/唐牛才是食神/漫神漫画.mqz"
+        },
+        {
+        "name":"笔趣阁",
+        "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/唐牛才是食神/笔趣阁.mqz"
         },
         {
         "name":"忆漫",
