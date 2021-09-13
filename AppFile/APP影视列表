@@ -476,6 +476,12 @@
         "murl":"q:APP影视"
         },
         {
+        "title":"污妖动漫",
+        "url":"http://ww1.wyydm.top/mogai_api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/污妖动漫.png",
+        "murl":"q:APP影视"
+        },
+        {
         "title":"忘忧果TV",
         "url":"https://ax.jx.cn/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/忘忧果TV.png",
