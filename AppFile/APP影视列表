@@ -625,12 +625,6 @@
         "murl":"q:TV影视"
         },
         {
-        "title":"293影院",
-        "url":"http://db.293ys.top:81/api.php/iptv/vod/",
-        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/293影院.png",
-        "murl":"q:TV影视"
-        },
-        {
         "title":"2号币影院",
         "url":"http://203.lxyyy.xyz:81/api.php/iptv/vod/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/2号币影院.png",
@@ -646,12 +640,6 @@
         "title":"稻草人TV",
         "url":"http://www.zhaikanys.xyz/api.php/iptv1/vod/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/稻草人TV.png",
-        "murl":"q:TV影视"
-        },
-        {
-        "title":"嘀哩嘀哩TV",
-        "url":"https://api.diliktv.xyz/api.php/Chengcheng/vod/",
-        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/嘀哩嘀哩TV.png",
         "murl":"q:TV影视"
         },
         {
