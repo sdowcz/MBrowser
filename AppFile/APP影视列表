@@ -291,6 +291,12 @@
         "murl":"q:APP影视"
         },
         {
+        "title":"极影阁",
+        "url":"http://jyg.khgfrd.xyz/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/极影阁.png",
+        "murl":"q:APP影视"
+        },
+        {
         "title":"快播吧",
         "url":"http://www.hd8.pw/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/快播吧.png",
