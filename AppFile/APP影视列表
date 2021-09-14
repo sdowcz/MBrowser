@@ -165,6 +165,12 @@
         "murl":"q:APP影视"
         },
         {
+        "title":"987影视",
+        "url":"https://hd.9875.xyz/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/987影视.png",
+        "murl":"q:APP影视"
+        },
+        {
         "title":"CJT影院",
         "url":"https://www.cjt521.com/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/CJT影院.png",
