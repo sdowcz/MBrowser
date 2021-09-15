@@ -45,7 +45,7 @@ if(NewSign==sign){
 }
 ######分类地址前缀
 var URL=getVar("Url");
-if(URL.indexOf("api.php/app")!=-1){
+if(URL.indexOf("api.php/app")!=-1||URL.indexOf("xgapp.php/v1")!=-1){
     URL+"video?tid=";
 }else if(URL.indexOf(".vod")!=-1){
     URL+"?type=";
@@ -56,7 +56,7 @@ if(URL.indexOf("api.php/app")!=-1){
 var URL=getVar("url");
 if(URL.indexOf(".vod")!=-1){
     getVar("url").split("?")[0];
-}else if(URL.indexOf("api.php/app")!=-1){
+}else if(URL.indexOf("api.php/app")!=-1||URL.indexOf("xgapp.php/v1")!=-1){
     getVar("url").split("video?")[0];
 }else{
     "";
@@ -66,7 +66,7 @@ var URL=getVar("Url");
 var NewSign="d566171c6a64659aad784524c76ab569";
 var sign=e2Rex(getVar("QMINFO"),".xml(sign).t()").replace(/\s/g,"");
 if(NewSign==sign){
-    if(URL.indexOf("api.php/app")!=-1){
+    if(URL.indexOf("api.php/app")!=-1||URL.indexOf("xgapp.php/v1")!=-1){
         URL+"index_video?token=";
     }else{
         URL+"/vodPhbAll";
@@ -76,14 +76,14 @@ if(NewSign==sign){
 }
 ######翻页词
 var URL=getVar("Url");
-if(URL.indexOf("api.php/app")!=-1){
+if(URL.indexOf("api.php/app")!=-1||URL.indexOf("xgapp.php/v1")!=-1){
     "pg=";
 }else{
     "page=";
 }
 ######播放页前缀地址
 var URL=getVar("Url");
-if(URL.indexOf("api.php/app")!=-1){
+if(URL.indexOf("api.php/app")!=-1||URL.indexOf("xgapp.php/v1")!=-1){
     URL+"video_detail?id=";
 }else if(URL.indexOf(".vod")!=-1){
     URL+"/detail?vod_id=";
@@ -121,7 +121,7 @@ function 选集列表(){
             }else{
                 var 接口="http://egwang186.gitee.io/?url=";
             }
-        }else if(URL.indexOf("api.php/app")!=-1){
+        }else if(URL.indexOf("api.php/app")!=-1||URL.indexOf("xgapp.php/v1")!=-1){
             var 接口=e2Rex(分类CODE,".json(parse_api)");
             if(接口.indexOf("svip.jhyun.jx.cn:1234")!=-1||接口.indexOf("svip.jhdyw.vip")!=-1||接口.indexOf("jhsj.manduhu.com")!=-1){
                 if(标题.indexOf("人人")!=-1){
@@ -143,7 +143,7 @@ function 选集列表(){
         for(var j=0;j<列表.length;j++){
             var 选集=e2Rex(列表[j],选集规则);
             var 选集地址=e2Rex(列表[j],选集地址规则);
-            if(URL.indexOf("api.php/app")!=-1||URL.indexOf(".vod")!=-1){
+            if(URL.indexOf("api.php/app")!=-1||URL.indexOf("xgapp.php/v1")!=-1||URL.indexOf(".vod")!=-1){
                 if(选集地址.indexOf("42.51.48.17/?url=")!=-1||选集地址.indexOf(".m3u8")>20||选集地址.indexOf(".mp4")!=-1||选集地址.indexOf("/obj/tos")!=-1){
                     var 选集地址="https://www.baidu.com/s?wd="+选集地址;
                 }else{
@@ -179,7 +179,7 @@ function 选集列表(){
     res.desc=detail;
     return JSON.stringify(res);
 }
-if(URL.indexOf("api.php/app")!=-1){
+if(URL.indexOf("api.php/app")!=-1||URL.indexOf("xgapp.php/v1")!=-1){
     var 分类=JSON.parse(getVar("源码").replace(/<.*?>/g,"").replace(/[\s]*/g,"")).data.vod_url_with_player;
     var 简介=JSON.parse(getVar("源码").replace(/<.*?>/g,"").replace(/[\s]*/g,"")).data.vod_content;
     var 列表规则=".json(url).ct(#).z(.*?\\$.*?#)";
@@ -313,7 +313,7 @@ var appSign="d566171c6a64659aad784524c76ab569";
 var kanjuSign="5c61903daa6fa3679338d57ace3cae02";
 var sign=e2Rex(getVar("QMINFO"),".xml(sign).t()").replace(/\s/g,"");
 if(sign==appSign||sign==kanjuSign){
-    if(Url.indexOf("api.php/app")!=-1){
+    if(Url.indexOf("api.php/app")!=-1||URL.indexOf("xgapp.php/v1")!=-1){
         "search?text="+getVar("KEY")+"&pg=";
     }else{
         "?limit=10&wd="+getVar("KEY")+"&page=";
@@ -330,7 +330,7 @@ if(URL.indexOf("0818tv")!=-1||URL.indexOf("diyoui")!=-1||URL.indexOf("diliktv")!
 }
 ######搜索播放页前缀地址
 var URL=getVar("urls");
-if(URL.indexOf("api.php/app")!=-1){
+if(URL.indexOf("api.php/app")!=-1||URL.indexOf("xgapp.php/v1")!=-1){
     URL+"video_detail?id=";
 }else if(URL.indexOf(".vod")!=-1){
     URL+"/detail?vod_id=";
