@@ -118,12 +118,6 @@
         "murl":"q:APP影视"
         },
         {
-        "title":"思古影视",
-        "url":"https://app.siguyy.com/xgapp.php/v1/",
-        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/思古影视.png",
-        "murl":"q:APP影视"
-        },
-        {
         "title":"小龟视频",
         "url":"https://ys.80tvs.cn/api.php/app/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/小龟视频.png",
