@@ -297,12 +297,6 @@
         "murl":"q:APP影视"
         },
         {
-        "title":"极影阁",
-        "url":"http://jyg.khgfrd.xyz/api.php/v1.vod",
-        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/极影阁.png",
-        "murl":"q:APP影视"
-        },
-        {
         "title":"快播吧",
         "url":"http://www.hd8.pw/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/快播吧.png",
@@ -527,12 +521,6 @@
         "title":"休闲影视",
         "url":"http://tv.78tv.cc/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/休闲影视.png",
-        "murl":"q:APP影视"
-        },
-        {
-        "title":"玺心影视",
-        "url":"https://tv.arbd.cn/api.php/v1.vod",
-        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/玺心影视.png",
         "murl":"q:APP影视"
         },
         {
