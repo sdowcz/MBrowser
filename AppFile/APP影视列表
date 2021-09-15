@@ -22,12 +22,6 @@
         "murl":"q:APP影视"
         },
         {
-        "title":"ONE影视",
-        "url":"http://www.onedianshi.com/api.php/app/",
-        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/ONE影视.png",
-        "murl":"q:APP影视"
-        },
-        {
         "title":"播放呀",
         "url":"https://www.bofangya.com/api.php/app/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/播放呀.png",
