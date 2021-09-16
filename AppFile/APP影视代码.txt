@@ -37,8 +37,10 @@ var sign=e2Rex(getVar("QMINFO"),".xml(sign).t()").replace(/\s/g,"");
 if(NewSign==sign){
     if(URL.indexOf("api.php/app")!=-1||URL.indexOf("xgapp.php/v1")!=-1){
         URL+"nav?token=";
-    }else{
+    }else if(URL.indexOf(".vod")!=-1){
         URL+"/types";
+    }else{
+        URL+"?ac=flitter";
     }
 }else{
     "";
@@ -54,12 +56,12 @@ if(URL.indexOf("api.php/app")!=-1||URL.indexOf("xgapp.php/v1")!=-1){
 }
 ######分类内容爬虫地址
 var URL=getVar("url");
-if(URL.indexOf(".vod")!=-1){
-    getVar("url").split("?")[0];
-}else if(URL.indexOf("api.php/app")!=-1||URL.indexOf("xgapp.php/v1")!=-1){
-    getVar("url").split("video?")[0];
+if(URL.indexOf("api.php/app")!=-1||URL.indexOf("xgapp.php/v1")!=-1){
+    URL+"&class=类型&area=地区&lang=语种&year=年份&pg=#PN#";
+}else if(URL.indexOf(".vod")!=-1){
+    URL+"&class=类型&area=地区&lang=语种&year=年份&page=#PN#";
 }else{
-    "";
+    URL+"?ac=list&class=分类&area=地区&type=类型&start=年份&page=#PN#";
 }
 ######推荐地址
 var URL=getVar("Url");
@@ -70,16 +72,11 @@ if(NewSign==sign){
         URL+"index_video?token=";
     }else{
         URL+"/vodPhbAll";
+    }else{
+        e2Rex(URL,".th2(vod@@top)");
     }
 }else{
     "";
-}
-######翻页词
-var URL=getVar("Url");
-if(URL.indexOf("api.php/app")!=-1||URL.indexOf("xgapp.php/v1")!=-1){
-    "pg=";
-}else{
-    "page=";
 }
 ######播放页前缀地址
 var URL=getVar("Url");
@@ -91,118 +88,122 @@ if(URL.indexOf("api.php/app")!=-1||URL.indexOf("xgapp.php/v1")!=-1){
     "";
 }
 ######选集列表
-var URL=getVar("url");
+if(getVar("url").indexOf(".vod")!=-1){
+    var URL=getVar("url").split("/detail?")[0];
+}else if(getVar("url").search(api\.php\/.*?\/vod/)!=-1||getVar("url").indexOf("api.php/app")!=-1||getVar("url").indexOf("xgapp.php/v1")!=-1){
+    var URL=getVar("url").match(/http.*\//)[0];
+}else{
+    var URL=getVar("url").match(/https?:\/\/[^\/]*/)[0];
+}
 function 选集列表(){
-    var res={};var items=[];var detail=[];
-    for(var i=0;i<分类.length;i++){
-        if(URL.indexOf(".vod")!=-1||URL.indexOf("api.php/app")!=-1||URL.indexOf("xgapp.php/v1")!=-1){
-            var 分类CODE=JSON.stringify(分类[i]);
-        }else{
-            var 分类CODE=分类[i];
-        }
-        var 列表=e2Arr(分类CODE,列表规则);
-        var 标题=e2Rex(分类CODE,标题规则);
-        if(URL.indexOf(".vod")!=-1){
-            var PARSE=e2Rex(分类CODE,".json(player_info).json(parse)").split(",");
-            var PARSE2=e2Rex(分类CODE,".json(player_info).json(parse2)").split(",");
-            var 总接口=PARSE.concat(PARSE2).filter(Boolean).filter(item => item.indexOf('=')!=-1);
-            var 过滤规则=[
-/jx\.+huimaojia\.+com\/player/,/py\.+789pan\.+cn\/player\/tm\.php\?url=/,/ztys\.+waruanzy\.+com\/player\/\?url=/,/yingshi\.+waruanzy\.+com\/789pan\/\?url=/,/vip\.+parwix\.+com:4433\/player\/\?url=/,/api\.+cxitco\.+cn/,/\/vip\.+renrenmi.cc/,/yanbing\.+parwix\.+com:4433\/player/,/json\.+cantin\.+cc\/apijson\.php/,/ffdm\.+miaoletv\.+com\/\?url=/,/vip\.+sylwl\.+cn\/api\/\?key=/,/jx\.+dikotv\.+com\/\?url=/,/zly\.+xjqxz\.+top\/player\/\?url=/,/5znn\.+xyz\/m3u8\.+php/,/uid=1735&my=/,/保佑/
+var res={};var items=[];var detail=[];
+for(var i=0;i<分类.length;i++){
+    if(URL.indexOf("api.php/v1.vod")!=-1||URL.indexOf("api.php/app")!=-1){
+        var 分类CODE=JSON.stringify(分类[i]);
+    }else{
+        var 分类CODE=分类[i];
+    }
+    var 列表=e2Arr(分类CODE,列表规则);
+    var 标题=e2Rex(分类CODE,标题规则);
+    if(URL.indexOf("v1.vod")!=-1){
+       var PARSE=e2Rex(分类CODE,".json(player_info).json(parse)").split(",");
+       var PARSE2=e2Rex(分类CODE,".json(player_info).json(parse2)").split(",");
+       var 总接口=PARSE.concat(PARSE2).filter(Boolean).filter(item => item.indexOf('=')!=-1);
+       var 过滤规则=[
+/jx\.+huimaojia\.+com\/player/,/py\.+789pan\.+cn\/player\/tm\.php\?url=/,/ztys\.+waruanzy\.+com\/player\/\?url=/,/yingshi\.+waruanzy\.+com\/789pan\/\?url=/,/vip\.+parwix\.+com:4433\/player\/\?url=/,/api\.+cxitco\.+cn/,/\/vip\.+renrenmi.cc/,/yanbing\.+parwix\.+com:4433\/player/,/json\.+cantin\.+cc\/apijson\.php/,/ffdm\.+miaoletv\.+com\/\?url=/,/vip\.+sylwl\.+cn\/api\/\?key=/,/jx\.+dikotv\.+com\/\?url=/,/zly\.+xjqxz\.+top\/player\/\?url=/,/5znn\.+xyz\/m3u8\.+php/,/uid=1735&my=/,/api\.+xkvideo\.+design\/m3u8\.+php\?url=/,/保佑/
 ];
-            var 可用接口=总接口.filter(function (text) {return !过滤规则.some(function (regex) {return regex.test(text);});});
-            if(JSON.stringify(可用接口).indexOf("=")!=-1){
-                if(可用接口[0].indexOf("http")!=-1){
-                    var 接口=可用接口[0].match(/.*(url|v|vid)=/)[0].replace("..",".").replace("vip.aotian.love","vip.gaotian.love");
-                }else if(可用接口[0].indexOf("//")!=-1){
-                    var 接口="http:"+可用接口[0].match(/\/\/.*(url|v|vid)=/)[0].replace("..",".");
-                }else{
-                    var 接口=URL.match(/https?:\/\/[^\/]*/)[0]+可用接口[0].match(/\/.*(url|v|vid)=/)[0].replace("..",".");
-                }
+        var 可用接口=总接口.filter(function (text) {return !过滤规则.some(function (regex) {return regex.test(text);});});
+        if(JSON.stringify(可用接口).indexOf("=")!=-1){
+            if(可用接口[0].indexOf("http")!=-1){
+                var 接口=可用接口[0].match(/.*(url|v|vid|php\?id)=/)[0].replace("..",".").replace("vip.aotian.love","vip.gaotian.love");
+            }else if(可用接口[0].indexOf("//")!=-1){
+                var 接口="http:"+可用接口[0].match(/\/\/.*(url|v|vid|php\?id)=/)[0].replace("..",".");
             }else{
-                var 接口="http://egwang186.gitee.io/?url=";
-            }
-        }else if(URL.indexOf("api.php/app")!=-1||URL.indexOf("xgapp.php/v1")!=-1){
-            var 接口=e2Rex(分类CODE,".json(parse_api)");
-            if(接口.indexOf("svip.jhyun.jx.cn:1234")!=-1||接口.indexOf("svip.jhdyw.vip")!=-1||接口.indexOf("jhsj.manduhu.com")!=-1){
-                if(标题.indexOf("人人")!=-1){
-                    接口="https://jhdyw.vip/jiexi/rr.php?url=";
-                }else if(标题.indexOf("番茄")!=-1){
-                    接口="https://jhdyw.vip/jiexi/fq.php?url=";
-                }else{
-                    接口="https://api.jhdyw.vip/?url=";
-                }
-            }else if(接口.indexOf("bddysf.com/jhjx/json")!=-1){
-                接口="http://jx.vipmv.co/json3/?url=";
-            }else{
-                接口;
+                var 接口=URL.match(/https?:\/\/[^\/]*/)[0]+可用接口[0].match(/\/.*(url|v|vid|php\?id)=/)[0].replace("..",".");
             }
         }else{
             var 接口="http://egwang186.gitee.io/?url=";
         }
-        var LIST=[];
-        for(var j=0;j<列表.length;j++){
-            var 选集=e2Rex(列表[j],选集规则);
-            var 选集地址=e2Rex(列表[j],选集地址规则);
-            if(URL.indexOf("api.php/app")!=-1||URL.indexOf("xgapp.php/v1")!=-1||URL.indexOf(".vod")!=-1){
-                if(选集地址.indexOf("42.51.48.17/?url=")!=-1||选集地址.indexOf(".m3u8")>20||选集地址.indexOf(".mp4")!=-1||选集地址.indexOf("/obj/tos")!=-1){
+    }else if(URL.indexOf("api.php/app/")!=-1){
+        var 接口=e2Rex(分类CODE,".json(parse_api)");
+        if(接口.indexOf("jpg.hou.lu/jm/za/index.php")!=-1){
+            var 接口="http://vip.mengx.vip/home/api?type=ys&uid=3249696&key=aefqrtuwxyEFHKNOQY&url=";
+        }
+    }else{
+        var 接口=URL;
+    }
+    if(接口.indexOf("svip.jhyun.jx.cn:1234")!=-1||接口.indexOf("svip.jhdyw.vip:3456")!=-1){
+        if(标题.indexOf("人人")!=-1){
+            接口="https://api.gaotian.love/lgjson.php?url=";
+        }else if(标题.indexOf("番茄")!=-1){
+            接口="https://api.gaotian.love/lgjson.php?url=";
+        }else{
+            接口="https://api.jhdyw.vip/?url=";
+        }
+       接口="https://api.jhdyw.vip/jiexi/?url=";
+    }else if(接口.indexOf("jhsj.manduhu.com")!=-1){
+       接口="https://api.jhdyw.vip/jiexi/?url=";
+    }
+    var LIST=[];
+    for(var j=0;j<列表.length;j++){
+        var 选集=e2Rex(列表[j],选集规则);
+        var 选集地址=e2Rex(列表[j],选集地址规则);
+        if(URL.indexOf("api.php/app/")!=-1||URL.indexOf("v1.vod")!=-1){
+            if(选集地址.indexOf("42.51.48.17/?url=")!=-1||选集地址.indexOf(".m3u8")>20||选集地址.indexOf(".mp4")!=-1||选集地址.indexOf("/obj/tos")!=-1){
+                var 选集地址="https://www.baidu.com/s?wd="+选集地址;
+            }else{
+                var 选集地址=接口+选集地址;
+            }
+        }else if(URL.search(/api\.php\/.*?\/vod/)!=-1){
+            if(URL.indexOf("ppzhu.vip")!=-1){
+                var 选集地址="https://www.baidu.com/s?wd="+选集地址+"&app=10003&account=272775028&password=qq272775028";
+            }else{
+                if(选集地址.indexOf("vip.19jx.vip/api/?type=app")!=-1||选集地址.indexOf("42.51.48.17/?url=")!=-1||选集地址.indexOf(".m3u8")>20||选集地址.indexOf(".mp4")!=-1||选集地址.indexOf("/obj/tos")!=-1){
                     var 选集地址="https://www.baidu.com/s?wd="+选集地址;
-                }else{
-                    var 选集地址=接口+选集地址;
-                }
-            }else if(URL.indexOf("/api\.php\/.*?\/vod")!=-1){
-                if(选集地址.indexOf(".m3u8")>20||选集地址.indexOf(".mp4")!=-1||选集地址.indexOf("/obj/tos")!=-1){
-                    var playurl=选集地址.split("url=")[1];
-                    var 选集地址="https://www.baidu.com/s?wd="+playurl;
-                }else if(URL.indexOf("ppzhu.vip")!=-1){
-                        var 选集地址=选集地址+"&app=10003&account=272775028&password=qq272775028";
-                }else if(URL.indexOf("diliktv")!=-1){
-                    var 选集地址=选集地址+"&app=10007&account=272775028&password=qq272775028";
                 }else if(选集地址.indexOf("=")==-1){
                     var 选集地址="http://egwang186.gitee.io/?url="+选集地址;
                 }else{
                     var 选集地址=选集地址;
                 }
-            }else if(选集地址.indexOf("http")!=-1){
-                var 选集地址=选集地址;
-            }else{
-                var 选集地址=接口+选集地址;
             }
-            LIST.push({title:选集,url:选集地址});
+        }else if(选集地址.indexOf("http")!=-1){
+            var 选集地址=选集地址;
+        }else{
+            var 选集地址=接口+选集地址;
         }
-        var play_={};
-        play_.title=标题;
-        play_.list=LIST;
-        items.push(play_);
+        LIST.push({title:选集,url:选集地址});
     }
-    detail.push({desc:简介});
-    res.data=items;
-    res.desc=detail;
-    return JSON.stringify(res);
+var play_={};
+play_.title=标题;
+play_.list=LIST;
+items.push(play_);
 }
-if(URL.indexOf("api.php/app")!=-1||URL.indexOf("xgapp.php/v1")!=-1){
+detail.push({desc:简介});
+res.data=items;
+res.desc=detail;
+return JSON.stringify(res);
+}
+if(URL.indexOf("api.php/app/")!=-1){
     var 分类=JSON.parse(getVar("源码").replace(/<.*?>/g,"").replace(/[\s]*/g,"")).data.vod_url_with_player;
     var 简介=JSON.parse(getVar("源码").replace(/<.*?>/g,"").replace(/[\s]*/g,"")).data.vod_content;
     var 列表规则=".json(url).ct(#).z(.*?\\$.*?#)";
     var 标题规则=".json(name)";
     var 选集规则=".z2(\\\(.+?\\\)\\$)";
-    var 选集地址规则=".z2(\\$\\\(.+?\\\)[#|\"])";
-    选集列表();
+    var 选集地址规则=".z2(\\$\\\(.+?\\\)[#|\"])";选集列表();
 }else if(URL.indexOf(".vod")!=-1){
     var 分类=JSON.parse(getVar("源码").replace(/<.*?>/g,"").replace(/[\s]*/g,"")).data.vod_play_list;
     var 简介=JSON.parse(getVar("源码").replace(/<.*?>/g,"").replace(/[\s]*/g,"")).data.vod_content;
     var 列表规则=".json(url).ct(#).z(.*?\\$.*?#)";
     var 标题规则=".json(player_info).json(show)";
     var 选集规则=".z2(\\\(.+?\\\)\\$)";
-    var 选集地址规则=".z2(\\$\\\(.+?\\\)[#|\"])";
-    选集列表();
-}else{
+    var 选集地址规则=".z2(\\$\\\(.+?\\\)[#|\"])";选集列表();
+}else if(URL.search(/api\.php\/.*?\/vod/)!=-1){
     var 分类=e2Arr(getVar("源码"),".json(videolist).z(\".*?\\])");
     var 简介=e2Arr(getVar("源码"),".json(intro)");
     var 列表规则=".z(\\{.*?\\})";
     var 标题规则=".z2(\"\\(.*?\\)\")";
     var 选集规则=".json(title)";
-    var 选集地址规则=".json(url)";
-    选集列表();
+    var 选集地址规则=".json(url)";选集列表();
 }
 ######免嗅探
 var uu=getVar("url");
@@ -302,7 +303,7 @@ if(uu.indexOf("baidu.com")!=-1){
     "web="+uu;
 }
 ######搜索TAB列表
-var filename=e2Rex("QVBQ5b2x6KeG5pCc57Si5YiX6KGoLnR4dA==",".t().dn64()");
+var filename=e2Rex("QVBQ5pCc57Si5YiX6KGo",".t().dn64()");
 var kanjuSign="5c61903daa6fa3679338d57ace3cae02";
 var appSign="d566171c6a64659aad784524c76ab569";
 var sign=e2Rex(getVar("QMINFO"),".xml(sign).t()").replace(/\s/g,"");
@@ -368,7 +369,7 @@ if(version==NewVersion&&sign==NewSign){
     "murl":"mapi:qm/https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/InMemory/看剧.mqz"
     },
     {
-    "title":"欢迎使用，祝您看剧愉快！",
+    "title":"感谢您的使用，祝您看剧愉快！",
     "murl":""
     }
 ]
