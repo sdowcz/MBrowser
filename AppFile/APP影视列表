@@ -201,6 +201,12 @@
         "murl":"q:APP影视"
         },
         {
+        "title":"艾特影视",
+        "url":"https://www.aitee.cc/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/艾特影视.png",
+        "murl":"q:APP影视"
+        },
+        {
         "title":"爱影视",
         "url":"https://www.hzlff.cn/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/爱影视.png",
@@ -210,6 +216,12 @@
         "title":"白菜追剧",
         "url":"http://lbapp.huimaojia.com:30119/mogai_api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/白菜追剧.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"比心影视",
+        "url":"http://bxin.tv/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/比心影视.png",
         "murl":"q:APP影视"
         },
         {

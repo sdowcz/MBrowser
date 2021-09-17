@@ -40,8 +40,10 @@
     HG影视=http://cs.hgyx.vip/api.php/v1.vod
     VIP影视=http://www.sp.ooo/api.php/v1.vod
     爱看TV=http://mini.aikantv.top/mogai_api.php/v1.vod
+    艾特影视=https://www.aitee.cc/api.php/v1.vod
     爱影视=https://www.hzlff.cn/api.php/v1.vod
     白菜追剧=http://lbapp.huimaojia.com:30119/mogai_api.php/v1.vod
+    比心影视=http://bxin.tv/api.php/v1.vod
     初心影视=https://www.18mv.club/api.php/v1.vod
     多多影视=https://sp.9aeng.com/api.php/v1.vod
     大海影视=http://119.29.63.137/api.php/v1.vod
