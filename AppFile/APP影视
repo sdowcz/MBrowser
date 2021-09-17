@@ -123,7 +123,7 @@ function 选集列表(){
             }
         }else if(URL.indexOf("api.php/app")!=-1||URL.indexOf("xgapp.php/v1")!=-1){
             var 接口=e2Rex(分类CODE,".json(parse_api)");
-            if(接口.indexOf("svip.jhyun.jx.cn:1234")!=-1||接口.indexOf("svip.jhdyw.vip")!=-1||接口.indexOf("jhsj.manduhu.com")!=-1){
+            if(接口.indexOf("svip.jhyun.jx.cn:1234")!=-1||接口.indexOf("svip.jhdyw.vip")!=-1||接口.indexOf("jhsj.manduhu.com")!=-1||接口.indexOf("v.jhdyw.vip/nhdz666")!=-1){
                 if(标题.indexOf("人人")!=-1){
                     接口="https://jhdyw.vip/jiexi/rr.php?url=";
                 }else if(标题.indexOf("番茄")!=-1){
