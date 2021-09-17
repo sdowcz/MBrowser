@@ -61,6 +61,7 @@
     红兔视频=https://www.hoto4.com/api.php/v1.vod
     筋斗云影视=https://tv.jindcloud.com/api.php/v1.vod
     快播吧=http://www.hd8.pw/api.php/v1.vod
+    林谷影视=http://xg.lgzy8.cn:86/mogai_api.php/v1.vod
     懒猫电影=http://007.lanmaody.com/api.php/v1.vod
     蓝鲸视界=https://apps.vd5.cc/api.php/v1.vod
     绿箭影视=http://www.69ty.cc/mogai_api.php/v1.vod

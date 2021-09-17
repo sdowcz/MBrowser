@@ -327,6 +327,12 @@
         "murl":"q:APP影视"
         },
         {
+        "title":"林谷影视",
+        "url":"http://xg.lgzy8.cn:86/mogai_api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/林谷影视.png",
+        "murl":"q:APP影视"
+        },
+        {
         "title":"懒猫电影",
         "url":"http://007.lanmaody.com/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/懒猫电影.png",
