@@ -697,6 +697,12 @@
         "murl":"q:TV影视"
         },
         {
+        "title":"影酷TV",
+        "url":"http://zy.pxun.top/api.php/iptv/vod/",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/影酷TV.png",
+        "murl":"q:TV影视"
+        },
+        {
         "title":"小极TV",
         "url":"http://tv.8d8q.com/api.php/iptv/vod/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/小极TV.png",
