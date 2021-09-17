@@ -16,7 +16,7 @@ if(version==NewVersion&&sign==appSign&&name==appName){
 {
 "data":[
     {
-    "title":"修复因新版引用变量出问题，导致分类失效",
+    "title":"修复思古",
     "list":[
         {
         "title":"安装新版",
