@@ -41,7 +41,7 @@
         },
         {
         "title":"大师兄影视",
-        "url":"https://hou.lu/api.php/app/",
+        "url":"https://hou.lu/xgapp.php/v1/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/大师兄影视.png",
         "murl":"q:APP影视"
         },

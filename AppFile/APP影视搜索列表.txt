@@ -11,7 +11,7 @@
     播放呀=https://www.bofangya.com/api.php/app/
     畅视影视=http://app.reboju.net/api.php/app/
     毒舌电影=https://www.dushe520.com/api.php/app/
-    大师兄影视=https://hou.lu/api.php/app/
+    大师兄影视=https://hou.lu/xgapp.php/v1/
     段友影视=https://lb.5277s.com/api.php/app/
     海胆影视=http://xf123.cc/api.php/app/
     海绵影视=http://app1.yuzhouys.com/api.php/app/
