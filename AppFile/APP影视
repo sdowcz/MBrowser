@@ -407,9 +407,6 @@ if(version==NewVersion&&sign==appSign&&name==appName){
 ######APP影视首页轮播图播放地址
 var URL=getVar("url");
 if(URL.indexOf(".vod")!=-1){
-    var Url=URL+
-    var CODE=getHttp(JSON.stringify({url:URL}));
-    var vod_id=e2Rex(CODE,".json(data).json(list).json(vod_id)");
     URL+"/detail?vod_id=";
 }else if(URL.indexOf("api.php/app")!=-1||URL.indexOf("xgapp.php/v1")!=-1){
     URL+"video_detail?id=";
