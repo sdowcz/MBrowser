@@ -390,9 +390,8 @@ if(version==NewVersion&&sign==appSign&&name==appName){
         result=[];
     }
     var num=arr.splice(Math.floor(Math.random()*arr.length),1);
-    result=num.concat(result);
-    alert(result[0]);
-    var luckyNum=result[0];
+    var results=num.concat(result);
+    var luckyNum=results[0];
     if(luckyNum==1){
         getHttp(JSON.stringify({url:"https://www.dijiaxia.com/api.php/app/advert?token=&position=2"}));
     }else if(luckyNum==2){
