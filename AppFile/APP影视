@@ -397,9 +397,9 @@ if(version==NewVersion&&sign==appSign&&name==appName){
     }else if(luckyNum==2){
         getHttp(JSON.stringify({url:"http://w7tv.com/api.php/app/advert?token=&position=2"}));
     }else if(luckyNum==3){
-        getHttp(JSON.stringify({url:"https://www.dijiaxia.com/api.php/app/advert?token=&position=2"}));
+        getHttp(JSON.stringify({url:"http://yfys1122.com/mogai_api.php/v1.vod?level=9"}));
     }else if(luckyNum==4){
-        getHttp(JSON.stringify({url:"http://w7tv.com/api.php/app/advert?token=&position=2"}));
+        getHttp(JSON.stringify({url:"http://zly.xjqxz.top/api.php/v1.vod?level=9"}));
     }
 }else{
     update;
