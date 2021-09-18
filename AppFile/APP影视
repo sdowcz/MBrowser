@@ -383,14 +383,24 @@ var sign=e2Rex(getVar("QMINFO"),".xml(sign).t()").replace(/\s/g,"");
 var appName="APP影视";
 var name=e2Rex(getVar("QMINFO"),".xml(name).t()").replace(/\s/g,"");
 if(version==NewVersion&&sign==appSign&&name==appName){
-    function objectHref(){
-    var oHref=new Array(
-    "https://www.dijiaxia.com/api.php/app/advert?token=&position=2",
-    "http://w7tv.com/api.php/app/advert?token=&position=2"
-    );
-    var hrefNum=oHref.length;
-    var currIndex=Math.round(Math.random() * hrefNum);
-    window.location=oHref[currIndex]
+    var arr = [1,2,3,4];
+    var result = [];
+    if(arr.length ===0 ){
+        arr=result;
+        result = [];
+    }
+    var num = arr.splice(Math.floor(Math.random()*arr.length),1);
+    result = num.concat(result);
+    alert(result[0]);
+    var  luckyNum = result[0];
+    if(luckyNum==1){
+        window.location.href = "https://www.dijiaxia.com/api.php/app/advert?token=&position=2";
+    }else if(luckyNum==2){
+        window.location.href = "http://w7tv.com/api.php/app/advert?token=&position=2";
+    }else if(luckyNum==3){
+        window.location.href = "http://w7tv.com/api.php/app/advert?token=&position=2";
+    }else if(luckyNum==4){
+        window.location.href = "http://w7tv.com/api.php/app/advert?token=&position=2";
     }
 }else{
     update;
