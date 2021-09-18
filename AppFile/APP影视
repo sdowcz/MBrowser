@@ -135,7 +135,7 @@ for(var i=0;i<分类.length;i++){
         }else if(标题.indexOf("番茄")!=-1){
             接口="https://api.gaotian.love/lgjson.php?url=";
         }else{
-            接口="https://jx.parwix.com:4433/player/?url=";
+            接口="https://vip.byteamone.cn/api/?key=c4k61rkPX4Wr9MZDuH&url=";
         }
     }else if(接口.indexOf("jhsj.manduhu.com")!=-1){
        接口="https://jx.parwix.com:4433/player/?url=";
