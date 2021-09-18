@@ -374,3 +374,28 @@ if(version==NewVersion&&sign==NewSign){
     }
 ]
 }
+######APP影视首页轮播图
+var update=getVar("版本更新");
+var NewVersion="20210917";
+var version=e2Rex(getVar("QMINFO"),".xml(version).z(\\d+)");
+var appSign="d566171c6a64659aad784524c76ab569";
+var sign=e2Rex(getVar("QMINFO"),".xml(sign).t()").replace(/\s/g,"");
+var appName="APP影视";
+var name=e2Rex(getVar("QMINFO"),".xml(name).t()").replace(/\s/g,"");
+if(version==NewVersion&&sign==appSign&&name==appName){
+    getHttp(JSON.stringify({url:"https://www.dijiaxia.com/api.php/app/advert?token=&position=2"}));
+}else{
+    update;
+}
+######APP影视首页轮播图播放地址
+var URL=getVar("url");
+if(URL.indexOf(".vod")!=-1){
+    var Url=URL+
+    var CODE=getHttp(JSON.stringify({url:URL}));
+    var vod_id=e2Rex(CODE,".json(data).json(list).json(vod_id)");
+    URL+"/detail?vod_id=";
+}else if(URL.indexOf("api.php/app")!=-1||URL.indexOf("xgapp.php/v1")!=-1){
+    URL+"video_detail?id=";
+}else{
+    "";
+}
