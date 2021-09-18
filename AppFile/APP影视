@@ -132,7 +132,7 @@ for(var i=0;i<分类.length;i++){
     if(接口.indexOf("svip.jhyun.jx.cn:1234")!=-1||接口.indexOf("svip.jhdyw.vip:3456")!=-1||接口.indexOf("v.jhdyw.vip/nhdz666")!=-1){
        接口="https://api.gaotian.love/lgjson.php?url=";
     }else if(接口.indexOf("jhsj.manduhu.com")!=-1){
-       接口="https://api.jhdyw.vip/jiexi/?url=";
+       接口="https://api.gaotian.love/lgjson.php?url=";
     }
     var LIST=[];
     for(var j=0;j<列表.length;j++){
