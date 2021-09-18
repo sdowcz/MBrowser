@@ -125,6 +125,7 @@
     2号币影院=http://203.lxyyy.xyz:81/api.php/iptv/vod/
     V影视=http://www.ppzhu.vip/api.php/Chengcheng/vod/
     稻草人TV=http://www.zhaikanys.xyz/api.php/iptv1/vod/
+    大师兄影视=http://dsxtv.tv.ci/api.php/dsx/vod/
     黑龙影视=http://vip.ji-ding-he.site/api.php/iptv/vod/
     核桃影视=http://lg.hetaoys.vip/api.php/iptv/vod/
     聚多影视=http://jdyy.chxjon.cn/api.php/iptv/vod/

@@ -679,6 +679,12 @@
         "murl":"q:TV影视"
         },
         {
+        "title":"大师兄影视",
+        "url":"http://dsxtv.tv.ci/api.php/dsx/vod/",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/大师兄影视.png",
+        "murl":"q:TV影视"
+        },
+        {
         "title":"黑龙影视",
         "url":"http://vip.ji-ding-he.site/api.php/iptv/vod/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/黑龙影视.png",
