@@ -405,7 +405,11 @@ if(version==NewVersion&&sign==appSign&&name==appName){
     update;
 }
 ######APP影视首页轮播图播放地址
-var URL=getVar("url");
+if(getVar("url").indexOf(".vod")!=-1){
+    var URL=getVar("url").split("?")[0];
+}else if(getVar("url").indexOf("api.php/app/")!=-1||getVar("url").indexOf("xgapp.php/v1/")!=-1){
+    var URL=getVar("url").match(/http.*\//)[0];
+}
 if(URL.indexOf(".vod")!=-1){
     URL+"/detail?vod_id=";
 }else if(URL.indexOf("api.php/app")!=-1||URL.indexOf("xgapp.php/v1")!=-1){
