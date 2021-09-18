@@ -685,6 +685,12 @@
         "murl":"q:TV影视"
         },
         {
+        "title":"嘀哩嘀哩TV",
+        "url":"https://api.diliktv.xyz/api.php/Chengcheng/vod/",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/嘀哩嘀哩TV.png",
+        "murl":"q:TV影视"
+        },
+        {
         "title":"大师兄影视",
         "url":"http://dsxtv.tv.ci/api.php/dsx/vod/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/大师兄影视.png",
