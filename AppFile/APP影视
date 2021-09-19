@@ -391,3 +391,13 @@ if(version==NewVersion&&sign==appSign&&name==appName){
 {
     "url":"http://zly.xjqxz.top/api.php/v1.vod/detail?vod_id="
 }
+######APP影视首页轮播图版本更新
+{
+"data":[
+    {
+    "name":"更新界面",
+    "url":"mapi:qm/https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/InMemory/APP影视.mqz",
+    "content":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/update.png"
+    }
+]
+}
