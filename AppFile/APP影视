@@ -23,7 +23,6 @@ if(version==NewVersion&&sign==appSign&&name==appName){
         "murl":"mapi:qm/https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/InMemory/APP影视.mqz",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/update.png",
         "vod_name":"更新界面",
-        "murl":"mapi:qm/https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/InMemory/APP影视.mqz",
         "vod_pic_slide":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/update.png"
         }
     ]
@@ -424,7 +423,7 @@ for(var i=0;i<轮播.length;i++){
 var url=前缀+"video_detail?id="+e2Rex(轮播[i],".json(req_content)");
 var img=e2Rex(轮播[i],".json(content)");
 var title=e2Rex(轮播[i],".json(name)");
-items.push({url:url,img:img,title:title})
+items.push({url:murl,img:img,title:title})
 }
 JSON.stringify(items);
 }else{
@@ -436,7 +435,7 @@ for(var i=0;i<轮播.length;i++){
 var url=前缀+"/detail?vod_id="+e2Rex(轮播[i],".json(vod_id)");
 var img=e2Rex(轮播[i],".json(vod_pic)");
 var title=e2Rex(轮播[i],".json(vod_name)");
-items.push({url:url,img:img,title:title})
+items.push({url:murl,img:img,title:title})
 }
 JSON.stringify(items);
 }
