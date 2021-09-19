@@ -389,7 +389,7 @@ if(version==NewVersion&&sign==appSign&&name==appName){
 }
 ######APP影视首页轮播图播放地址
 {
-    "murl":"q:播放器"
+    "murl":"q:播放器?url="
     "url":"http://zly.xjqxz.top/api.php/v1.vod/detail?vod_id="
 }
 ######APP影视首页轮播图版本更新
