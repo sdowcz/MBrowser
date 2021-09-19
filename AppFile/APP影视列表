@@ -219,12 +219,6 @@
         "murl":"q:APP影视"
         },
         {
-        "title":"比心影视",
-        "url":"http://bxin.tv/api.php/v1.vod",
-        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/比心影视.png",
-        "murl":"q:APP影视"
-        },
-        {
         "title":"初心影视",
         "url":"https://www.18mv.club/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/初心影视.png",

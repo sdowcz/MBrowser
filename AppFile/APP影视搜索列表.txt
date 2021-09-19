@@ -122,7 +122,7 @@
     "murl":"q:TV影视搜索",
     "list":"
     19影视=http://ysiptv.19jx.vip/api.php/iptv/vod/
-    2号币影院=http://203.lxyyy.xyz:81/api.php/iptv/vod/
+    2号币影院=http://phoebe.cf/api.php/iptv/vod/
     V影视=http://www.ppzhu.vip/api.php/Chengcheng/vod/
     稻草人TV=http://www.zhaikanys.xyz/api.php/iptv1/vod/
     大师兄影视=http://dsxtv.tv.ci/api.php/dsx/vod/
@@ -130,7 +130,7 @@
     核桃影视=http://tv.hetaoys.vip/api.php/iptv/vod/
     聚多影视=http://jdyy.chxjon.cn/api.php/iptv/vod/
     久久影院=http://lm.0818tv.com/mv/api.php/Chengcheng/vod/
-    流星雨影院=http://phoebe.cf/api.php/iptv/vod/
+    流星雨影院=http://ssy.lxyyy.xyz/mv/api.php/Chengcheng/vod/
     双子星=http://tv.diyoui.cc/api.php/iptv/vod/
     云播影视=http://yunbo.bxin.tv/api.php/iptv/vod/
     影酷TV=http://zy.pxun.top/api.php/iptv/vod/
