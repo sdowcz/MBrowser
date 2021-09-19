@@ -127,7 +127,7 @@
     稻草人TV=http://www.zhaikanys.xyz/api.php/iptv1/vod/
     大师兄影视=http://dsxtv.tv.ci/api.php/dsx/vod/
     黑龙影视=http://vip.ji-ding-he.site/api.php/iptv/vod/
-    核桃影视=http://lg.hetaoys.vip/api.php/iptv/vod/
+    核桃影视=http://tv.hetaoys.vip/api.php/iptv/vod/
     聚多影视=http://jdyy.chxjon.cn/api.php/iptv/vod/
     久久影院=http://lm.0818tv.com/mv/api.php/Chengcheng/vod/
     流星雨影院=http://phoebe.cf/api.php/iptv/vod/
