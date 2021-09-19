@@ -327,6 +327,12 @@
         "murl":"q:APP影视"
         },
         {
+        "title":"极简影视",
+        "url":"https://tv.areone.top/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/极简影视.png",
+        "murl":"q:APP影视"
+        },
+        {
         "title":"快播吧",
         "url":"http://www.hd8.pw/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/快播吧.png",
@@ -668,7 +674,7 @@
         },
         {
         "title":"2号币影院",
-        "url":"http://203.lxyyy.xyz:81/api.php/iptv/vod/",
+        "url":"http://phoebe.cf/api.php/iptv/vod/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/2号币影院.png",
         "murl":"q:TV影视"
         },
@@ -718,12 +724,6 @@
         "title":"久久影院",
         "url":"http://lm.0818tv.com/mv/api.php/Chengcheng/vod/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/久久影院.png",
-        "murl":"q:TV影视"
-        },
-        {
-        "title":"流星雨影院",
-        "url":"http://phoebe.cf/api.php/iptv/vod/",
-        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/流星雨影院.png",
         "murl":"q:TV影视"
         },
         {
