@@ -379,7 +379,7 @@ if(version==NewVersion&&sign==NewSign){
 }
 ######APP影视首页轮播图随机网址
 var update=getVar("版本更新");
-var NewVersion="20210917";
+var NewVersion="20210919";
 var version=e2Rex(getVar("QMINFO"),".xml(version).z(\\d+)");
 var appSign="d566171c6a64659aad784524c76ab569";
 var sign=e2Rex(getVar("QMINFO"),".xml(sign).t()").replace(/\s/g,"");
