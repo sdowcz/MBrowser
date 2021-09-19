@@ -386,13 +386,13 @@ var sign=e2Rex(getVar("QMINFO"),".xml(sign).t()").replace(/\s/g,"");
 var appName="APP影视";
 var name=e2Rex(getVar("QMINFO"),".xml(name).t()").replace(/\s/g,"");
 if(version==NewVersion&&sign==appSign&&name==appName){
-    getHttp(JSON.stringify({url:"http://zly.xjqxz.top/api.php/v1.vod?level=9"}));
+    getHttp(JSON.stringify({url:"https://www.cjt521.com/api.php/v1.vod?level=9"}));
 }else{
     update;
 }
 ######APP影视首页轮播图播放地址
 {
-    "murl":"q:播放器?url=http://zly.xjqxz.top/api.php/v1.vod/detail?vod_id="
+    "murl":"q:播放器?url=https://www.cjt521.com/api.php/v1.vod/detail?vod_id="
 }
 ######APP影视首页轮播图版本更新
 {
