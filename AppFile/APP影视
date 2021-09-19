@@ -407,7 +407,7 @@ var filename=e2Rex("QVBQ5b2x6KeG5YiX6KGo",".t().dn64()");
 if(version==NewVersion&&sign==appSign&&name==appName){
     var 原=getHttp(JSON.stringify({url:"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/tree/master/AppFile/APP影视列表"})).replace(/\s/g,"");
     var 分类=e2Arr(原,".z(\\{[^{].+?\\})");
-    var newArr=分类.filter(item=>item.indexOf("api.php/app")!=-1||item.indexOf("xgapp.php/v1")!=-1||item.search(/api.php\/.*?\.vod/)!=-1);
+    var newArr=分类.filter(item=>item.indexOf("api.php/app")!=-1||item.search(/api.php\/.*?\.vod/)!=-1);
     var 随机=newArr[Math.floor(Math.random()*newArr.length)];
     e2Rex(随机,".json(url)");
 }else{
