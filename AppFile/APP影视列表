@@ -100,6 +100,12 @@
         "murl":"q:APP影视"
         },
         {
+        "title":"007影视",
+        "url":"https://www.007ts.cc/api.php/app/",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/零零七影视.png",
+        "murl":"q:APP影视"
+        },
+        {
         "title":"极乐阁",
         "url":"https://vip.wuqcms.com/api.php/app/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/极乐阁.png",
@@ -115,6 +121,12 @@
         "title":"思古影视",
         "url":"https://app.siguyy.com/xgapp.php/v1/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/思古影视.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"速搜影视",
+        "url":"https://www.susou.tv/api.php/app/",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/速搜影视.png",
         "murl":"q:APP影视"
         },
         {
