@@ -405,7 +405,7 @@ var appName="APP影视";
 var name=e2Rex(getVar("QMINFO"),".xml(name).t()").replace(/\s/g,"");
 var filename=e2Rex("QVBQ5b2x6KeG5YiX6KGo",".t().dn64()");
 if(version==NewVersion&&sign==appSign&&name==appName){
-    var 原=getHttp(JSON.stringify({url:"https://egwang186.coding.net/p/egwang186/d/iptv/git/raw/master/js2.0/万物生-首页.txt"})).replace(/\s/g,"");
+    var 原=getHttp(JSON.stringify({url:"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/APP影视列表"})).replace(/\s/g,"");
     var 分类=e2Arr(原,".z(\\{[^{].+?\\})");
     var newArr=分类.filter(item=>item.indexOf("api.php/app")!=-1||item.search(/api.php\/.*?\.vod/)!=-1);
     var 随机=newArr[Math.floor(Math.random()*newArr.length)];
