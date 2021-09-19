@@ -388,4 +388,4 @@ if(version==NewVersion&&sign==appSign&&name==appName){
     update;
 }
 ######APP影视首页轮播图播放地址
-http://yfys1122.com/mogai_api.php/v1.vod/detail?vod_id=
+"http://yfys1122.com/mogai_api.php/v1.vod/detail?vod_id=";
