@@ -405,11 +405,38 @@ if(version==NewVersion&&sign==appSign&&name==appName){
 ]
 }
 ######APP影视首页轮播图随机网址
-var 原=getHttp(JSON.stringify({url:"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/tree/master/AppFile/APP影视列表"})).replace(/\s/g,"");
+var 原=getHttp(JSON.stringify({url:"https://egwang186.coding.net/p/egwang186/d/iptv/git/raw/master/js2.0/万物生-首页.txt"})).replace(/\s/g,"");
 var 分类=e2Arr(原,".z(\\{[^{].+?\\})");
 var newArr=分类.filter(item=>item.indexOf("api.php/app")!=-1||item.search(/api.php\/.*?\.vod/)!=-1);
 var 随机=newArr[Math.floor(Math.random()*newArr.length)];
 e2Rex(随机,".json(url)");
+######APP影视首页轮播图
+var 随机网址=getVar("随机网址");
+if(随机网址.search(/api\.php\/app/)!=-1){
+var 前缀=随机网址.match(/http.*\//)[0];
+var CODE=getHttp(JSON.stringify({url:前缀+"advert?token=&position=2",head:{"user-agent":getVar("UA")}}));
+var 轮播=e2Arr(CODE,".json(data)");
+var items=[];
+for(var i=0;i<轮播.length;i++){
+var url=前缀+"video_detail?id="+e2Rex(轮播[i],".json(req_content)");
+var img=e2Rex(轮播[i],".json(content)");
+var title=e2Rex(轮播[i],".json(name)");
+items.push({url:url,img:img,title:title})
+}
+JSON.stringify(items);
+}else{
+var 前缀=随机网址.split("/vodPhbAll")[0];
+var CODE=getHttp(JSON.stringify({url:前缀+"?level=9",head:{"user-agent":getVar("UA")}}));
+var 轮播=e2Arr(CODE,".json(data).json(list)");
+var items=[];
+for(var i=0;i<轮播.length;i++){
+var url=前缀+"/detail?vod_id="+e2Rex(轮播[i],".json(vod_id)");
+var img=e2Rex(轮播[i],".json(vod_pic)");
+var title=e2Rex(轮播[i],".json(vod_name)");
+items.push({url:url,img:img,title:title})
+}
+JSON.stringify(items);
+}
 ######APP影视首页轮播图
 var 随机网址=getVar("随机网址");
 if(随机网址.search(/api\.php\/app/)!=-1||随机网址.search(/xgapp\.php\/v1/)!=-1){
