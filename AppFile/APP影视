@@ -415,7 +415,7 @@ if(version==NewVersion&&sign==appSign&&name==appName){
 }
 ######APP影视首页轮播图数据
 var 随机网址=getVar("随机网址");
-if(随机网址.search(/api\.php\/app/)!=-1||随机网址.search(/xgapp\.php\/v1/)!=-1){
+if(随机网址.search(/api\.php\/app/)!=-1){
     var CODE=getHttp(JSON.stringify({url:随机网址+"advert?token=&position=2"}));
     var 轮播=e2Arr(CODE,".json(data)");
     var items=[];
