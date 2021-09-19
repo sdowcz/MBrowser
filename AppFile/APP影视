@@ -423,7 +423,7 @@ for(var i=0;i<轮播.length;i++){
 var url=前缀+"video_detail?id="+e2Rex(轮播[i],".json(req_content)");
 var img=e2Rex(轮播[i],".json(content)");
 var title=e2Rex(轮播[i],".json(name)");
-items.push({murl:url,img:img,title:title})
+items.push({murl:"q:播放器?url="+url,img:img,title:title})
 }
 JSON.stringify(items);
 }else{
@@ -435,7 +435,7 @@ for(var i=0;i<轮播.length;i++){
 var url=前缀+"/detail?vod_id="+e2Rex(轮播[i],".json(vod_id)");
 var img=e2Rex(轮播[i],".json(vod_pic)");
 var title=e2Rex(轮播[i],".json(vod_name)");
-items.push({murl:url,img:img,title:title})
+items.push({murl:"q:播放器?url="+url,img:img,title:title})
 }
 JSON.stringify(items);
 }
