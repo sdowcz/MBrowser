@@ -388,4 +388,6 @@ if(version==NewVersion&&sign==appSign&&name==appName){
     update;
 }
 ######APP影视首页轮播图播放地址
-https://www.dijiaxia.com/api.php/app/video_detail?id=
+{
+    "url":"https://www.dijiaxia.com/api.php/app/video_detail?id="
+}
