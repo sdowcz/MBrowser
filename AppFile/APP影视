@@ -389,8 +389,7 @@ if(version==NewVersion&&sign==appSign&&name==appName){
 }
 ######APP影视首页轮播图播放地址
 {
-    "murl":"q:播放器?url="
-    "url":"http://zly.xjqxz.top/api.php/v1.vod/detail?vod_id="
+    "murl":"q:播放器?url=http://zly.xjqxz.top/api.php/v1.vod/detail?vod_id="
 }
 ######APP影视首页轮播图版本更新
 {
@@ -398,7 +397,6 @@ if(version==NewVersion&&sign==appSign&&name==appName){
     {
     "name":"更新界面",
     "murl":"mapi:qm/https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/InMemory/APP影视.mqz",
-    "url":"",
     "content":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/update.png"
     }
 ]
