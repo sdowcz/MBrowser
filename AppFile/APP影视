@@ -395,18 +395,18 @@ if(version==NewVersion&&sign==appSign&&name==appName){
     if(luckyNum==1){
         getHttp(JSON.stringify({url:"https://www.dijiaxia.com/api.php/app/advert?token=&position=2"}));
     }else if(luckyNum==2){
-        getHttp(JSON.stringify({url:"http://w7tv.com/api.php/app/advert?token=&position=2"}));
+        getHttp(JSON.stringify({url:"https://www.dijiaxia.com/api.php/app/advert?token=&position=2"}));
     }else if(luckyNum==3){
         getHttp(JSON.stringify({url:"http://yfys1122.com/mogai_api.php/v1.vod?level=9"}));
     }else if(luckyNum==4){
-        getHttp(JSON.stringify({url:"http://zly.xjqxz.top/api.php/v1.vod?level=9"}));
+        getHttp(JSON.stringify({url:"http://yfys1122.com/mogai_api.php/v1.vod?level=9"}));
     }
 }else{
     update;
 }
 ######APP影视首页轮播图播放地址
 if(getCode().indexOf("vod_id")!=-1){
-    "http://zly.xjqxz.top/api.php/v1.vod/detail?vod_id=";
+    "http://yfys1122.com/mogai_api.php/v1.vod/detail?vod_id=";
 }else if(getCode().indexOf("req_content")!=-1){
-    "https://app.siguyy.com/xgapp.php/v1/video_detail?id=";
+    "https://www.dijiaxia.com/api.php/app/video_detail?id=";
 }
