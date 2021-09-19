@@ -1,4 +1,4 @@
-######APP影视首页数据
+######APP影视首列表
 var update=getVar("版本更新");
 var filename=e2Rex("QVBQ5b2x6KeG5YiX6KGo",".t().dn64()");
 var NewVersion="20210919";
@@ -416,7 +416,7 @@ if(version==NewVersion&&sign==appSign&&name==appName){
 var 随机网址=getVar("随机网址");
 if(随机网址.search(/api\.php\/app/)!=-1||随机网址.search(/xgapp\.php\/v1/)!=-1){
     var 前缀=随机网址.match(/http.*\//)[0];
-    var CODE=getHttp(JSON.stringify({url:前缀+"advert?token=&position=2",head:{"user-agent":getVar("UA")}}));
+    var CODE=getHttp(JSON.stringify({url:前缀+"advert?token=&position=2"}));
     var 轮播=e2Arr(CODE,".json(data)");
     var items=[];
     for(var i=0;i<轮播.length;i++){
