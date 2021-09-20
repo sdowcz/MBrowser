@@ -454,7 +454,7 @@ if(随机网址.search(/api\.php\/app/)!=-1){
     var items=[];
     for(var i=0;i<轮播.length;i++){
         var url=前缀+"/detail?vod_id="+e2Rex(轮播[i],".json(vod_id)");
-        var img=e2Rex(轮播[i],".json(vod_pic)");
+        var img=e2Rex(轮播[i],".json(vod_pic_slide)");
         var title=e2Rex(轮播[i],".json(vod_name)");
         items.push({murl:"q:播放器?url="+url,img:img,title:title})
     }
