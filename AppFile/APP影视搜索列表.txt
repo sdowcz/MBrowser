@@ -26,6 +26,7 @@
     萌蛋蛋=http://app.mengdandan.com/api.php/app/
     思古影视=https://app.siguyy.com/xgapp.php/v1/
     速搜影院=https://www.susou.tv/api.php/app/
+    污妖动漫=https://www.wyydm.com/api.php/app/
     小龟视频=https://ys.80tvs.cn/api.php/app/
     小易影视=https://xy.irop.cn/api.php/app/
     影视工场=https://www.ik4.cc/api.php/app/
