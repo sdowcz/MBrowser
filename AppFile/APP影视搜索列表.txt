@@ -9,6 +9,7 @@
     555电影=http://w7tv.com/api.php/app/
     913E影视=http://www.913e.net/api.php/app/
     BD电影=https://www.bddysf.com/api.php/app/
+    COKEMV=https://cokemv.me/xgapp.php/v1/
     播放呀=https://www.bofangya.com/api.php/app/
     畅视影视=http://app.reboju.net/api.php/app/
     迪迪影院=http://dd88.icu:6080/api.php/app/
