@@ -40,7 +40,7 @@
         "murl":"q:APP影视"
         },
         {
-        "title":"大师兄影视",
+        "title":"大师兄",
         "url":"https://hou.lu/api.php/app/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/大师兄影视.png",
         "murl":"q:APP影视"
@@ -70,7 +70,7 @@
         "murl":"q:APP影视"
         },
         {
-        "title":"京广航影视",
+        "title":"京广航",
         "url":"https://www.jingguanghang.com/api.php/app/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/京广航影视.png",
         "murl":"q:APP影视"
@@ -189,7 +189,7 @@
         "murl":"q:APP影视"
         },
         {
-        "title":"FUFU影视",
+        "title":"FUFU",
         "url":"https://fufu.ixhduta.cn/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/FUFU影视.png",
         "murl":"q:APP影视"
@@ -626,7 +626,7 @@
         "murl":"q:APP影视"
         },
         {
-        "title":"一只鱼影视",
+        "title":"一只鱼",
         "url":"http://www.bd-4k.ml/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/一只鱼影视.png",
         "murl":"q:APP影视"
@@ -715,7 +715,7 @@
         "murl":"q:TV影视"
         },
         {
-        "title":"大师兄TV",
+        "title":"大师兄",
         "url":"http://dsxtv.tv.ci/api.php/dsx/vod/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/大师兄影视.png",
         "murl":"q:TV影视"
@@ -751,7 +751,7 @@
         "murl":"q:TV影视"
         },
         {
-        "title":"冷月TV",
+        "title":"冷月影视",
         "url":"https://tv.521x5.com/api.php/iptv/vod/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/冷月TV.png",
         "murl":"q:TV影视"
