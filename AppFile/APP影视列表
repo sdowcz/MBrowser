@@ -685,7 +685,7 @@
         "murl":"q:TV影视"
         },
         {
-        "title":"2号币影院",
+        "title":"2号币",
         "url":"http://phoebe.cf/api.php/iptv/vod/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/2号币影院.png",
         "murl":"q:TV影视"
@@ -709,13 +709,13 @@
         "murl":"q:TV影视"
         },
         {
-        "title":"嘀哩嘀哩TV",
+        "title":"嘀哩嘀哩",
         "url":"https://api.diliktv.xyz/api.php/Chengcheng/vod/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/嘀哩嘀哩TV.png",
         "murl":"q:TV影视"
         },
         {
-        "title":"大师兄影视",
+        "title":"大师兄TV",
         "url":"http://dsxtv.tv.ci/api.php/dsx/vod/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/大师兄影视.png",
         "murl":"q:TV影视"
@@ -745,9 +745,15 @@
         "murl":"q:TV影视"
         },
         {
-        "title":"流星雨影院",
+        "title":"流星雨",
         "url":"http://ssy.lxyyy.xyz/mv/api.php/Chengcheng/vod/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/流星雨影院.png",
+        "murl":"q:TV影视"
+        },
+        {
+        "title":"冷月TV",
+        "url":"https://tv.521x5.com/api.php/iptv/vod/",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/冷月TV.png",
         "murl":"q:TV影视"
         },
         {
