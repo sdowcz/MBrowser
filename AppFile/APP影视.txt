@@ -313,7 +313,6 @@ var items=[];
 for(var i=0;i<列表.length;i++){
 var 标题=e2Rex(列表[i],".json(title)");
 var 地址=e2Rex(列表[i],".json(url)");
-var 跳转地址=e2Rex(列表[i],".json(murl)");
 items.push(标题+"="+列表[i]);
 }
 var 合并=items.join("\n");
