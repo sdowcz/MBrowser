@@ -5,11 +5,13 @@
     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/江湖影视.png",
     "murl":"q:APP影视搜索",
     "list":"
+    007影视=https://www.007ts.cc/api.php/app/
     555电影=http://w7tv.com/api.php/app/
     913E影视=http://www.913e.net/api.php/app/
     BD电影=https://www.bddysf.com/api.php/app/
     播放呀=https://www.bofangya.com/api.php/app/
     畅视影视=http://app.reboju.net/api.php/app/
+    稻草人=http://www.zhaikanys.xyz/xgapp.php/v1/
     毒舌电影=https://www.dushe520.com/api.php/app/
     大师兄=https://hou.lu/api.php/app/
     段友影视=https://lb.5277s.com/api.php/app/
@@ -19,9 +21,10 @@
     京广航=https://www.jingguanghang.com/api.php/app/
     九合视频=https://ptygx.com/api.php/app/
     江湖影视=http://app.jhdyw.vip:1234/api.php/app/
+    极客=https://www.i8k.cc/xgapp.php/v1/
     久九影视=https://api.58qxk.cn/api.php/app/
+    蓝果影视=http://www.languotv.com/xgapp.php/v1/
     琳琅影视=https://www.u23c.com/api.php/app/
-    007影视=https://www.007ts.cc/api.php/app/
     极乐阁=https://vip.wuqcms.com/api.php/app/
     萌蛋蛋=http://app.mengdandan.com/api.php/app/
     思古影视=https://app.siguyy.com/xgapp.php/v1/

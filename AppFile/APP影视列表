@@ -4,6 +4,12 @@
     "title":"APP影视",
     "list":[
         {
+        "title":"007影视",
+        "url":"https://www.007ts.cc/api.php/app/",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/零零七影视.png",
+        "murl":"q:APP影视"
+        },
+        {
         "title":"555电影",
         "url":"http://w7tv.com/api.php/app/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/555电影.png",
@@ -31,6 +37,12 @@
         "title":"畅视影视",
         "url":"http://app.reboju.net/api.php/app/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/畅视影视.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"稻草人",
+        "url":"http://www.zhaikanys.xyz/xgapp.php/v1/",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/稻草人影视.png",
         "murl":"q:APP影视"
         },
         {
@@ -88,21 +100,27 @@
         "murl":"q:APP影视"
         },
         {
+        "title":"极客",
+        "url":"https://www.i8k.cc/xgapp.php/v1/",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/极客.png",
+        "murl":"q:APP影视"
+        },
+        {
         "title":"久九影视",
         "url":"https://api.58qxk.cn/api.php/app/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/久九影视.png",
         "murl":"q:APP影视"
         },
         {
-        "title":"琳琅影视",
-        "url":"https://www.u23c.com/api.php/app/",
-        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/琳琅影视.png",
+        "title":"蓝果影视",
+        "url":"http://www.languotv.com/xgapp.php/v1/",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/蓝果影视.png",
         "murl":"q:APP影视"
         },
         {
-        "title":"007影视",
-        "url":"https://www.007ts.cc/api.php/app/",
-        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/零零七影视.png",
+        "title":"琳琅影视",
+        "url":"https://www.u23c.com/api.php/app/",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/琳琅影视.png",
         "murl":"q:APP影视"
         },
         {
@@ -131,7 +149,7 @@
         },
         {
         "title":"污妖动漫",
-        "url":"https://www.wyydm.com/api.php/app/",
+        "url":"",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/污妖动漫.png",
         "murl":"q:APP影视"
         },
