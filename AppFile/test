@@ -1,43 +1,86 @@
-720p影视,https://www.720kp.cn/xgapp.php/v1/
-饭团影院,http://fantuan.wkfile.com/xgapp.php/v1/
-饭团,https://fantuan.tv/xgapp.php/v1/
-点播TV,https://dbzy.cc/xgapp.php/v1/
-蓝果影视,http://www.languotv.com/xgapp.php/v1/
-4K极客,https://www.i8k.cc/xgapp.php/v1/
-COKEMV,https://cokemv.co/xgapp.php/v1/
-爱迪影视,https://aidi.fun/xgapp.php/v1/
-爱看,https://ikan6.vip/xgapp.php/v1/
-哎呀影视,https://www.aisvod.tv/xgapp.php/v1/
-阿姨追剧,http://app.yiciyuan.me/xgapp.php/v1/
-播王,http://v.bowang.tv/xgapp.php/v1/
-稻草人视频,http://www.zhaikanys.xyz/xgapp.php/v1/
-迪迪影院,http://tv758.com/xgapp.php/v1/
-飞鱼影视,https://fx.feiyu5.com/xgapp.php/v1/
-红影影视,https://www.csksk.com/xgapp.php/v1/
-极乐影视,https://vip.wuqcms.com/xgapp.php/v1/
-零零七影视,https://www.007ts.cc/xgapp.php/v1/
-龙虾影视,http://api.lxys.xyz:2020/xgapp.php/v1/
-冷月影视,https://v.521x5.com/xgapp.php/v1/
-氢视频,http://hmgdxf.com/xgapp.php/v1/
-闪电影视,http://app.kssp.net/xgapp.php/v1/
-璇玑影视,https://www.vdxj.net/xgapp.php/v1/
-追剧吧,http://data.zju8.cc:1234/xgapp.php/v1/
-追剧吧,http://www.4kan.cc/xgapp.php/v1/
-哔嘀影视,https://app.9080ysw.com/xgapp.php/v1/
-追番TV,https://www.zhuifan.tv/xgapp.php/v1/
-泡饭影视,http://www.paofans.me/xgapp.php/v1/
-瓜皮TV,http://www.dijiaxia.com/xgapp.php/v1/
-多多电影,https://dd520.cc/xgapp.php/v1/
-环球影视,https://www.xhqyy.com/xgapp.php/v1/
-追剧喵,https://zjmiao.com/app/xgapp.php/v1/
-影视工场,https://www.ysgc.cc/xgapp.php/v1/
-BD电影,https://www.bddysf.com/xgapp.php/v1/
-小易影视,https://xy.irop.cn/xgapp.php/v1/
-小龟视频,https://ys.80tvs.cn/xgapp.php/v1/
-思古影视,https://app.siguyy.com/xgapp.php/v1/
-速搜影视,https://www.susou.tv/xgapp.php/v1/
-东辰影视,http://1234567.dcysxz.cn/xgapp.php/v1/
-聚影,http://jy.ysma.vip/xgapp.php/v1/
-樱花影视,http://yhys.icu:4433/xgapp.php/v1/
-喵点影视,http://baidu177.cn/xgapp.php/v1/
-喵点影视,https://www.msdv.cn/xgapp.php/v1/
+var res={};var items=[];var detail=[];
+for(var i=0;i<分类.length;i++){
+    var 分类CODE=分类[i];
+    var 列表=e2Arr(分类CODE,列表规则);
+    var 标题=e2Rex(分类CODE,标题规则);
+    if(URL.search(/api\.php\/.+?\.vod/)!=-1){
+       var PARSE=e2Rex(分类CODE,".json(player_info).json(parse)").split(",");
+       var PARSE2=e2Rex(分类CODE,".json(player_info).json(parse2)").split(",");
+       var 总接口=PARSE.concat(PARSE2).filter(item => item.search(/\/.+\?.+=/)!=-1);
+       var 过滤规则=[
+/jx\.+huimaojia\.+com\/player/,/py\.+789pan\.+cn\/player\/tm\.php\?url=/,/ztys\.+waruanzy\.+com\/player\/\?url=/,/yingshi\.+waruanzy\.+com\/789pan\/\?url=/,/vip\.+parwix\.+com:4433\/player\/\?url=/,/api\.+cxitco\.+cn/,/\/vip\.+renrenmi.cc/,/yanbing\.+parwix\.+com:4433\/player/,/json\.+cantin\.+cc\/apijson\.php/,/ffdm\.+miaoletv\.+com\/\?url=/,/vip\.+sylwl\.+cn\/api\/\?key=/,/jx\.+dikotv\.+com\/\?url=/,/zly\.+xjqxz\.+top\/player\/\?url=/,/5znn\.+xyz\/m3u8\.+php/,/uid=1735&my=/,/api\.+xkvideo\.+design\/m3u8\.+php\?url=/,/保佑/
+];
+       var 可用接口=总接口.filter(function (text) {return !过滤规则.some(function (regex) {return regex.test(text);});});
+       if(JSON.stringify(可用接口).indexOf("=")!=-1){
+          if(可用接口[0].indexOf("http")!=-1){
+          var 接口=可用接口[0].match(/.*(url|v|vid|php\?id)=/)[0].replace("..",".").replace("vip.aotian.love","vip.gaotian.love");
+          }else if(可用接口[0].indexOf("//")!=-1){
+          var 接口="http:"+可用接口[0].match(/\/\/.*(url|v|vid|php\?id)=/)[0].replace("..",".");
+          }else{
+          var 接口=URL.match(/https?:\/\/[^\/]*/)[0]+可用接口[0].match(/\/.*(url|v|vid|php\?id)=/)[0].replace("..",".");
+          }
+       }else{
+       var 接口="http://egwang186.gitee.io/?url=";
+       }
+    }else if(URL.indexOf("api.php/app/")!=-1||URL.indexOf("xgapp.php/v1/")!=-1){
+      var 接口=e2Rex(分类CODE,".json(parse_api)");
+      if(接口.indexOf("jpg.hou.lu/jm/za/index.php")!=-1){
+      var 接口="http://vip.mengx.vip/home/api?type=ys&uid=3249696&key=aefqrtuwxyEFHKNOQY&url=";
+      }
+    }else{
+    var 接口=URL;
+    }
+    if(接口.indexOf("svip.jhyun.jx.cn:1234")!=-1||接口.indexOf("svip.jhdyw.vip:3456")!=-1){
+        if(标题.indexOf("人人")!=-1){
+            接口="https://api.gaotian.love/lgjson.php?url=";
+        }else if(标题.indexOf("番茄")!=-1){
+            接口="https://api.gaotian.love/lgjson.php?url=";
+        }else{
+            接口="https://api.m3u8.tv:5678/home/api?type=ys&uid=233711&key=bgjnopvDHPUY035689&url=";
+        }
+    }else if(接口.indexOf("jhsj.manduhu.com")!=-1){
+       接口="https://api.m3u8.tv:5678/home/api?type=ys&uid=233711&key=bgjnopvDHPUY035689&url=";
+    }
+    var LIST=[];
+    for(var j=0;j<列表.length;j++){
+        var 选集=e2Rex(列表[j],选集规则);
+        var 选集地址=e2Rex(列表[j],选集地址规则);
+        if(URL.indexOf("xgapp.php/v1/")!=-1||URL.indexOf("api.php/app/")!=-1||URL.search(/api\.php\/.+?\.vod/)!=-1){
+           if(选集地址.indexOf(".m3u8")>20||选集地址.indexOf(".mp4")!=-1||选集地址.indexOf("/obj/tos")!=-1){
+           var 选集地址="https://www.baidu.com/s?wd="+选集地址;
+           }else{
+               if(接口.indexOf("/api/?type=app")!=-1||接口.indexOf("42.51.48.17/?url=")!=-1){
+               var 选集地址="https://www.baidu.com/s?wd="+接口+选集地址;
+               }else{
+               var 选集地址=接口+选集地址;
+               }
+           }
+        }else if(URL.search(/api\.php\/.*?\/vod/)!=-1){
+         if(URL.indexOf("ppzhu.vip")!=-1){
+           var 选集地址="https://www.baidu.com/s?wd="+选集地址+"&app=10003&account=272775028&password=qq272775028";
+         }else{
+           if(选集地址.indexOf("/api/?type=app")!=-1||选集地址.indexOf("42.51.48.17/?url=")!=-1||选集地址.indexOf(".m3u8")>20||选集地址.indexOf(".mp4")!=-1||选集地址.indexOf("/obj/tos")!=-1){
+           var 选集地址="https://www.baidu.com/s?wd="+选集地址;
+           }else if(选集地址.indexOf("=")==-1){
+           var 选集地址="https://api.m3u8.tv:5678/home/api?type=ys&uid=233711&key=bgjnopvDHPUY035689&url="+选集地址;
+           }else{
+           var 选集地址=选集地址;
+           }
+         }
+        }else if(选集地址.indexOf("http")!=-1){
+        var 选集地址=选集地址;
+        }else{
+        var 选集地址=接口+选集地址;
+        }
+        LIST.push({title:选集,url:选集地址});
+    }
+var play_={};
+play_.title=标题;
+play_.list=LIST;
+items.push(play_);
+}
+detail.push({desc:简介});
+res.data=items;
+res.desc=detail;
+return JSON.stringify(res);
+}
