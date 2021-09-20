@@ -179,7 +179,7 @@
         },
         {
         "title":"追剧达人",
-        "url":"http://vipmv.tv/api.php/app/",
+        "url":"http://vipmv.tv/xgapp.php/v1/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/追剧达人.png",
         "murl":"q:APP影视"
         }

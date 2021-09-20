@@ -34,7 +34,7 @@
     小龟视频=https://ys.80tvs.cn/api.php/app/
     小易影视=https://xy.irop.cn/api.php/app/
     影视工场=https://www.ik4.cc/api.php/app/
-    追剧达人=http://vipmv.tv/api.php/app/
+    追剧达人=http://vipmv.tv/xgapp.php/v1/
     "},
     {
     "title":"APP影视(v1)",
