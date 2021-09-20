@@ -419,15 +419,15 @@ if(version==NewVersion&&sign==appSign&&name==appName){
         var CODE=getHttp(JSON.stringify({url:前缀+"?level=9"}));
     }
     while(CODE.indexOf("http")==-1){
-    随机=newArr[Math.floor(Math.random()*newArr.length)];
-    随机网址=e2Rex(随机,".json(url)");
-    if(随机网址.search(/api\.php\/app/)!=-1){
-        前缀=随机网址;
-        CODE=getHttp(JSON.stringify({url:前缀+"advert?token=&position=2"}));
-    }else{
-        前缀=随机网址;
-        CODE=getHttp(JSON.stringify({url:前缀+"?level=9"}));
-    }
+        随机=newArr[Math.floor(Math.random()*newArr.length)];
+        随机网址=e2Rex(随机,".json(url)");
+        if(随机网址.search(/api\.php\/app/)!=-1){
+            前缀=随机网址;
+            CODE=getHttp(JSON.stringify({url:前缀+"advert?token=&position=2"}));
+        }else{
+            前缀=随机网址;
+            CODE=getHttp(JSON.stringify({url:前缀+"?level=9"}));
+        }
     }
     e2Rex(随机,".json(url)");
 }else{
