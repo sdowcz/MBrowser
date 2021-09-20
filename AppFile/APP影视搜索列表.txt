@@ -11,6 +11,7 @@
     BD电影=https://www.bddysf.com/api.php/app/
     播放呀=https://www.bofangya.com/api.php/app/
     畅视影视=http://app.reboju.net/api.php/app/
+    迪迪影院=http://dd88.icu:6080/api.php/app/
     嘀哩嘀哩=https://diliktv.xyz/xgapp.php/v1/
     毒舌电影=https://www.dushe520.com/api.php/app/
     大师兄=https://hou.lu/api.php/app/
