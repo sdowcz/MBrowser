@@ -303,22 +303,22 @@ if(uu.indexOf("baidu.com")!=-1){
     "web="+uu;
 }
 ######搜索TAB列表
-var 原=getHttp(JSON.stringify({url:"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/APP影视列表"})).replace(/\s/g,"");
+var 原=getHttp(JSON.stringify({url:"https://egwang186.coding.net/p/egwang186/d/iptv/git/raw/master/js2.0/万物生-首页.txt"})).replace(/\s/g,"");
 var 分类=e2Arr(原,".json(data)");
 var res=[];
 for(var j=0;j<分类.length;j++){
-    var list={};
-    var 列表=e2Arr(分类[j],".json(list)");
-    var items=[];
-    for(var i=0;i<列表.length;i++){
-        var 标题=e2Rex(列表[i],".json(title)");
-        var 地址=e2Rex(列表[i],".json(url)");
-        items.push(标题+"="+列表[i]);
-    }
-    var 合并=items.join("\n");
-    var 分类标题=e2Rex(分类[j],".json(title)");
-    list.url=合并;list.title=分类标题;
-    res.push(list);
+var list={};
+var 列表=e2Arr(分类[j],".json(list)");
+var items=[];
+for(var i=0;i<列表.length;i++){
+var 标题=e2Rex(列表[i],".json(title)");
+var 地址=e2Rex(列表[i],".json(url)");
+items.push(标题+"="+列表[i]);
+}
+var 合并=items.join("\n");
+var 分类标题=e2Rex(分类[j],".json(title)");
+list.url=合并;list.title=分类标题;
+res.push(list);
 }
 JSON.stringify(res);
 ######搜索地址
