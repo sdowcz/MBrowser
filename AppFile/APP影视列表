@@ -697,6 +697,12 @@
         "murl":"q:TV影视"
         },
         {
+        "title":"尘梓TV",
+        "url":"http://139.155.177.213/api.php/iptv/vod/",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/尘梓TV.png",
+        "murl":"q:TV影视"
+        },
+        {
         "title":"稻草人TV",
         "url":"http://www.zhaikanys.xyz/api.php/iptv1/vod/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/稻草人TV.png",

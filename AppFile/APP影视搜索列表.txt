@@ -124,6 +124,7 @@
     19影视=http://ysiptv.19jx.vip/api.php/iptv/vod/
     2号币影院=http://phoebe.cf/api.php/iptv/vod/
     V影视=http://www.ppzhu.vip/api.php/Chengcheng/vod/
+    尘梓TV=http://139.155.177.213/api.php/iptv/vod/
     稻草人TV=http://www.zhaikanys.xyz/api.php/iptv1/vod/
     大师兄影视=http://dsxtv.tv.ci/api.php/dsx/vod/
     黑龙影视=http://vip.ji-ding-he.site/api.php/iptv/vod/
