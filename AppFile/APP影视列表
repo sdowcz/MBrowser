@@ -679,12 +679,6 @@
     "title":"TV影视",
     "list":[
         {
-        "title":"19影视",
-        "url":"http://ysiptv.19jx.vip/api.php/iptv/vod/",
-        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/19影视.png",
-        "murl":"q:TV影视"
-        },
-        {
         "title":"2号币",
         "url":"http://phoebe.cf/api.php/iptv/vod/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/2号币影院.png",

@@ -128,7 +128,6 @@
     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/293影院.png",
     "murl":"q:TV影视搜索",
     "list":"
-    19影视=http://ysiptv.19jx.vip/api.php/iptv/vod/
     2号币=http://phoebe.cf/api.php/iptv/vod/
     V影视=http://www.ppzhu.vip/api.php/Chengcheng/vod/
     尘梓TV=http://139.155.177.213/api.php/iptv/vod/
