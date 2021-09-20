@@ -95,7 +95,11 @@ var URL=getVar("url");
 function 选集列表(){
 var res={};var items=[];var detail=[];
 for(var i=0;i<分类.length;i++){
-    var 分类CODE=分类[i];
+    if(URL.indexOf(".vod/")!=-1||URL.indexOf("api.php/app/")!=-1||URL.indexOf("xgapp.php/v1")!=-1){
+        var 分类CODE=JSON.stringify(分类[i]);
+    }else{
+        var 分类CODE=分类[i];
+    }
     var 列表=e2Arr(分类CODE,列表规则);
     var 标题=e2Rex(分类CODE,标题规则);
     if(URL.search(/api\.php\/.+?\.vod/)!=-1){
