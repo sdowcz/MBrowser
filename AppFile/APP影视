@@ -328,7 +328,7 @@ if(sign==appSign||sign==kanjuSign){
 }
 ######搜索词
 var URL=getVar("urls");
-if(URL.indexOf("0818tv")!=-1||URL.indexOf("diyoui")!=-1||URL.indexOf("diliktv")!=-1||URL.indexOf("ppzhu")!=-1||URL.indexOf("aitesucai")!=-1||URL.indexOf("zz.ci")!=-1||URL.indexOf("chxjon")!=-1||URL.indexOf("watchmi")!=-1||URL.indexOf("vipbp")!=-1||URL.indexOf("wsba")!=-1||URL.indexOf("xfykl")!=-1){
+if(URL.indexOf("521x5")!=-1||URL.indexOf("lxyyy")!=-1||URL.indexOf("0818tv")!=-1||URL.indexOf("diyoui")!=-1||URL.indexOf("diliktv")!=-1||URL.indexOf("ppzhu")!=-1||URL.indexOf("aitesucai")!=-1||URL.indexOf("zz.ci")!=-1||URL.indexOf("chxjon")!=-1||URL.indexOf("watchmi")!=-1||URL.indexOf("vipbp")!=-1||URL.indexOf("wsba")!=-1||URL.indexOf("xfykl")!=-1){
     "wd";
 }else{
     "zm";
