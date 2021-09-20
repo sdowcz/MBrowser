@@ -411,7 +411,7 @@ if(version==NewVersion&&sign==appSign&&name==appName){
     var newArr=分类.filter(item=>item.indexOf("api.php/app")!=-1||item.search(/api.php\/.*?\.vod/)!=-1);
     var 随机=newArr[Math.floor(Math.random()*newArr.length)];
     var 随机网址=e2Rex(随机,".json(url)");
-    if(随机网址.search(/api\.php\/app/)!=-1){
+    if(随机网址.search(/api\.php\/app/)!=-1||随机网址.search("xgapp.php/v1")!=-1){
         var 前缀=随机网址;
         var CODE=getHttp(JSON.stringify({url:前缀+"advert?token=&position=2"}));
     }else{
