@@ -7,6 +7,7 @@
     "list":"
     007影视=https://www.007ts.cc/api.php/app/
     555电影=http://w7tv.com/api.php/app/
+    5060影院=https://app.linzhiyuan.xyz/xgapp.php/v1/
     913E影视=http://www.913e.net/api.php/app/
     BD电影=https://www.bddysf.com/api.php/app/
     COKEMV=https://cokemv.me/xgapp.php/v1/
