@@ -155,6 +155,9 @@ for(var i=0;i<分类.length;i++){
         }else if(URL.search(/api\.php\/.*?\/vod/)!=-1){
          if(URL.indexOf("ppzhu.vip")!=-1){
            var 选集地址="https://www.baidu.com/s?wd="+选集地址+"&app=10003&account=272775028&password=qq272775028";
+        }else if(选集地址.indexOf("www.zhaikanys.com/293jx1.php?url=")!=-1){
+            var 切割地址=uu.split("url=")[1];
+            var 选集地址="http://www.zhaikanys.com/jx.php?url="+切割地址;
          }else{
            if(选集地址.indexOf("/api/?type=app")!=-1||选集地址.indexOf("42.51.48.17/?url=")!=-1||选集地址.indexOf(".m3u8")>20||选集地址.indexOf(".mp4")!=-1||选集地址.indexOf("/obj/tos")!=-1){
            var 选集地址="https://www.baidu.com/s?wd="+选集地址;
@@ -182,33 +185,37 @@ res.desc=detail;
 return JSON.stringify(res);
 }
 if(URL.indexOf("api.php/app/")!=-1){
-var 分类=e2Arr(getVar("源码"),".json(data).json(vod_url_with_player)");
-var 简介=e2Rex(getVar("源码"),".json(data).json(vod_content)");
-var 列表规则=".json(url).ct(#).z(.*?\\$.*?#)";
-var 标题规则=".json(name)";
-var 选集规则=".z2(\\\(.+?\\\)\\$)";
-var 选集地址规则=".z2(\\$\\\(.+?\\\)[#|\"])";选集列表();
+    var 分类=e2Arr(getVar("源码"),".json(data).json(vod_url_with_player)");
+    var 简介=e2Rex(getVar("源码"),".json(data).json(vod_content)");
+    var 列表规则=".json(url).ct(#).z(.*?\\$.*?#)";
+    var 标题规则=".json(name)";
+    var 选集规则=".z2(\\\(.+?\\\)\\$)";
+    var 选集地址规则=".z2(\\$\\\(.+?\\\)[#|\"])"
+    ;选集列表();
 }else if(URL.indexOf("xgapp.php/v1/")!=-1){
-var 分类=e2Arr(getVar("源码"),".json(data).json(vod_info).json(vod_url_with_player)");
-var 简介=e2Rex(getVar("源码"),".json(data).json(vod_info).json(vod_content)");
-var 列表规则=".json(url).ct(#).z(.*?\\$.*?#)";
-var 标题规则=".json(name)";
-var 选集规则=".z2(\\\(.+?\\\)\\$)";
-var 选集地址规则=".z2(\\$\\\(.+?\\\)[#|\"])";选集列表();
+    var 分类=e2Arr(getVar("源码"),".json(data).json(vod_info).json(vod_url_with_player)");
+    var 简介=e2Rex(getVar("源码"),".json(data).json(vod_info).json(vod_content)");
+    var 列表规则=".json(url).ct(#).z(.*?\\$.*?#)";
+    var 标题规则=".json(name)";
+    var 选集规则=".z2(\\\(.+?\\\)\\$)";
+    var 选集地址规则=".z2(\\$\\\(.+?\\\)[#|\"])"
+    ;选集列表();
 }else if(URL.search(/api\.php\/.+?\.vod/)!=-1){
-var 分类=e2Arr(getVar("源码"),".json(data).json(vod_play_list)");
-var 简介=e2Rex(getVar("源码"),".json(data).json(vod_content)");
-var 列表规则=".json(url).ct(#).z(.*?\\$.*?#)";
-var 标题规则=".json(player_info).json(show)";
-var 选集规则=".z2(\\\(.+?\\\)\\$)";
-var 选集地址规则=".z2(\\$\\\(.+?\\\)[#|\"])";选集列表();
+    var 分类=e2Arr(getVar("源码"),".json(data).json(vod_play_list)");
+    var 简介=e2Rex(getVar("源码"),".json(data).json(vod_content)");
+    var 列表规则=".json(url).ct(#).z(.*?\\$.*?#)";
+    var 标题规则=".json(player_info).json(show)";
+    var 选集规则=".z2(\\\(.+?\\\)\\$)";
+    var 选集地址规则=".z2(\\$\\\(.+?\\\)[#|\"])"
+    ;选集列表();
 }else if(URL.search(/api\.php\/.*?\/vod/)!=-1){
-var 分类=e2Arr(getVar("源码"),".json(videolist).z(\".*?\\])");
-var 简介=e2Arr(getVar("源码"),".json(intro)");
-var 列表规则=".z(\\{.*?\\})";
-var 标题规则=".z2(\"\\(.*?\\)\")";
-var 选集规则=".json(title)";
-var 选集地址规则=".json(url)";选集列表();
+    var 分类=e2Arr(getVar("源码"),".json(videolist).z(\".*?\\])");
+    var 简介=e2Arr(getVar("源码"),".json(intro)");
+    var 列表规则=".z(\\{.*?\\})";
+    var 标题规则=".z2(\"\\(.*?\\)\")";
+    var 选集规则=".json(title)";
+    var 选集地址规则=".json(url)"
+    ;选集列表();
 }
 ######免嗅探
 var uu=getVar("url");
