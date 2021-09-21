@@ -174,11 +174,11 @@ for(var i=0;i<分类.length;i++){
         }
         LIST.push({title:选集,url:选集地址});
     }
-var play_={};
-play_.title=标题;
-play_.list=LIST;
-items.push(play_);
-}
+    var play_={};
+    play_.title=标题;
+    play_.list=LIST;
+    items.push(play_);
+    }
 detail.push({desc:简介});
 res.data=items;
 res.desc=detail;
