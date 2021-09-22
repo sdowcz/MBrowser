@@ -10,7 +10,6 @@
     5060影院=https://app.linzhiyuan.xyz/xgapp.php/v1/
     913E影视=http://www.913e.net/api.php/app/
     BD电影=https://www.bddysf.com/api.php/app/
-    COKEMV=https://cokemv.me/xgapp.php/v1/
     播放呀=https://www.bofangya.com/xgapp.php/v1/
     畅视影视=http://app.reboju.net/api.php/app/
     点播TV=https://dbzy.cc/xgapp.php/v1/
