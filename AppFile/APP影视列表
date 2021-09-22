@@ -41,7 +41,7 @@
         },
         {
         "title":"播放呀",
-        "url":"https://www.bofangya.com/api.php/app/",
+        "url":"https://www.bofangya.com/xgapp.php/v1/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/播放呀.png",
         "murl":"q:APP影视"
         },
@@ -49,6 +49,12 @@
         "title":"畅视影视",
         "url":"http://app.reboju.net/api.php/app/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/畅视影视.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"点播TV",
+        "url":"https://dbzy.cc/xgapp.php/v1/",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/点播TV.png",
         "murl":"q:APP影视"
         },
         {
@@ -149,7 +155,7 @@
         },
         {
         "title":"萌蛋蛋",
-        "url":"http://app.mengdandan.com/api.php/app/",
+        "url":"http://app.mengdandan.com/xgapp.php/v1/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/萌蛋蛋.png",
         "murl":"q:APP影视"
         },

@@ -11,8 +11,9 @@
     913E影视=http://www.913e.net/api.php/app/
     BD电影=https://www.bddysf.com/api.php/app/
     COKEMV=https://cokemv.me/xgapp.php/v1/
-    播放呀=https://www.bofangya.com/api.php/app/
+    播放呀=https://www.bofangya.com/xgapp.php/v1/
     畅视影视=http://app.reboju.net/api.php/app/
+    点播TV=https://dbzy.cc/xgapp.php/v1/
     迪迪影院=http://dd88.icu:6080/api.php/app/
     嘀哩嘀哩=https://diliktv.xyz/xgapp.php/v1/
     毒舌电影=https://www.dushe520.com/api.php/app/
@@ -29,7 +30,7 @@
     蓝果影视=http://www.languotv.com/xgapp.php/v1/
     琳琅影视=https://www.u23c.com/api.php/app/
     极乐阁=https://vip.wuqcms.com/api.php/app/
-    萌蛋蛋=http://app.mengdandan.com/api.php/app/
+    萌蛋蛋=http://app.mengdandan.com/xgapp.php/v1/
     思古影视=https://app.siguyy.com/xgapp.php/v1/
     速搜影院=https://www.susou.tv/api.php/app/
     污妖动漫=https://www.wyydm.com/api.php/app/
