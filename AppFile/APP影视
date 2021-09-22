@@ -131,10 +131,10 @@ for(var i=0;i<分类.length;i++){
         }else if(标题.indexOf("番茄")!=-1){
             接口="https://api.gaotian.love/lgjson.php?url=";
         }else{
-            接口="https://api.m3u8.tv:5678/home/api?type=ys&uid=233711&key=bgjnopvDHPUY035689&url=";
+            接口="https://jx.parwix.com:4433/player/?url=";
         }
     }else if(接口.indexOf("jhsj.manduhu.com")!=-1){
-       接口="https://api.m3u8.tv:5678/home/api?type=ys&uid=233711&key=bgjnopvDHPUY035689&url=";
+       接口="https://jx.parwix.com:4433/player/?url=";
     }
     var LIST=[];
     for(var j=0;j<列表.length;j++){
