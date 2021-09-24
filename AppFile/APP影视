@@ -158,6 +158,9 @@ for(var i=0;i<分类.length;i++){
             }else if(选集地址.indexOf("www.zhaikanys.com/293jx1.php?url=")!=-1){
                 var 切割地址=选集地址.split("url=")[1];
                 var 选集地址="http://www.zhaikanys.com/jx.php?url="+切割地址;
+            }else if(选集地址.indexOf("syy.lxyyy.xyz/tianzhi/521.php?url=")!=-1){
+                var 切割地址=选集地址.split("url=")[1];
+                var 选集地址="https://jx.parwix.com:4433/player/?url="+切割地址;
             }else{
                 if(选集地址.indexOf("/api/?type=app")!=-1||选集地址.indexOf("42.51.48.17/?url=")!=-1||选集地址.indexOf(".m3u8")>20||选集地址.indexOf(".mp4")!=-1||选集地址.indexOf("/obj/tos")!=-1){
                     var 选集地址="https://www.baidu.com/s?wd="+选集地址;
