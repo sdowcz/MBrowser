@@ -31,8 +31,8 @@
         "title":"COKEMV",
         "url":"https://cokemv.me/xgapp.php/v1/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/COKEMV.png",
-            "murl":"q:APP影视"
-            },
+        "murl":"q:APP影视"
+        },
         {
         "title":"BD电影",
         "url":"https://www.bddysf.com/api.php/app/",
@@ -49,12 +49,6 @@
         "title":"畅视影视",
         "url":"http://app.reboju.net/api.php/app/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/畅视影视.png",
-        "murl":"q:APP影视"
-        },
-        {
-        "title":"点播TV",
-        "url":"https://dbzy.cc/xgapp.php/v1/",
-        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/点播TV.png",
         "murl":"q:APP影视"
         },
         {
