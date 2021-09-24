@@ -28,6 +28,12 @@
         "murl":"q:APP影视"
         },
         {
+        "title":"COKEMV",
+        "url":"https://cokemv.me/xgapp.php/v1/",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/COKEMV.png",
+            "murl":"q:APP影视"
+            },
+        {
         "title":"BD电影",
         "url":"https://www.bddysf.com/api.php/app/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/BD电影.png",
@@ -115,12 +121,6 @@
         "title":"江湖影视",
         "url":"http://app.jhdyw.vip:1234/api.php/app/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/江湖影视.png",
-        "murl":"q:APP影视"
-        },
-        {
-        "title":"极客",
-        "url":"https://www.i8k.cc/xgapp.php/v1/",
-        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/极客.png",
         "murl":"q:APP影视"
         },
         {
