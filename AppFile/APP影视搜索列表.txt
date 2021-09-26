@@ -10,6 +10,7 @@
     5060影院=https://app.linzhiyuan.xyz/xgapp.php/v1/
     913E影视=http://www.913e.net/api.php/app/
     BD电影=https://www.bddysf.com/api.php/app/
+    COKEMV=https://cokemv.me/xgapp.php/v1/
     播放呀=https://www.bofangya.com/xgapp.php/v1/
     畅视影视=http://app.reboju.net/api.php/app/
     点播TV=https://dbzy.cc/xgapp.php/v1/
@@ -91,6 +92,7 @@
     柠檬影视=https://tv.13nm.com/api.php/v1.vod
     奇趣影视=http://app.qiqu.me/mogai_api.php/v1.vod
     骑士影院=https://app.qishi.xyz/api.php/v1.vod
+    神马影视=http://xin.jjsvip.cc/mogai_api.php/v1.vod
     视听星球=http://zjyapijzys.shynwlkj.com/api.php/v1.vod
     手指影视=http://szys3355.com/mogai_api.php/v1.vod
     森之屋=http://91.208.236.96/api.php/v1.vod
@@ -112,18 +114,18 @@
     小蜻蜓=http://3ketv.com/mogai_api.php/v1.vod
     休闲影视=http://tv.78tv.cc/api.php/v1.vod
     星影相随=https://www.rootthree.top/api.php/v1.vod
-    星月影视=http://www.jjsvip.cc/mogai_api.php/v1.vod
     益达影院=http://luobu.yss6080.com/mogai_api.php/v1.vod
     元芳影视=http://yfys1122.com/mogai_api.php/v1.vod
     颖家影院=http://zly.xjqxz.top/api.php/v1.vod
     影视热剧=http://lb.26ys.cn/api.php/v1.vod
     杨桃影视=http://ytys1122.com/mogai_api.php/v1.vod
+    月色影视=http://69ty.cc/mogai_api.php/v1.vod
     优炫影视=http://yuntv.iyxtv.cn/mogai_api.php/v1.vod
+    优优影院=http://xs.78tv.cc/mogai_api.php/v1.vod
     渔渔影视=http://xc.45h.cn/api.php/v1.vod
     一只鱼=http://www.bd-4k.ml/api.php/v1.vod
     追番猫=http://dm.496dy.cn:88/api.php/v1.vod
     追剧吧=http://zhuijuba.vip/api.php/v1.vod
-    追剧人=http://zhuijuren.vip/api.php/v1.vod
     宅男影院=http://www.sexyy.top/api.php/v1.vod
     宅男影院=https://www.znyy666.top/api.php/v1.vod
     侦探影视=http://ys.huangguay.com/mogai_api.php/v1.vod

@@ -644,6 +644,12 @@
         "murl":"q:APP影视"
         },
         {
+        "title":"月色影视",
+        "url":"http://69ty.cc/mogai_api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/月色影视.png",
+        "murl":"q:APP影视"
+        },
+        {
         "title":"优炫影视",
         "url":"http://yuntv.iyxtv.cn/mogai_api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/优炫影视.png",
