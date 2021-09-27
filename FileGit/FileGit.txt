@@ -128,7 +128,7 @@
         "list":[
         {
         "name":"蓝资小站",
-        "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/蓝二/蓝资小站.mqz"
+        "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/蓝二/蓝资小站924.mqz"
         },
         {
         "name":"论坛轻站采集",
@@ -360,6 +360,10 @@
         "title":"唐牛才是食神",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/唐牛才是食神.png",
         "list":[
+        {
+        "name":"百漫谷吧",
+        "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/唐牛才是食神/百漫谷吧.mqz"
+        },
         {
         "name":"好漫6",
         "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/唐牛才是食神/好漫6.mqz"
@@ -833,6 +837,10 @@
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/嗨又是我.png",
         "list":[
         {
+        "name":"瓣影De.H",
+        "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/嗨又是我/瓣影De.H.mqz"
+        },
+        {
         "name":"EDD动漫.H",
         "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/嗨又是我/EDD动漫.H.mqz"
         },
@@ -867,6 +875,16 @@
         {
         "name":"文墨",
         "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/文墨/文墨.mqz"
+        }
+        ]
+        },
+        {
+        "title":"唯一",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/icon/唯一.png",
+        "list":[
+        {
+        "name":"图站.w",
+        "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/唯一/图站.w.mqz"
         }
         ]
         },
