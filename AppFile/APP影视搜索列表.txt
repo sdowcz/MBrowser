@@ -137,7 +137,6 @@
     "murl":"q:TV影视搜索",
     "list":"
     2号币=http://phoebe.cf/api.php/iptv/vod/
-    V影视=http://www.ppzhu.vip/api.php/Chengcheng/vod/
     尘梓TV=http://139.155.177.213/api.php/iptv/vod/
     稻草人TV=http://www.zhaikanys.xyz/api.php/iptv1/vod/
     嘀哩嘀哩=https://api.diliktv.xyz/api.php/Chengcheng/vod/
