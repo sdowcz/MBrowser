@@ -202,7 +202,7 @@
         },
         {
         "title":"80K影视",
-        "url":"http://1080p.tv/api.php/v1.vod",
+        "url":"https://1080p.tv/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/80K影视.png",
         "murl":"q:APP影视"
         },
