@@ -79,6 +79,7 @@
     懒猫电影=http://007.lanmaody.com/api.php/v1.vod
     蓝鲸视界=https://apps.vd5.cc/api.php/v1.vod
     绿箭影视=http://www.69ty.cc/mogai_api.php/v1.vod
+    乐看视频=http://www.lkan.vip/mogai_api.php/v1.vod
     冷视TV=https://len.tv/api.php/v1.vod
     木白影视=http://vapp.23at.cn/api.php/v1.vod
     麻瓜视频=http://myapp.maguays.cc/mogai_api.php/v1.vod

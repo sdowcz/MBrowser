@@ -405,6 +405,12 @@
         "murl":"q:APP影视"
         },
         {
+        "title":"乐看视频",
+        "url":"http://www.lkan.vip/mogai_api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/乐看视频.png",
+        "murl":"q:APP影视"
+        },
+        {
         "title":"冷视TV",
         "url":"https://len.tv/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/冷视TV.png",
