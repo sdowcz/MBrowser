@@ -71,6 +71,7 @@
     哈皮影视=https://0745yy.com/api.php/v1.vod
     核桃影视=http://app.hetaoys.vip/api.php/v1.vod
     红兔视频=https://www.hoto4.com/api.php/v1.vod
+    盒子影院=http://i.nihaohezi.com/api.php/v1.vod
     筋斗云=https://tv.jindcloud.com/api.php/v1.vod
     极简影视=https://tv.areone.top/api.php/v1.vod
     快播吧=http://www.hd8.pw/api.php/v1.vod
