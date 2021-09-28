@@ -103,7 +103,7 @@
         "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/InMemory/清风DJ.mqz"
         },
         {
-        "name":"九桃小说(富文本)",
+        "name":"九桃小说",
         "url":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/FileGit/qmFile/InMemory/九桃小说.mqz"
         }
         ]
