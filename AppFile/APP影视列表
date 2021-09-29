@@ -818,7 +818,7 @@
         },
         {
         "title":"小极TV",
-        "url":"http://tv.8d8q.com/api.php/iptv/vod/",
+        "url":"http://api.8d8q.com/mmv/api.php/Chengcheng/vod/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/小极TV.png",
         "murl":"q:TV影视"
         }
