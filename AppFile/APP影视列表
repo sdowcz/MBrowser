@@ -297,6 +297,12 @@
         "murl":"q:APP影视"
         },
         {
+        "title":"蝶众影院",
+        "url":"http://app.diezz.net/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/蝶众影院.png",
+        "murl":"q:APP影视"
+        },
+        {
         "title":"飞捷影视",
         "url":"http://www.fj6080.com/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/飞捷影视.png",

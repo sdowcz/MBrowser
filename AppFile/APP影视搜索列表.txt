@@ -61,6 +61,7 @@
     大熊追剧=http://www.dxzj88.com/mogai_api.php/v1.vod
     段友影视=http://jimmyzhao.top/api.php/v1.vod
     段友影视=https://ishangwo.top/api.php/v1.vod
+    蝶众影院=http://app.diezz.net/api.php/v1.vod
     飞捷影视=http://www.fj6080.com/api.php/v1.vod
     佛系追剧=http://foxi.kk06.top/mogai_api.php/v1.vod
     公主影视=http://mm.tcsdchina.com:6096/mogai_api.php/v1.vod
