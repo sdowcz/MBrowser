@@ -4,12 +4,6 @@
     "title":"APP影视",
     "list":[
         {
-        "title":"007影视",
-        "url":"https://www.007ts.cc/api.php/app/",
-        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/零零七影视.png",
-        "murl":"q:APP影视"
-        },
-        {
         "title":"555电影",
         "url":"http://w7tv.com/api.php/app/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/555电影.png",
@@ -142,6 +136,12 @@
         "murl":"q:APP影视"
         },
         {
+        "title":"氢视频",
+        "url":"http://h1080p.com/api.php/app/",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/氢视频.png",
+        "murl":"q:APP影视"
+        },
+        {
         "title":"思古影视",
         "url":"https://app.siguyy.com/xgapp.php/v1/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/思古影视.png",
@@ -151,12 +151,6 @@
         "title":"污妖动漫",
         "url":"https://www.wyydm.com/api.php/app/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/污妖动漫.png",
-        "murl":"q:APP影视"
-        },
-        {
-        "title":"小龟视频",
-        "url":"https://ys.80tvs.cn/api.php/app/",
-        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/小龟视频.png",
         "murl":"q:APP影视"
         },
         {
