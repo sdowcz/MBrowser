@@ -452,6 +452,12 @@
         "murl":"q:APP影视"
         },
         {
+        "title":"麻子追剧",
+        "url":"http://app.2maz.cn/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/麻子追剧.png",
+        "murl":"q:APP影视"
+        },
+        {
         "title":"南府追剧",
         "url":"http://app.xkvideo.design/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/南府追剧.png",
@@ -623,6 +629,12 @@
         "title":"星影相随",
         "url":"https://www.rootthree.top/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/星影相随.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"小易影视",
+        "url":"http://xy.irop.cn/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/小易影视.png",
         "murl":"q:APP影视"
         },
         {

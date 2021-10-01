@@ -85,6 +85,7 @@
     麻腾TV=http://www.matengtv.top/api.php/v1.vod
     喵乐影视=http://miaoleys.com/api.php/v1.vod
     喵影影视=http://www.mxmbk.xyz/api.php/v1.vod
+    麻子追剧=http://app.2maz.cn/api.php/v1.vod
     南府追剧=http://app.xkvideo.design/api.php/v1.vod
     暖光影视=https://app.bl210.com/api.php/v1.vod
     美剧虫=https://meijuchong.com/api.php/v1.vod
@@ -114,6 +115,7 @@
     小蜻蜓=http://3ketv.com/mogai_api.php/v1.vod
     休闲影视=http://tv.78tv.cc/api.php/v1.vod
     星影相随=https://www.rootthree.top/api.php/v1.vod
+    小易影视=http://xy.irop.cn/api.php/v1.vod
     益达影院=http://luobu.yss6080.com/mogai_api.php/v1.vod
     元芳影视=http://yfys1122.com/mogai_api.php/v1.vod
     颖家影院=http://zly.xjqxz.top/api.php/v1.vod
