@@ -4,6 +4,12 @@
     "title":"APP影视",
     "list":[
         {
+        "title":"007影视",
+        "url":"https://www.007ts.cc/api.php/app/",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/007影视.png",
+        "murl":"q:APP影视"
+        },
+        {
         "title":"555电影",
         "url":"http://w7tv.com/api.php/app/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/555电影.png",
