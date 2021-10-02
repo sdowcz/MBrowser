@@ -28,6 +28,12 @@
         "murl":"q:APP影视"
         },
         {
+        "title":"BD电影",
+        "url":"https://www.bddysf.org/api.php/app/",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/BD电影.png",
+        "murl":"q:APP影视"
+        },
+        {
         "title":"COKEMV",
         "url":"https://cokemv.me/xgapp.php/v1/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/COKEMV.png",
@@ -175,6 +181,12 @@
         "title":"追剧达人",
         "url":"http://vipmv.tv/xgapp.php/v1/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/追剧达人.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"猪猪影院",
+        "url":"https://www.zzyingyuan.com/api.php/app/",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/猪猪影院.png",
         "murl":"q:APP影视"
         }
     ]
@@ -737,6 +749,12 @@
         "title":"追影兔",
         "url":"http://longw.xyz:91/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/追影兔.png",
+        "murl":"q:APP影视"
+        },
+        {
+        "title":"猪猪影院",
+        "url":"http://app.2zdyy.com/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/猪猪影院.png",
         "murl":"q:APP影视"
         }
     ]

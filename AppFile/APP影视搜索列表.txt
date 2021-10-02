@@ -9,6 +9,7 @@
     555电影=http://w7tv.com/api.php/app/
     5060影院=https://app.linzhiyuan.xyz/xgapp.php/v1/
     913E影视=http://www.913e.net/api.php/app/
+    BD电影=https://www.bddysf.org/api.php/app/
     COKEMV=https://cokemv.me/xgapp.php/v1/
     播放呀=https://www.bofangya.com/xgapp.php/v1/
     畅视影视=http://app.reboju.net/api.php/app/
@@ -34,6 +35,7 @@
     小易影视=https://xy.irop.cn/api.php/app/
     影视工场=https://www.ik4.cc/api.php/app/
     追剧达人=http://vipmv.tv/xgapp.php/v1/
+    猪猪影院=https://www.zzyingyuan.com/api.php/app/
     "},
     {
     "title":"APP影视(v1)",
@@ -133,6 +135,7 @@
     宅男影院=https://www.znyy666.top/api.php/v1.vod
     侦探影视=http://ys.huangguay.com/mogai_api.php/v1.vod
     追影兔=http://longw.xyz:91/api.php/v1.vod
+    猪猪影院=http://app.2zdyy.com/api.php/v1.vod
     "},
     {
     "title":"TV影视",
