@@ -183,6 +183,12 @@
     "title":"APP影视(v1)",
     "list":[
         {
+        "title":"红牛影视",
+        "url":"http://cmm.218rcw.cn/api.php/gctvapi.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/红牛影视.png",
+        "murl":"q:APP影视"
+        },
+        {
         "title":"555TV",
         "url":"http://gxhshyy.com/api.php/gctvapi.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/555TV.png",

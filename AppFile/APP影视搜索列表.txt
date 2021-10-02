@@ -40,6 +40,7 @@
     "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/南府追剧.png",
     "murl":"q:APP影视(v1)搜索",
     "list":"
+    红牛影视=http://cmm.218rcw.cn/api.php/gctvapi.vod
     555TV=http://gxhshyy.com/api.php/gctvapi.vod
     80影视=http://www.ccc8.net/api.php/v1.vod
     80K影视=https://1080p.tv/api.php/v1.vod
