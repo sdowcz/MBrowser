@@ -160,6 +160,12 @@
         "murl":"q:APP影视"
         },
         {
+        "title":"糖果影视",
+        "url":"https://app.siguyy.com/xgapp.php/v1/",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/糖果影视.png",
+        "murl":"q:APP影视"
+        },
+        {
         "title":"污妖动漫",
         "url":"https://www.wyydm.com/api.php/app/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/污妖动漫.png",

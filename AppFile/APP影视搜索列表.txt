@@ -29,8 +29,9 @@
     琳琅影视=https://www.u23c.com/api.php/app/
     极乐阁=https://vip.wuqcms.com/api.php/app/
     萌蛋蛋=http://app.mengdandan.com/xgapp.php/v1/
-    思古影视=https://app.siguyy.com/xgapp.php/v1/
     氢视频=http://h1080p.com/api.php/app/
+    思古影视=https://app.siguyy.com/xgapp.php/v1/
+    糖果影视=https://www.tgys.tv/api.php/app/
     污妖动漫=https://www.wyydm.com/api.php/app/
     小易影视=https://xy.irop.cn/api.php/app/
     影视工场=https://www.ik4.cc/api.php/app/
