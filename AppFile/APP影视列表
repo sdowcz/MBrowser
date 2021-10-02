@@ -680,6 +680,12 @@
         "murl":"q:APP影视"
         },
         {
+        "title":"优全影视",
+        "url":"https://app.xmyun.xyz/api.php/v1.vod",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/优全影视.png",
+        "murl":"q:APP影视"
+        },
+        {
         "title":"影视热剧",
         "url":"http://lb.26ys.cn/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/影视热剧.png",
@@ -850,6 +856,12 @@
         "title":"影酷TV",
         "url":"http://zy.pxun.top/api.php/iptv/vod/",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/影酷TV.png",
+        "murl":"q:TV影视"
+        },
+        {
+        "title":"小极TV",
+        "url":"http://api.8d8q.com/mmv/api.php/Chengcheng/vod/",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/小极TV.png",
         "murl":"q:TV影视"
         }
     ]
