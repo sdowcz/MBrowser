@@ -60,7 +60,7 @@
     段友影视=http://jimmyzhao.top/api.php/v1.vod
     段友影视=https://ishangwo.top/api.php/v1.vod
     蝶众影院=http://app.diezz.net/api.php/v1.vod
-    飞捷影视=http://www.fj6080.com/api.php/v1.vod
+    飞捷影视=https://www.fj6080.com/api.php/v1.vod
     佛系追剧=http://foxi.kk06.top/mogai_api.php/v1.vod
     公主影视=http://mm.tcsdchina.com:6096/mogai_api.php/v1.vod
     辉哥影视=https://app.y.hgyule8.com/api.php/v1.vod
@@ -103,7 +103,7 @@
     天天影视=https://www.tiantianys8.com/api.php/v1.vod
     团夕影院=http://119.29.121.48/api.php/v1.vod
     兔子窝=http://cj.huimaojia.com:12345/mogai_api.php/v1.vod
-    我爱电影=http://v.5imv.cc/api.php/v1.vod
+    我爱电影=http://app.5imv.cc/api.php/v1.vod
     我爱跟剧=http://www.52gen.com/api.php/v1.vod
     吾爱影视=http://app.5lp.net/api.php/v1.vod
     蜗牛看鸭=http://movie.wokewu.cn/api.php/v1.vod
