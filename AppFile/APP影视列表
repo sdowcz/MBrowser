@@ -681,7 +681,7 @@
         },
         {
         "title":"优全影视",
-        "url":"https://app.xmyun.xyz/mogai_api.php/v1.vod",
+        "url":"https://app.xmyun.xyz/api.php/v1.vod",
         "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/优全影视.png",
         "murl":"q:APP影视"
         },
